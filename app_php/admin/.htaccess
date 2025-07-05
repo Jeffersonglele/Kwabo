@@ -1,0 +1,52 @@
+# Empêcher l'accès direct aux fichiers PHP
+Options -Indexes
+
+# Protéger contre les attaques XSS et autres
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-Content-Type-Options "nosniff"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header set Content-Security-Policy "default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' https: data:;"
+</IfModule>
+
+# Limiter les méthodes HTTP autorisées
+<LimitExcept GET POST>
+    Order deny,allow
+    Deny from all
+</LimitExcept>
+
+# Protection contre les injections SQL et autres attaques
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Bloquer les méthodes HTTP dangereuses
+    RewriteCond %{REQUEST_METHOD} ^(HEAD|TRACE|DELETE|TRACK|DEBUG) [NC]
+    RewriteRule ^(.*)$ - [F,L]
+    
+    # Bloquer l'accès aux fichiers sensibles
+    RewriteRule ^(\.htaccess|\.htpasswd|\.git|\.env|composer\.json|composer\.lock)$ - [F,L]
+</IfModule>
+
+# Désactiver l'affichage du contenu des répertoires
+Options -Indexes
+
+# Protection des fichiers sensibles
+<FilesMatch "^(\.htaccess|\.htpasswd|\.git|\.env|composer\.json|composer\.lock)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Protection supplémentaire pour les fichiers PHP
+<FilesMatch "\.php$">
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+    Allow from ::1
+</FilesMatch>
+
+# Autoriser uniquement login.php
+<Files "login.php">
+    Order Allow,Deny
+    Allow from all
+</Files> 

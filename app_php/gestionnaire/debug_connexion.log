@@ -1,0 +1,2342 @@
+[2025-06-22 16:59:46] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 16:59:46] Méthode HTTP: GET
+[2025-06-22 17:00:16] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:00:16] Méthode HTTP: GET
+[2025-06-22 17:01:35] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:01:35] Méthode HTTP: GET
+[2025-06-22 17:01:53] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:01:53] Méthode HTTP: GET
+[2025-06-22 17:02:08] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:02:08] Méthode HTTP: GET
+[2025-06-22 17:06:23] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:06:23] Méthode HTTP: GET
+[2025-06-22 17:06:41] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 17:06:41] Méthode HTTP: POST
+[2025-06-22 17:06:41] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-22 17:06:41] Email traité: akadimadina0@gmail.com
+[2025-06-22 17:06:41] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-22 17:06:41] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-22 17:06:41] Utilisateur trouvé dans la base de données
+[2025-06-22 17:06:41] Vérification du mot de passe...
+[2025-06-22 17:06:41] Mot de passe correct
+[2025-06-22 17:06:41] Compte validé avec succès, connexion en cours...
+[2025-06-22 18:58:55] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 18:58:55] Méthode HTTP: GET
+[2025-06-22 18:59:08] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 18:59:08] Méthode HTTP: POST
+[2025-06-22 18:59:08] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-22 18:59:08] Email traité: akadimadina0@gmail.com
+[2025-06-22 18:59:08] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-22 18:59:09] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-22 18:59:09] Utilisateur trouvé dans la base de données
+[2025-06-22 18:59:09] Vérification du mot de passe...
+[2025-06-22 18:59:09] Mot de passe correct
+[2025-06-22 18:59:09] Compte validé avec succès, connexion en cours...
+[2025-06-22 19:00:16] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 19:00:16] Méthode HTTP: GET
+[2025-06-22 19:00:20] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 19:00:20] Méthode HTTP: POST
+[2025-06-22 19:00:20] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-22 19:00:20] Email traité: akadimadina0@gmail.com
+[2025-06-22 19:00:20] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-22 19:00:20] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-22 19:00:20] Utilisateur trouvé dans la base de données
+[2025-06-22 19:00:20] Vérification du mot de passe...
+[2025-06-22 19:00:20] Mot de passe correct
+[2025-06-22 19:00:20] Compte validé avec succès, connexion en cours...
+[2025-06-22 20:21:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 20:21:04] Méthode HTTP: GET
+[2025-06-22 20:21:06] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-22 20:21:06] Méthode HTTP: POST
+[2025-06-22 20:21:06] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-22 20:21:06] Email traité: akadimadina0@gmail.com
+[2025-06-22 20:21:06] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-22 20:21:06] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-22 20:21:06] Utilisateur trouvé dans la base de données
+[2025-06-22 20:21:06] Vérification du mot de passe...
+[2025-06-22 20:21:07] Mot de passe correct
+[2025-06-22 20:21:07] Compte validé avec succès, connexion en cours...
+[2025-06-23 10:56:52] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 10:56:52] Méthode HTTP: GET
+[2025-06-23 10:57:00] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 10:57:00] Méthode HTTP: POST
+[2025-06-23 10:57:00] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 10:57:00] Email traité: akadimadina0@gmail.com
+[2025-06-23 10:57:00] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 10:57:00] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 10:57:00] Utilisateur trouvé dans la base de données
+[2025-06-23 10:57:00] Vérification du mot de passe...
+[2025-06-23 10:57:00] Mot de passe correct
+[2025-06-23 10:57:00] Compte validé avec succès, connexion en cours...
+[2025-06-23 10:57:28] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 10:57:28] Méthode HTTP: GET
+[2025-06-23 10:57:31] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 10:57:31] Méthode HTTP: POST
+[2025-06-23 10:57:31] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 10:57:31] Email traité: akadimadina0@gmail.com
+[2025-06-23 10:57:31] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 10:57:31] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 10:57:31] Utilisateur trouvé dans la base de données
+[2025-06-23 10:57:31] Vérification du mot de passe...
+[2025-06-23 10:57:31] Mot de passe correct
+[2025-06-23 10:57:31] Compte validé avec succès, connexion en cours...
+[2025-06-23 11:12:52] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 11:12:52] Méthode HTTP: GET
+[2025-06-23 11:12:54] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 11:12:54] Méthode HTTP: POST
+[2025-06-23 11:12:54] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 11:12:54] Email traité: akadimadina0@gmail.com
+[2025-06-23 11:12:54] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 11:12:54] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 11:12:54] Utilisateur trouvé dans la base de données
+[2025-06-23 11:12:54] Vérification du mot de passe...
+[2025-06-23 11:12:54] Mot de passe correct
+[2025-06-23 11:12:54] Compte validé avec succès, connexion en cours...
+[2025-06-23 12:24:50] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:24:50] Méthode HTTP: GET
+[2025-06-23 12:24:52] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:24:52] Méthode HTTP: POST
+[2025-06-23 12:24:52] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 12:24:52] Email traité: akadimadina0@gmail.com
+[2025-06-23 12:24:52] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 12:24:52] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 12:24:52] Utilisateur trouvé dans la base de données
+[2025-06-23 12:24:52] Vérification du mot de passe...
+[2025-06-23 12:24:53] Mot de passe correct
+[2025-06-23 12:24:53] Compte validé avec succès, connexion en cours...
+[2025-06-23 12:27:29] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:27:29] Méthode HTTP: GET
+[2025-06-23 12:27:33] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:27:33] Méthode HTTP: POST
+[2025-06-23 12:27:33] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 12:27:33] Email traité: akadimadina0@gmail.com
+[2025-06-23 12:27:33] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 12:27:33] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 12:27:33] Utilisateur trouvé dans la base de données
+[2025-06-23 12:27:33] Vérification du mot de passe...
+[2025-06-23 12:27:33] Mot de passe correct
+[2025-06-23 12:27:33] Compte validé avec succès, connexion en cours...
+[2025-06-23 12:32:02] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:32:02] Méthode HTTP: GET
+[2025-06-23 12:32:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 12:32:04] Méthode HTTP: POST
+[2025-06-23 12:32:04] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 12:32:04] Email traité: akadimadina0@gmail.com
+[2025-06-23 12:32:04] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 12:32:04] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 12:32:04] Utilisateur trouvé dans la base de données
+[2025-06-23 12:32:04] Vérification du mot de passe...
+[2025-06-23 12:32:04] Mot de passe correct
+[2025-06-23 12:32:04] Compte validé avec succès, connexion en cours...
+[2025-06-23 16:18:14] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 16:18:14] Méthode HTTP: GET
+[2025-06-23 16:18:16] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 16:18:16] Méthode HTTP: POST
+[2025-06-23 16:18:16] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 16:18:16] Email traité: akadimadina0@gmail.com
+[2025-06-23 16:18:16] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 16:18:17] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 16:18:17] Utilisateur trouvé dans la base de données
+[2025-06-23 16:18:17] Vérification du mot de passe...
+[2025-06-23 16:18:17] Mot de passe correct
+[2025-06-23 16:18:17] Compte validé avec succès, connexion en cours...
+[2025-06-23 18:36:36] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 18:36:36] Méthode HTTP: GET
+[2025-06-23 18:36:48] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 18:36:48] Méthode HTTP: POST
+[2025-06-23 18:36:48] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 18:36:48] Email traité: akadimadina0@gmail.com
+[2025-06-23 18:36:48] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 18:36:48] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 18:36:48] Utilisateur trouvé dans la base de données
+[2025-06-23 18:36:48] Vérification du mot de passe...
+[2025-06-23 18:36:49] Mot de passe correct
+[2025-06-23 18:36:49] Compte validé avec succès, connexion en cours...
+[2025-06-23 18:41:47] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 18:41:47] Méthode HTTP: GET
+[2025-06-23 18:41:49] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 18:41:49] Méthode HTTP: GET
+[2025-06-23 18:43:59] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 18:43:59] Méthode HTTP: GET
+[2025-06-23 19:09:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:09:04] Méthode HTTP: GET
+[2025-06-23 19:09:07] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:09:07] Méthode HTTP: POST
+[2025-06-23 19:09:07] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+)
+
+[2025-06-23 19:09:07] Email traité: akadimadina0@gmail.com
+[2025-06-23 19:09:07] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 19:09:07] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 19:09:07] Utilisateur trouvé dans la base de données
+[2025-06-23 19:09:07] Vérification du mot de passe...
+[2025-06-23 19:09:07] Mot de passe correct
+[2025-06-23 19:09:07] Compte validé avec succès, connexion en cours...
+[2025-06-23 19:11:30] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:11:30] Méthode HTTP: GET
+[2025-06-23 19:27:57] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:27:57] Méthode HTTP: GET
+[2025-06-23 19:28:11] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:28:11] Méthode HTTP: GET
+[2025-06-23 19:28:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:28:13] Méthode HTTP: GET
+[2025-06-23 19:28:31] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:28:31] Méthode HTTP: POST
+[2025-06-23 19:28:31] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-23 19:28:31] Email traité: akadimadina0@gmail.com
+[2025-06-23 19:28:31] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 19:28:31] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 19:28:31] Utilisateur trouvé dans la base de données
+[2025-06-23 19:28:31] Vérification du mot de passe...
+[2025-06-23 19:28:32] Mot de passe correct
+[2025-06-23 19:28:32] Compte validé avec succès, connexion en cours...
+[2025-06-23 19:29:09] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:29:09] Méthode HTTP: GET
+[2025-06-23 19:30:49] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:30:49] Méthode HTTP: GET
+[2025-06-23 19:30:59] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:30:59] Méthode HTTP: POST
+[2025-06-23 19:30:59] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4F7SNs1FDIDKEeR6JmWRnRDzDqzUmvFydmaXgw6ZCohX7D0PnJijGnbofwb2Bn7nAjPjGd_L0SsF0yW99-zaMTtkhp5O0yy-sxHdoVcQgCGebr-TJ4oRpdEpe_MW1ZHtTU6iEFxPVq6aLDjnPOU8vJqLBFZ9IBA0gGCIKpMwCkqwYVyuzan4HPmA-r8qAdTuvTyH3IMej7dlQPkSZSkoKIKOyBXH33Ih5l1h4cDD5OxHjRvdVuQjf5Kfd_jxLuoGl-vjbqHS7ciMFjNkxlnbjJCv18F17tL4mfvOLZiCSa8mQE_F9lqev1YEUaqEWW-KaL69IlGVcnEJ4PO8s5JOC4jQBCzJOrUPRoFrdyfIRDp9rLZ0bBkm2ywV1IM1gK6AFjTQbXPtxWSz6lJqG9Fy8BqwVqN6IMI6pR7wwbyFWN54-MPb47mo1sPpxMWDqvdhhdEzCkvP8Z7PfGR7dPaE3iQOlV106924cBha4W8RMij4EFdfhEEyVpB-3xrvV99yogLz7AwhdMVSp1nXfFGWimsVktEpPa3LbIh-p8rrxazGEMfNunWfeUkMXL9DNiE5afyhPF79PL-yPGOGkk32J-_GKoT-7jH807gxKI_K9_3cycKhm1j3IaI0NCCHFHex3ah1D1mvcoRRJ9ixZok_LQ05-LEcEH013jhj71abF0OzRIJbUmBNOW-y_ajtTCDhA-aRpbfzaOFHV9OLgFsOYsvHiODE0ewDlifuUJEPwBKFMkwE92qh-eKv4uvpG23kCnunZrWVFcsijbwJ1AZaF4Pan3XbbpaFaxMVqweLSvg5xgunw1E_lMf8QeKKNCxA784o5yH0yHxJZDX8_HK0cu9L4-8D8KnCqac04o23wlDjBRNdRFQ0MVEOd59z3-2EhZFfkUtzQT9i8M4r16NoTOR5Pw6gTRViBf0Pc8ms8VNclS5au68gK-LTbbaR95gKeZjm_WeoIEWrCfcPdVwJEnbqQ_bC1EDwbJOG-kC4mricVA57-_-GM47KzsY7rnEvIV_GwLclfcjx6KbmN6KqfSRKEdPcmgNIpT-BTkqQWueK33vvxyusT6p-3DouzKUbAXis6FlHxPnwJTEzuOSuPxOUlRGsPE_llZ0lkFnrjfWNLFGHoADQS8CaJ7YMK7Liu89TKh7NpeCNtSBXkqBs0fyH-OK2Mk785cp1kt58Dzpd4xWfljoy3d61h8xtyq8bjk3NacrPAgGgHx6uNcN22a7tYI9_rWlrstXlZrTzZvgW0bmzN2y9uVr-X19cw9K6HXZQfB72uCG08S0DFLf0qAHh9GRwZR2JqHQoOgrVmAmld3uExyX-FfzKb9BN5HTzrmlr6gU7jWjtdg5YqP9GFuAQe9tzANZGNwB6UoY6M-I6okqwkQbZdrnzBZqBOjljTIvLTf9573r3gLrCJyNA7fb3VDziydI9kDw8vl5Yd_dlD15Es7weRDwU8f-oB1-L9EOEXKHAx9DxG-0HuLdjdK3zSoi35wMGsw5NF8W58yuxqELAf57nWWAKmx7OiBNxyKmbhoXNFUH4xjD4mkhnfc-WjAZf6y_0bd441dld1z3Po2NmSZiBKyulUaMPS2dXowdfFUJ8BS7g-4HwCkHbPjHgYlTFHA4oOQyoohiU-mf06-vA02T6rDi5RzoBVvdowz-rHdVrbeLrBnjtRnLnaoL8umU9Qssbiv-JFwcLmvlNHrgasdw2V5KNokp-QFfpJZz3sLNTSlr9bir-3DWPl1qLaFTbjBHll83xhOyez435kA1GMbl3P3yQZEpxbslTaW3Wj5TTI36yn2usyDUb1TxFR8VjWuXZIe_1b50ACPyEBy-kx5zBNV53yZ78LE2583dJFk9l2g4hGWGEK8lP9ya0_JmSQJAMWxtEppocHh73mf9i0HAI9t4H6SQd07BI_jX4sb1w7FXfdfZp89jtFJB6qEnMIhRksYkerPJ-0eeliT-507W9x1BnBf5GbQXmSWOL4f9dN_koy5sVLLhxtHmAfcx0QRwQwHgD-XD8MoP1gVXVU
+)
+
+[2025-06-23 19:31:01] Email traité: akadimadina0@gmail.com
+[2025-06-23 19:31:01] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 19:31:01] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 19:31:01] Utilisateur trouvé dans la base de données
+[2025-06-23 19:31:01] Vérification du mot de passe...
+[2025-06-23 19:31:01] Mot de passe correct
+[2025-06-23 19:31:01] Compte validé avec succès, connexion en cours...
+[2025-06-23 19:31:06] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:31:06] Méthode HTTP: GET
+[2025-06-23 19:31:08] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:31:08] Méthode HTTP: POST
+[2025-06-23 19:31:08] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-23 19:31:09] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-23 19:33:42] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:33:42] Méthode HTTP: POST
+[2025-06-23 19:33:42] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-23 19:33:45] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-23 19:37:30] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:37:30] Méthode HTTP: POST
+[2025-06-23 19:37:30] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-23 19:37:32] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-23 19:37:36] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:37:36] Méthode HTTP: POST
+[2025-06-23 19:37:36] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-23 19:37:43] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-23 19:39:41] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-23 19:39:41] Méthode HTTP: POST
+[2025-06-23 19:39:41] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA58sWpBwffUTqsoSthYOPt8x_fFpg988hKTg2cbAB-iKMWTpyy5isq-03Wp3s6wf3FxgcRQF9WjeviuMHcZqrWSDKRA_6EDyKNsj4T_GpycQ9QNLdLxaZBZTBQ2bZQucW9xWskNJ6noAfwtWgVeSQIA0iW7zDlT2Hxmc2aiH5hwuT3v8ykrtD66gdk7skTRkfvV0I3H-gwx3BLG9W_ne7Y8BbxnKLHYuE13Y5HGzV5xJeKZmWz-irY_rYhdfNKcYPJpp9DxfKaTBhT6aCqMVXx3QoMOTVyZtMlJ68SY6nlzjvQ_787XjNtBeVq5oYWxMvcLAYC-r56T8Q-IQdSZDzvhLOytaReJHe7_WOFuIyyg4yHNubBGegBjAa99Izn0XaNGdtJzSPTPOEgfOG2_CAVKSEMAilAYfPThY9KoIYK6xt7D-hIKJvTWzelUP1IHV1uoZqZxMiRm0ntpmYDFcPa4zjoMzqU4zepCqow7M6qEdr4JwXH0Xrv_4oSk4tV3mYYj2ADA5mr6BLPsPOWdjDdr7G4RDjbSKi3T2LRfvkzVQW5A61U6Vb2g6KVrkm9Y3l8f21XSMozwJURwbb8mOE9Mdk8OQEdFwdbqxnHR-5-3Sx9-04zalp8-F26eGnzobMGHXSF47_oqE6qh3IdLP0NoHCQjxRxW3N1t5fdJoSaFIO0z0QdLDZD52Amx9IwtDESms3X5V5C4OS4brtOAvg9Pqiuo2BojGU-zceQIaK6ifa50nu_qslp2Qg_O-vXOMxZ_DiDem9bTecHUhC83iZIi0tNRIgPy343Vlmvl0pcls6s7u8KMTUNGccTqxP1tem3R4Mes68Mb2hrUiW8QEy1HiJcdcR4OKu7aWSinRbf89vIAFgtVpIrfmmxNmpfmxKo9YcqCZ4oehPGotfPwt8161z1pcu-_r7g26K5p3SlK8awfwqEo0o_JL3-Hc5pphPJJ1W4d6FxIe5fQ6IIAhWdmC7AKBlIM9eOvn5pcl-zMUP9JR7ABiVl-YpvPkNgt8Iz_QSiHZfAOyjLXhmHsUwMI1IrHvsEwPCymP5oj9uGLpYXJDzwUMOIkmsAyqskrWd5HEX_buroeaGy2u-K9Z4ytmFB9fqTn6efeRHbWrHLOKZTIAMHjkfh6wdGVa_QCIBIxgUF1PiD8KI9RgBV0LHc6XlGJjsI-ldlUwhJCOpV7gAzREhsEwVgPUnbVTaeXmW75nhNZZ7CEE7IDJFzz8JlMgsoImNQ3dp3XXFnwRWBnGff_Ftc0hvxeGaawf2ngkgDPPO1inpgRD7Ck1jzRiEq5TrQa3tkuqzsQ3_j3itzgJay6gPhT9yOtj2PI5sqogYliiHQZruUYxLfo2iQBifpa9oVAGRndz5xbqksaD62xsHwTUVOT4PQkU-HRqNydqPRBH-N2ja5Sy1xPO5eMWBTPcbq5xNgZPy-a52UDzzkaYJk0b62oiVbxDiVTQxVZ8kc-cRm-THNzo8f6XbNNRcCqTP9ZHQf03wsJiyREF4lx-he6_XtG6mOJvdR-n7s-f-fe81SqDYZqDqw1l8lUgKQlU6BJqpuo9G2Y8VTG6HE-Qv15drwG7F4IHUGstjm0QTvXM0fqFxczKF-dgFVXBwCjZrk6AmJ2f0AA0ZVvuiVSxkJv0_ahJ6eF1RQLCynWErrqd0Ki0j1vXXuGsUI2zkZ-pIDLK-mbajsXlZrdShXMoR_2jCMtyEnip13bY3xz7GiwYaQ8hDlVSX83tbtbVxz_APbpMAwDSIQ6fsku8wV3vOe8k1c21tfcO9TMEVjuDBDOq69OVszSk6rltlUNCgcMyl58XnVli64UsHsUMbAyGfpipYKTTrtc0qds8nRbD7hETBTniSimV_W6iiUPZqFCq4faXTaTq_KCJyceIL4F4mluIJ3C-b8syOf2o5GYQxR_O7ZGRP1p3g5nyqRUYdNboKKUQwm_jnn5DG0TP0pk_XJeLy2Xkr525280MkbiGeyNLf7SoPM1qoBLyV-0Tl7yQgHKmrnPUenbVX-MH2lLYFKxCEykc2YcLyAaoFwH8zGpmT7K
+)
+
+[2025-06-23 19:39:43] Email traité: akadimadina0@gmail.com
+[2025-06-23 19:39:43] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-23 19:39:43] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-23 19:39:43] Utilisateur trouvé dans la base de données
+[2025-06-23 19:39:43] Vérification du mot de passe...
+[2025-06-23 19:39:43] Mot de passe correct
+[2025-06-23 19:39:43] Compte validé avec succès, connexion en cours...
+[2025-06-24 09:38:12] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:38:12] Méthode HTTP: GET
+[2025-06-24 09:50:00] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:50:00] Méthode HTTP: GET
+[2025-06-24 09:50:24] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:50:24] Méthode HTTP: GET
+[2025-06-24 09:52:15] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:52:15] Méthode HTTP: GET
+[2025-06-24 09:54:02] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:54:02] Méthode HTTP: GET
+[2025-06-24 09:54:24] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:54:24] Méthode HTTP: GET
+[2025-06-24 09:54:53] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:54:53] Méthode HTTP: GET
+[2025-06-24 09:56:39] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 09:56:39] Méthode HTTP: GET
+[2025-06-24 10:01:12] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-24 10:01:12] Méthode HTTP: GET
+[2025-06-25 12:22:50] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 12:22:50] Méthode HTTP: GET
+[2025-06-25 12:23:06] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 12:23:06] Méthode HTTP: GET
+[2025-06-25 12:23:24] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 12:23:24] Méthode HTTP: GET
+[2025-06-25 12:24:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 12:24:13] Méthode HTTP: POST
+[2025-06-25 12:24:13] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-25 12:24:14] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-25 12:28:01] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 12:28:01] Méthode HTTP: GET
+[2025-06-25 13:13:22] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 13:13:22] Méthode HTTP: GET
+[2025-06-25 13:13:36] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 13:13:36] Méthode HTTP: POST
+[2025-06-25 13:13:36] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4tHm5td7BQ0lpBjZJObTaAykopFeFNZOHyiPLuMprBFwMmtiPNSKCUMo27giol9Sg1gU417NWiH_BFPMEGpN8vKMkU8sk5m6KJfbhqkoKtyPUs1ewCI9vAtHAOCVIYLju9mweA79fMmhzHuuna4lfoZzbVNKRdoVkquu-8W1SsMsZia6BwvFmOekCNAMal0i5_vH0xxQFhEenoz7_q5Mvgv_bgsdDqx-OL_ec2B5AvXQU2UPuvUii-mskgH0ya-ks0uAEUVxo3rbq-99cFeRBT4yyKfZkOaKWzHsbhTncgXHp6S8a9lT0OpZFRWpWFw3QdhGjxrC6VOKF9HkEAju_CNNqm7JPa54ngP7jN1vuaaLjq1mZEogRgdKunbA48o_3yLGgQ7qYPHEmrP1ee1Ox6BVsUdW5R5TnI9BpkWMbrYj0ZHHyVHFMqQ_hsRFH9BkpoB4czfa1wfLCRTEwpo6RP7PNhhKgL5XgmcLeuloervmQDWK4uCJ95ftIVg3CGpAZHjOfKF8FkkP5h5zWqJ1_7SB-PTzlyLc11rcuAHAXPexPQ4TfCnXF_C6jcNb_xHjIUelSZBPAqtUC7d58eNq-SJM4JDQMghIoeTG01wPvPlNIOoKkuJAMm81kalGLpuzBKERWNDPqN8FysYJv7IMMdUpswQASMY-tZdJLe8diitKbb3LpA5tyvOVKWITYZwPAlaoJbxxe6IXGb7iNM-CiBMTxCuUumzDf1xbhwuy6_XhCztoffJYM6P8DC-cyLaaJwMDLjlogHDwjPeSzXfQMtarZMnMT7Ub8lyHpp6CrxoScs61zKj9bXJcU0iUW8Igb9HrV5-D88rikP-fO09AoTb4TTf9k65HopfMZBGbmyqnqdAtZnIPRA_QnWOkBuS6Se3AReTHWVMgMAaykkb9kUp_rCfbE8QY0AjEcPyTRJBWHImRNtHj4iNGAorNCx9QsxtB2Q0z7HR69PWDbBTdu75bXOGgQNqm3YFPAG-AdG7OVTjg3CkWZQtJ7bixdXphpG_eldFbp9XvWKLH-pU32vEpFN1IvN0WVq13dcGKB2lf9C_lfC8rkFlJwYW61WAIq2dE78MQYCx5JqIPpzarEPqcttFtVOkcSadiuOW8MNr3_ch8gXOBSvEc0wSfAYtxCorp2BYx2_UD9mdb6Tz1hRhgdHzl8zKJdZwTuhdxw0-l59ZQQooWKAHCXZt0l_fY5NQvbnLYMHjiFHTow23RUyYIT3vMgzPLYax9y-dULGmabTGXydWEZg-c8qiMBa_EKIwThDFmTc0g3oWabKocK_4LDZumgBi8c1vUED3lHJRV3ejs550odZkm4iesLnFIFbjYjfAgPcBrOUkTTkE-uvB30w4redjAyjwiK5JljUJGoch93KjPzrjgiI9saDVVTKt7JwqSCmIoYdhv1kdeJVy8HG8_c5aCVLdJ58UJZHRXm0OZLt_4EcBFsmtwTVKK30Nbuz2_NqA7-UI6XYNGKKKvoboHjBen1knOlGTVBA2g1_bM1HueqFjgMiXkNWDmwx6kfFLS3RHMO1Zx68UnNsTAVzSyttVm6mkC3c9dJkn0p8n5Z-H5CPxh4a9WtlX5IImZKLLNojKVT3b0JvhbEXHGoWFE7vG6BCcAXZ0Wqfr_8wLUBZJYnow_h2Ghp1UkhWxQxgfKvnBCmwEUP5w0OVesvFhl8Gv8FuJzoBw-Keg49zTzAYOrVNBUQ47wrVBH527KyznKhnOBOIut38ILE-uhTSP_mar5ri0k5_gdyAwLtUOhWnJzYX_p3vBX8hsExsR_jfe2VlPY2iSXEQpkezhQAq6TGFE0c9oV3NDr_Sag1KPaW7VPczqOu1xM8okVw3JndcL02ey963MA2_msFVUkuXLPSkq1KVmlcc0lSfgdeYqSYimHyeXhXRb-z8kckKFy9ljuWwZFA9zN6qgCDH51PoRqnWuQEolbFtRZqNCtoVAXajImMNYvnPMuZZoEK5IlDvjOlPY-ZTkD8FmRaTGhvYjScXT52RbhyZAtQqFwEtjTI
+)
+
+[2025-06-25 13:13:37] Email traité: akadimadina0@gmail.com
+[2025-06-25 13:13:37] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-25 13:13:37] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-25 13:13:37] Utilisateur trouvé dans la base de données
+[2025-06-25 13:13:37] Vérification du mot de passe...
+[2025-06-25 13:13:37] Mot de passe correct
+[2025-06-25 13:13:37] Compte validé avec succès, connexion en cours...
+[2025-06-25 15:16:07] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 15:16:07] Méthode HTTP: GET
+[2025-06-25 18:06:27] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 18:06:27] Méthode HTTP: GET
+[2025-06-25 19:24:44] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 19:24:44] Méthode HTTP: GET
+[2025-06-25 19:24:58] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-25 19:24:58] Méthode HTTP: POST
+[2025-06-25 19:24:58] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5gyoN7xLXHoNr6cmxKnIptQaV9UsnLjG8lDwx2ghhSD3DtDSVUk6rpQkAl8XcafaGKRSj5b2Pi8j_cnJORGwtzUEoxdITdbMWXKmFFhmLKshS6SL8JQtbP5hDgj9K2u5ks5lavmoErnkbURUBvKsPEb1wkZo8TBR15pQDbhJOpXU_NRSb-7VQGCUkfsebS5_pjwgr45EdalpeMu7ir0PCHRMOgawPLGVfOqnsIAa_he0tCLIYTbiEgmrk7Rl3ISe5Amg1SfNmmqIzqduWYZ-XfYqQM6y_XWq8MIyQokk88NkhtJ-ORktVtaXVICmo7TG-MEPbH4NI2LV6iKCwuT2hxT2JCY2hLfM4Nl5cv51mQjkSQZwpA3AOxTSz91jFurXn5aILswOCMaFMNVIbW81CuwfRq9qeLICvLxLTBUiE5VMZ7ROEaFZw8PCNiIU6d6vGIoz-2m7I9AI3lne_kq0ltwAurAtcSz_uIglv-aQqZu_xsQqJfD1bbIsYEpvREukB1-PckOs3PChc3n_-PmcCxJU5zybfYk2xb0Nj4zEO4Q-rvh0t1ucmkBPXzynbCD0zFHeBUBK9dKdFXiwzVtly9Qusdsl9ruZGD3DpHHLIGLvlhTCYZ1s5UXTwo_mZGDVS1JJHP_ra6xD_M3ZBKAXMuiDxU3r0VbpssvBYtxkZc1qW_DGUZp59jCbOMEKg6irMlcDlmYHmgV64cyuArrRPlfzUkvusJ77dyMafYi88D_y0PbBw7clpT_lp_rzcFGRuIlJeAgcTAhK-UE6ed6sVuXhLWxKcnCy1m01XgQcXDb0UHYMfuH_V-9iu1zEto9ReoJzqX36BRY0IhAv6Thcgnq162H4vABhyPJZLF0ailGLxhGKmgtSL-QLvB8loJ5QNzZO4HNVhV7KhrhsRqyCZH34RfFHVlHnIby2nHBYI-nDMq5K1ZSP-81ykOdbLE9U5Cu3TX5RsVVvqpc-qkPOSr-kCR2rMlP9CbGx6Teeqpk0Qf2UT7Vv0EEgifh0SkuzcuZ4NdymHZ2dJnqQCCmDiRvtouauNPYnT0dwsbgxvepj-jysPJ2N2fHDXLXSuBXKR9aqX7eVDE0fu8ebupn5u3yQRNKJ4nB53Z2g5ubNPBd5FVQm6qu20mTulC3R2xZfyLlC7ogwDJlx3XXYscarNK2SmirkFhgzxDEJ1JqL-FFda1jucZJJLbJdvvXKcFuYubWEGfvjTx0SCqu-Goi4zoIc5kqYccPyRgfWeaREGEoDm4j1K4CjSxBoT_4zFtMb7_BnxHucF1Sy7A1byIPgC6XaTAu6wwIQKMavvT2YX-mf68K4p0Ec7SD98b0RopFE0vPTjmc0E_w286mlGQ8cpTkTwZ4Iamy-8kRyrIwt0r10aJ-OL10kXKMqJa73VS3Kj0xcLApcS-znCp-ayr33voMzkTOCNFco8-Uxw6vswKvfdXLowI8rH-JC7-I4B7jI7ieISkAlpicVROEtJSluIDssxMB6Lu4WTT17hGMsbminXnv0khiRMKeu-AxJvzmt97pIR7xs-TyLGQHliTLb1u03HBeysiH9GzjAglVTpp38lNMdmnLSTs7YQEoAWLM6QUPXVBPtbLeOHrY9kRXXZiQh9wX1NVdRISl76bKIBZ_ifWKdw7QLdxLHOuDhGc300jw36j5AWrJBU591s4qbHbdHbfcTrSOKfhdjMLZoCbuAfuvmcvBQkrc4lJQMZk1oUvetFlHTT2ZkABQf4cfmGrkm6QU235fCVidoOiVwbgCdIJ7os_OUPbjF6mFAPiNyzu_b5-BjvmDJhXA6hILTGf7xk_RXjilUshPISOO6CxQjU25WQ6CBJDR3TF4KUKlzIcKilD4JAnY3VLAr-z4qS9yxA8mq0Ppc5q923i6mE3igR03ZHfX0UU-TvZJm5nbQTb6jqQHlV0CMOSmhQBSEA90DXzxFHpuW9NKkDx5nrgGummuzZTjblFiayhaFSMb7LBz3gZME2g4I83m046GJpBgtDQneJc_5ez4IsxEZ_MX6oHdbqkfrnO-r3AIuT7EbkAwvqu
+)
+
+[2025-06-25 19:24:59] Email traité: akadimadina0@gmail.com
+[2025-06-25 19:24:59] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-25 19:24:59] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 18:14:10
+    [7] => 2025-06-20 18:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-25 19:24:59] Utilisateur trouvé dans la base de données
+[2025-06-25 19:24:59] Vérification du mot de passe...
+[2025-06-25 19:24:59] Mot de passe correct
+[2025-06-25 19:24:59] Compte validé avec succès, connexion en cours...
+[2025-06-26 10:45:54] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 10:45:54] Méthode HTTP: GET
+[2025-06-26 10:45:59] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 10:45:59] Méthode HTTP: POST
+[2025-06-26 10:45:59] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-06-26 10:46:01] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-06-26 10:47:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 10:47:13] Méthode HTTP: POST
+[2025-06-26 10:47:13] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6gFD5r52ZATxBcBpt7Fn7DqdvEmIAwN2LQG1WNhH0FfQMN_JDcudQhU2bmRYcvtDZVVJEa9LFDPaMtF4CV6eeMChORQxtCIBzmzi232wC8K942EB7Cwhvs82LejME9h2DV2hdU3t63LEvwIjZiezQ5i83adPn-ujAFknrK9TMJCxNhJFHh3qyKuoHE0CTr80fIIRBe5BYn3H6Ja8Ul8ZImc93hKM_kwT-UNFZ0dultJBzm_Kqq_pF7ZxsLboJxS4M0fiO_1g5JJ5-JgB1EI3K0S8VPdQVFwcW7hwZ-v-XdqJZU7u2iyPp3B0MSIgPJWzajXhq4_w3nq73H9hdzM-pI67R0Lmkl0aI0Nfu6iPF2zWioehm794r7MxVFQF6rnlHj7rgv2P6wAM-Fj-5TrsqCPGwQkxTOe0SFTwDXz7z7zKp_fbE3__625UzJdJ7nVkOdnQkJNE3iDBlmzaPQj4UmWNyAWnNfjkzxUfV8ugUA8k77xYbIEjEasNIjBEk0guAmPb5074Moo_086fHz9ICOyPAhi4QyfB-d6EDkkAu5kE_fHNMAIRSPprfd19W_TW8NVKIHT2GO6n298_kWQyW-9b_uexmnC154abuoxdP8QhhgFvRQCur19WgJmQkkmot71w9OPtMowLqj4mNJ1-ewUIu2UOnUNizGgVjSHxi8IdlMOBfk_HHVR26Y8Arvq-UNVqm9Cr5fqpIkBm4wShDjZu88ejizH5K0Lk_auknlqxMq5mOkD4DFbq0gK8eNgJkKIMuVyr8s8U5J7HQN4Hgu3hfpu_fqjeqeltjTODNvT5IzoOl00HRd2u_q48ycufW4RYSZEr2qYJSC2Z8ZvQ0iMp17VslMAuI5k9KpQUJRZ112GlRxV9DCBFXuGBf-2zHHvJAPn1_yAeVJ-Igx3C-YKki9zuntX6KYfRWivfOmwF6ttsWrmJJ0JPFoCu6weA9KOHQeKDW0ZHbxmop0BToebcl9PxhUtZbh_XmuKO_NV2MQmQ5cdX3N0lxkVLbZr0VovmCPvpdV-JYhfmXAgV38caDRjFxnWwibijQEzWvC5V5rAjOPaQbrFNjABqqxunhEwvDUI3QESojlPrgidXJH7hLGM7X54GyUKuSaHONteRwmhQFYO3pjr7WwafNDqCowZu_qdx-VSBuE5Q3ex61r9ZM1Qoxy44vtMcgWQOmQWi7wo6ul_9w430rPkXu2F9V33CYJCiu7adonflsTYxuUlZgeVf7m9ue8t6PG6tXsnlPQxHCY17zzyZFOy_aBQhsNl-gLSRBxXirbKY7UXYCpl9bPQ7PUsh2lFJVfnjrjwPKSUocjr_vwMwkOeYEp7hGJe4gtaCI9T8AX96aDIti5toZPoH2MP_IKDQkhUkQHZikDnhd3eIEB8jYFgU81Eeb4MG8w8yN9Th_olY22Bc57XisdY0I0Raa2BCXt1v69n5gJNs59JPQu5YqAV6eusWkV5-GGLN3sX4ca4jz9n06OLNsLWqVlagt0nXFddZwyvI_IjwB7h1TJSVInjJrOEgBd3Bwy9vf6XVxrTnxUlV4FcT7JnUbP2VKS1EJ9Wu-bI-QWmbJFDKnJ2CAE2rMslxh3GsBA44I3ZNxGBDatyyhiLOFMLAmOfErdMJVfM1Z0xOL192n_55-xrvcBGl8VkpbiDCceWFXLjfy1wtjmT9GvE7llLC7uefXc1iCpBoT6jzbZWHuy3KBVZyv1KyG7bLaaBGMJEiAWzlC_6HSM5iQ0jOpnLxT3Y-fOnUYT29JXqnHH3JLNxQYqO-SNrmNZ_hx4w36rmHCtosi6KtHP1EYHjJycfg3Pw6GEHlUWfPZojbpa6igwhxAS_bB309cMrDkK2z5XA08m99AKrMecsE7T9iWLjE-gJKaU9ufWq0Tr5S7Ys5mcYjmwUQZO4r9R-cHmRTjUqt1AMAAnrYFbM2ZlqUGfMEVxR0gF8tpt9bA3R7l8p1YAwIZUeOIO5JJcSYLbrFmOZYmdQI9oXa17xey4FF5KUCINaGR1gjA5IZJxkmpxnHc
+)
+
+[2025-06-26 10:47:18] Email traité: akadimadina0@gmail.com
+[2025-06-26 10:47:18] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-26 10:47:18] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-26 10:47:18] Utilisateur trouvé dans la base de données
+[2025-06-26 10:47:18] Vérification du mot de passe...
+[2025-06-26 10:47:18] Mot de passe correct
+[2025-06-26 10:47:18] Compte validé avec succès, connexion en cours...
+[2025-06-26 11:17:05] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 11:17:05] Méthode HTTP: GET
+[2025-06-26 11:17:14] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 11:17:14] Méthode HTTP: POST
+[2025-06-26 11:17:14] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7vZIVsBHUFBk8zIFbrq03KgglKEdLbYac4ASiRGYfc9BEPad65zZC96MmqlUL_atQCJp4aLM4154brJwwNZKBatQLiLphLIXPrgl51LPZIQv_zGXqIQu3um_jL1bPdwSr5BvHMcTp0oXu5fN4HG7sIcWNcZoqTm7tn-6zcAHIZnN4bgVcVnrWIxcaXo-CNseC_3sKAECcDEjaNAGkb_2xCnFqClPDyZCnhmdDd7SyG20PTzMX96TsBONe7smMQHKI1qNrwB8x3oV36JxVcNwdibeg3Sp28M0yxS52DSd7KveoyMNHa1SmsqmeY9lGgwZ5sMfcRmAAly2OiIPTecNF3mmqfC5egmy7jD2i9iErB7JdswlaPJo4j4AlTwDJ2aQCWDVAyIc0w8QXBqFJcW79_l-EBHozbMs7VbhW7RIgx6xQMgPwYlC25QSqa8ku08PjkLWE0zSGKkydm32hZ9URWAbq360DB_EbaQLj2r1aXCnGZw1qgIBPrVjzaA6Sz1R8gBvQVqsG4LF9-_PZf3HD43mkpuwQPw8JwrA6qRpvCCytmb48rsYyFWtPxVL0F5qWVU-TOiT8l5D4QEHPWi98GI2wZAGiSLLjdwa4UweAF8OcuJx5yhlpUEn-noq2XFfopiIsAUXYtDe8davucv3zxcJvC4-iwRkcaw1SryHNQx-AWW9Tdpy3bRjy3Be52f5APDfKpojsIpSK-iioyRu9XVhpyvlfg4-Hl4uOns9VIki49rKAY6LzCIQKzFbhWi3kyOIQj8QQcMGgvcBQDkBWRPV9GhcRgcGQ5u7D54FBhXaV7m_ULIZ6TWBg_zCodG3OD85Q5AyXfiMFFxVIYZDOEZj-JBgIYvqMbCbfp-c5ct9Xue2t54qECobjIB0unDxdeZHqgKZ9Zsw4f2bS7dZLVIG5gFYkh-Ad3ks8d5kXANnrWDazn1d1Y3JUIamJhzBcg8Ev8SoqvPLvAEwMN71itCEJkxdwMl_yFlQvmvdlmnTQUBnwrqwYusuhjn2duOsoMssDPYtUpoD_ipoTuXc97yeQs80YcKqZvdbAlFj15BLoLmPzHszczddN9HqTYuToXV3Oo0Cy-z6pQWLPl4izpI7Ry_z-ygyoFhz2lnU9ygC9NcmZQdPo0K_SyKgeCnVRO1zswupWIOcqWQygS9giXom6AOzLBvtRV7gXmtn2KpSuynkg3FNWeHGKG77jS-DuyxG9C34lPfBENXfggexuNwQpDxIlSGFKxfUvHf8Nl_Fr4VyCiUbjoh-6pIGIlo8FhqxddgmZ3Lg8xcH-ZebrO5IvSfu12-eOtZKX7MsVWhkucxtJHOQ3eaMxsduJ5f0aTXEtbqJli6Z3FHgYYMMW-DsrFbcKsdJDZ3GsXrETBMusz50Q1nv5ZcKIWaOjQaxxElRdWikz_EXzQjsPJ7itxAwYvmkJzX5JF771eoCAWJ6tmRpiFjdrflVke7xby7l4sxr0Xx6ZHhBTUJF6SPDP1nhWOnL2UIW5KYkLDanLea8TrApIE4D5n8R4LhZ49wLueEr2qHguZWL4bawBQwN6ndTofp1Cjupvw7tG9TxTvN4GI1ToCFUsLSlh3pLTMeN-mdAenHcjZY6f3rG414X4TG2zQEWEPf91gMBwVWS7r22mha3zUopxOVgJg3V1GULpoc-Poo4DE6d9CfJrl8uzTFOitg8PjviyZB6pxcTlokPgc_f9vGA3bH7BvzHC6rBKHnH7FMB5eg7nGLGchp3mRQFbmXutn99gP1Ao8vgJsEYJMUbYWkl5jGItK5j5lpinvm4u0l4rklOlXZX3dn5fNcjqY6uA_4zC7LLfmQ2u7IXeO85okMrWEFp3TGJVL1t00YWd5dJAvkNVJ-CofUQiw3tOr_2k2GkxaO_zAXSGm0Bi28Z_cFrN6_6zjV-ZeLa2LpPUGLABd2F30zs3iNi11doJhgG9LpcBHLx9SYoHGvhxB0h_plm1JhOoUqM9ZbOCe_lzpC-d174HbcYBHvW1tcIMVUKCIys-oCMfiUVXiU0I-mob1vyuUEp7TYuX0wnZAuG45
+)
+
+[2025-06-26 11:17:17] Email traité: akadimadina0@gmail.com
+[2025-06-26 11:17:17] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-26 11:17:17] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-26 11:17:17] Utilisateur trouvé dans la base de données
+[2025-06-26 11:17:17] Vérification du mot de passe...
+[2025-06-26 11:17:17] Mot de passe correct
+[2025-06-26 11:17:17] Compte validé avec succès, connexion en cours...
+[2025-06-26 12:22:20] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 12:22:20] Méthode HTTP: GET
+[2025-06-26 12:22:31] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 12:22:31] Méthode HTTP: POST
+[2025-06-26 12:22:31] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5Zqfayy3PdhDgrZB5n4iB0Gs0yYhjpptJ5f8YS_qbQHGegCzmatCLbtv0Hr7SGz-jyIajn8aeB8DJq0PkMkvE9E48pZo4jmdrDPAsUGc_oayf_bCk5R9YEww2iGBgKD7vv095WdF1GzfYvabULrrLoIiXlS400x56xOkGzFq6IJaAMwHwNmGDL_W2zaTGVwsyz4tlGOIWrC2bmowUhT2dTfwNuBHehkrJ35gvVGaJrZR8HfYYY7yIH9vZSzULAKcAnjvXdgQAecvfB-Kao1C3mqqDpjpZlBSGPaqjnCKKD0VDpo9FXTTHqP7ENJU0V2blHwJljZwzO_M-xqTvK5_lSFof3YJWj4T5HTsQXasrDHIgKMKXSW9Mkpy8U1-W-TfBsZRhLW1hLHttXp_RqS_7wGYWOSfwFLLURC5x_dl_3syhbOr96BtVdIFf6hIjfCoB2dETV4l3MaCux4MJJWG9uDg4klNBenHlr9z78hSEd5FOsR8nilF34Ftb4G01UH7O49d5fq9YoGauTY5dmQS0jiQMsCsF1h6YttCUA5QwmPCA_Zhr3C3zQN6STgSP9XMBZCkHlgnqlI1dbp_ZoncUcVgeaRqGeWBI_8UlHxmk1IKuX-sgnQWA7U32Hd7bNbXITCwrvCzcdJM-mfL7LvNNWI9-Spnc0mL9v0UWaOrk10g7cb5xYYuatCBOtWtnRQ_lYFb8oAdMXq3Ns4iwk3nDi7x4yLmPoIBQu9KPHuMKg715HjKYp-qXt8EZEidVK9I7FgmayWnKH7JVygA7rxKzxVSvoxiKiiQE00wd6BESyCzJF-n1eO6kT0411ITpsb3j-iOYBurKt8HsYAQ-ZBaiRJaI2gNlEieSRA1vFCESYOaQfyOhxXwQkb6j744pPt0Dh5BPkThiG0Bokyo9eIZnuyBZr9_7GGKMizBhISe40EP00qjWpoCefo4fG4lg0nnj3RyizOg2ftCHvXEI5Ym_DRWKHma_EOmBKeiYFBb1gXGog39zHc9ZTETIDi2Llg223KHd08pgFwznuEVjIAh8JKBwxSQ85R_8MmIbkC0e014Ill3kyOmFYuyVKSY1R-y4hySN9QwlAQ4xRxx2ufL1zrPFeeNdI1hZOxRMM0ktdvZU9shRZ1SDMuwm-xKNtwH4P8cfljMPuEwZC2sMIxBIvTOlljApwnSiyc6nVVakKPTdhBtn6ZfYoRorTRzzD57im8SGJAHKKxHtL33GYHQ3SJhIrVTfpnOTYC1uV5E-9PeEIUnwRZUaPE1tjbDFzPsET0HduT35F0DofK4TaBJD5ZCvOw64jQ0I_SuGrJsqVvRMEC0RJQ06d6ZmGln8d0WiBVm9FZKWwR3Z-NVL8J1s8Kh_vnCmRgOpAFYH6Nwlm9puRW3Bvuzg1WO1LlavpZgPL6eZQDhp8F-mtiJwT1uZRblvzR1NBrDuJHZ6BqwLCk5ajBmquzYFRCksMpWomti3EF0kbUA0b4ZPOcnOeF_kPDzIV7Xi4xu_lxS-RZg_NyHl_mWmZHJpQKlWrJfXP3uhIkX4Qyik1IB2UNrWYmQMWBBq57hFaUQkt7sNozybYiRmvlqcqjUI_ZskL7yiT-Z3t21VSJfmsMAD1I24EivTbOhaxdg2v6U-qPdV-BRBF--nwP6GGpr79-xusU5v0AbCym4i4Q2YZc8fY11kN1n522BPwQdG4RQjsHnjzddVvl_cq5tY9udK9KlnLkbvkotUSn54ZiN_boN_ltlHO0BAiJ9n3b6UTiueKzeRatSYMgn2jcZOh4QEdboJNM8dGJruH7VnHt9FtHvouhHUdd1bnpT_EQaDALYDmPvFH4UFWbu0WfQxvwij_0oe3cp4cPFJmV9K594SMosJWjsgDFN68ycYBFXNxdb_uHZyIfgzogQDmkQdrUXzlg-r7G192VOnvqB40rmIX4hciaBsiertnZgG5iyqEmXBkn0q67yQGVRNic81CBHzHA6gWJGyVofXmM3GzzCMvqunOdzZ1B09fKku9W_qS_9dzEcQRx6qLxfXjpPM
+)
+
+[2025-06-26 12:22:33] Email traité: akadimadina0@gmail.com
+[2025-06-26 12:22:33] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-26 12:22:33] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-26 12:22:33] Utilisateur trouvé dans la base de données
+[2025-06-26 12:22:33] Vérification du mot de passe...
+[2025-06-26 12:22:34] Mot de passe correct
+[2025-06-26 12:22:34] Compte validé avec succès, connexion en cours...
+[2025-06-26 18:33:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 18:33:04] Méthode HTTP: GET
+[2025-06-26 18:37:59] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 18:37:59] Méthode HTTP: GET
+[2025-06-26 18:38:41] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-26 18:38:41] Méthode HTTP: GET
+[2025-06-27 16:40:31] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-27 16:40:31] Méthode HTTP: GET
+[2025-06-27 18:00:19] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-27 18:00:19] Méthode HTTP: GET
+[2025-06-27 18:00:28] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-27 18:00:28] Méthode HTTP: POST
+[2025-06-27 18:00:28] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6uHJ16aX9tV3oTSw9BW8cGKs_jrpUcohjFd__SXbQ4Fg2HxgVPr2tgarQJHsRKDWDbb0trLCIkrSR0dUv7r__HSNtC9pVetIVqHAcWe8Rkv774w6RhE4YeDIuhll3ySnKpi8M5HojTQaXgi_Pl0riVO1dtwv_Fo6xXiGzNQ17DYiA4pXs4j8UBG5GDSAdDgUPWlE5Pxt46bpBglpxyHDJbAfPU1EUnmU4frpErqvDUshNwIOx67fY9zdQrgR_QJ-VdroFW9lIPOSzB5Q-1Nzjynga2FuSjjxoazTC04kGvgp2ozuOIFDrD4A0Jk4YXG72FkBoadrdM0V5Il8dA2DX-Rv7ehhmfvHwNxXL6rmuoQSEm_pNsp6UbIKbCdkHyYlDKZN6V72X5GH0i9Y9GKKeHCobxzGJt1uEE1-MPgy9EPJi3ZhO5RQ7mpv9jLFopqhd-TCgd4hav0klmPlXa8y3BwiguXpQGFRLh9C7eJnZEeYsG9vyUwv_jkK5v9jL5Kb1UnbO0M-BhXeM_eC01Nzy_3pobo_Q82a-JdV9rqbKWH3oH4GVpm6Z8YA-0JnvMhBd3nHegOTyn_0U2m2TIpozX2dfKH7vuSmxcWhLB1L_goKl_eJasVZ99XTWwkyKDyzUwF9ZlWb4Ihf5SQVscYoi-7H0Y_zFe_pYiNypeqT_amDjcN_OYKDOu1vbFaFIxzuPXx3MEf_vivtsixZNO9Q_91b64R6sXfPf_VzkBTpbuJxGoEoS6rX63sk1tsg9q-2O6x6Y6dCdOPTUDmo6AkistXz_i8zRHoQKRbuxS4LLxlA19PsExLWFN9hrtQiJcm4Nhkz7MDJtHuYK96HCkvJ_Cqiy8uQM4UoiUvlNJxulxcXnVw2zAcALPXnZgh9GEiNjfIePxa9bjU_XDJEofch-Ym0YqmYJLRALhJWWCRrBo_ECj65Ymo4eMpTbI0mS1PSk_OKMoO_qB4U95jaMQrrTf2cZeJjkIs-BpqsyA48VwtmU9jUaSkr0U5vd8s4M-dlipbUMvdDzC_CnM8PgRdSGg96jZtB6fssTUAmeVZElTvh6vY0msllKRxMrIdNKupIOMI542FotwllWO9VjDjZndj0Pk_9QiDSlUfu1vRBDsxMq2aayMn7UypacpeNTVJy7FfTTxX2vNmaQBJ7anmLiIugO_cRmc7wCfqzaqZmaVcRgYc9gD-LHtBmP3u-6_ikI6Oeqb0PaQavnGiptDk6ss7Hp1A3sUKNoYJXkqjEmCSHuauJ8yP27Cuq3nOo9I3Itn7OIrZBPPbN1kA6_AN75Jp4ercHx22ZkedTlmsK4R2GxAuz0GaFV01r8n3i3uM_vsS6fweEvgYhjgNJ_YpK9sFjEwydn_EpEJ8lkXFzmealg2oATsPP1QRbMrxzimh0GmPVclocgy7FHLQDr0cPdAfP3wlt5XhKD6qbdatNZ5-UBpJFJp5yVuKicuG0T-jlQI4yWJz5Ls05qcnPL1dv7Yrowi1I4IoL5sj5p9l6_LJrA78_USpCs4AwMfuYVQa2sS2tZlZkEUZXlWTudoniZU0-sLNk6yJh0nxYT0HqI9c9Au_MGMZVCmoeiTlHhq7hFMEME_-KyJ4VevqkQosFChDqh3dK4CIRPjtunQjI0_f2m5TFf0NjI2Lp4TT89F40sx8On3YPwY_z0U2ViJTUR3-bXnmXwa1N80rjn7UBCGvJDaJHc87L6Sa2MXyD7nf153Q1fvJ7KCsrTSgZ-Fm0NpaPMhSTJu3zSZd0NvUkka3dSGibKj2GEgj_sCtd6qZ23Sv_wC4Bqg1wo5oeGNJR13nJXhBvxEtsnK3teilIyAzOjh-WAVu6a7X8f3d22EUL-iYITT4GsdWdO-VAoHYtYBnUk6ZwPbHAs6G1AbIIIl_cvvzWs0iEe9hfphKk6yrvJbLGb5Bm9NHqbo1e6iPirgucAKvN4yqOg9E_tIRL5yrILj4-K3XZJ4dIxCLCjmCHmjyGjzwd2YQDf153Zs9ZJeZ51QLvOP9Y6keshF4-Vq2WQPQeQ
+)
+
+[2025-06-27 18:00:28] Email traité: akadimadina0@gmail.com
+[2025-06-27 18:00:28] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-27 18:00:28] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-27 18:00:28] Utilisateur trouvé dans la base de données
+[2025-06-27 18:00:28] Vérification du mot de passe...
+[2025-06-27 18:00:28] Mot de passe correct
+[2025-06-27 18:00:28] Compte validé avec succès, connexion en cours...
+[2025-06-27 18:12:39] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-27 18:12:39] Méthode HTTP: GET
+[2025-06-29 19:36:38] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 19:36:38] Méthode HTTP: GET
+[2025-06-29 20:39:47] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:39:47] Méthode HTTP: GET
+[2025-06-29 20:39:58] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:39:58] Méthode HTTP: POST
+[2025-06-29 20:39:58] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6Yx_MVhmngYkQkKKA1IvLaXHm9NPkd65Dne1ty00wCkEvNmk6VU-WQV8Ye3njIucvhnAdUsXex8OW-gm1nGEFl_AP_SslWkOhKycRarUp1BMhe9iG1cPBgJ-2B9J4Pbpy9cWgLrtRXyQAglFMyo8f99BYAhFibViYUCHlP6umJ2lSGBcGaDUyzpTV2_RtLn-1bKffzA7xOUMvUzDIlOB4_K3iRw7dzP7Ym2hYG6VFTFq7mz9ivs91f2PDi9HXS9wEKfvrvIHJOBqt7eQF2fksTcw2pd9nlvL6w5HoiCtHqF2QlXttj0r68rBlWMWPYmNf6EtQlC37cytE9fa0os5hxOaL2fFUxIqD4U4W2-onvht4S6Q41kQ4c-ZT8tofLAZt66jedwp5b4Oow8FZ-pyr9aA2acUFCHbR-pI-TJ5qc4IuboM_B8vqIua4377JdXwVDBEW1sT2E66aWMs5Z9fbiKPVgWLBqN1Gth8EeOEuHhmWN2RFS687GjI19ZKKOJ0Vp3TarZ2jQRY3FlhIExk5as_3Yjbw116RaO6oi0f_aMcf5Jd-I8wP7Uot-gEWotGgfa6gSIuOFAjvsZ4BYVy5QIPP9bTFu63paEJTMVNE5rJqYBBr-bwct-UBIN3MMdTXHj4Q6BwkyAbfOgBACYpifiw_UrUyF8ygrgjYD2nmFqL66vwkhXoKy9OPTM7SO2E9HIYYavMhd06Z888cRraxBcxIMPOfb4rP3eClG7Ao7_GTjwsH1cJ3M4M7f7fuEJp9aOtq3-i07Vu9P_CEo3yECCdP69aoD5pTreyBoJ_adI_pRcop8imRmTFw5h3yUOo0M0VM1b27dZ8YmoSJLSR5l_3gO_SM0D_7P4NEQeGWX7DkCuAENYwBd1ne8p0pDnBwvt563kUSnQA3gnx2ikItEeGufLikelN6_baeONEQa1DPMmjhoiahAbJhWasBGAgMJ3uoDV4Ivy-5pL59J0fBfjVP9GE9O4ONRpT9nEruVBgrekkX86Oa4M0g84Zoo1sX9LsPhRCzajbRlh2v_myxrhpMWjNCmY7Ng3iLqyYebXDdt-EGLnJ-yNHdReLpOLD5xj7C18m0w0xr3zIYsYT1Up_LU_LTjX3Eknnh88D_wqK7m9FU4tWAxMDRCD4gxQ4vUPrLQpMqctxI1DaQGfwLCb7fmTcabnIhtBVefZK8hl4tzfBk_VTMHGSnHOhca5AR-3JPlbLw8otRrq82g4yzak2Zx4jPWFT5ETKqLoz6qKwvEU5hh5rTGWvxLPfv3nXuHb29tNdfnodAj4BxWMV7-OZ1W7OFtkc3Osx2qEN4GljsGKdpcoekWhb3BquHSB2mkAF38x1cAKkBQZ2EFc-AjT9s28umQB8Bl0NXOAL3_DseBrSd9sQIycKUKfpFopREGnPC35aRzrYMiJj4UNgS_1zJaVw25UEkvwMts-K1dx0io3DKofn2tiC7Ps35DCQFpa0gpNSxdIJxPu_jNkg-T_GXGrc6RhNYhLnLYh1KbrSb6chYZ3stPVE24O18K5h9wRYCIU1mne844tHlxu0q4s7H4AJVeHl3M8TtJDNRoj3lPVbQGjEy7F0BQcmMh6Q6jpNqJv2gAMUUIVxJMiiQ2F2mHD3ZIYqMjVDjLP0p-3K8DarNYZkG1cqIEzvpbbCiN0Q-VPC8WtW76WzQbRX2mGbT2HT0qpBer3L0IEnjnhVynnlRO6o3_-ar9WDXBqMw42UgZlvqM1WGKC8sLASsYT-VVp7Wi9bSS6e45MUsqYhx97wm5VvgLxYVOgNhbi4-ZtBimpn10Vg0Ebo3a69JjX1fIbfLK3vjzOmQnb1J9kMPMTSHfb3zfvlSHXFBW04F8dIufDpx6Lr9kLvTv918VMQ0EdS_TKDLXie_yLNszim4aILQ2-YnR44p_YEBUwybXyMSCQw-PtzBk7bWcf3t6a_CiMwVpaEF-227O5Qsfy1ThpT8uYTt9ip1nvo0aHjtiO6vyQRMvKyxJnBcud-DuxC7_9qEyPCdenmvEuF6-muZ4oRg
+)
+
+[2025-06-29 20:39:59] Email traité: akadimadina0@gmail.com
+[2025-06-29 20:39:59] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 20:39:59] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 20:39:59] Utilisateur trouvé dans la base de données
+[2025-06-29 20:39:59] Vérification du mot de passe...
+[2025-06-29 20:39:59] Mot de passe correct
+[2025-06-29 20:39:59] Compte validé avec succès, connexion en cours...
+[2025-06-29 20:54:53] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:54:53] Méthode HTTP: GET
+[2025-06-29 20:54:58] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:54:58] Méthode HTTP: POST
+[2025-06-29 20:54:58] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5zyxRl1VAejJxJD9HGUNQcrzHaiCQjgtu52dbceByFaKJA1vnOCqsfx7Ze4Y6pLiago4qBKB0ruI_WrZ7X4v_Mz0xwZIrM2uxO2umsL95IXWmgk46Sgfs6iGloARX8NtNkDF1qDtK1Zc6hy5MVe8q1cM1CH5fHOZBFPp00KAr_9wdg8ILy32ZYRWVbA-AVL5fyqdgtJTA1IU4l11c-CKCGMAE5Rmgow6Ajf6d1T-pWwk1ADzhVSMH-oUzo-dy7mGuB9eJnqarw0prC18jr6madaHQr8M8hcQgG3062rwu2E64CWV6Ff5rUtEm-z66ft1dsJxaK8qsO8A3eCRe6x39KtO2h2PEY_XLpJOVIo17z002u_zGhemJBILd3F6wH1F7vnaY45yXKNWnqy2WQ0ZAxNZ6moVlRhNwfw1dimNtvZPps3a5AJuImznL3JwIT2r99WEoidsa_BCw89dnCf3TC5XMeTaAfd2EinsQqho8KgTvFtx0L1NmINFG4roFTLJjUVfmvaWpiE6OcM_ceor9AF2bofZ4KS4KbBFF5O4IROOLaXy21l6EPPOsoFPnrt2jPDmxdFOp7SHNCU_SAPDp5tM0pry1OnUafxQGotBrPgkeac2VLOw5h73GHb3dxHig-MvO10ay8weRwWt-3hWAXBxRvvehc6mGIHkLiznc2-8NBMXsa6PZNkuiKHyQYTnNhRbBQmXIZUrZoCxvm_CtqXdmQRihYsK2Zs61B4pMkYThTyVDkqj1nkEPFQo2Eb2rkJYthtDcO9dDj8V7fxTZgZlRZ_I3dOwTj2jFvgcW-oztYkvLVPBrcBzZ8r6VF9IjI8Voa2ngbOFv3fx9TopD0yM2nmn4QqiFmdjOEHKkJoJQKknynHab8zAMQRH7gUjXzj9louG7UcKdg693bAkbSseuPldbQ3JxjaglkI4a3jSuF6rh-4sdNlZzA_6Jhlzq6g_yrMknsx4NKvWNefjJfAc_OT-0tJ4LTzb5KU_2zktDPqtQreSmdl8wMySTbFKn9FWoLmgTwyZhPEE3eEOoUVC2ClKpf4EKneoOrQmJ2isvd4MXbdDvEVj6bP5yAgLsdgTd_iiRzRfWTBkXvqin7iBhD5zH4W0RAn9Ddrl1_cBLGM1003Hppufwr_8ku_yRpX1KMDmDdbJEl7QtnkOQYtWiwZGRJmyY7eA82KmId6PKWCGCgGbHkAn5kMfMl30evQCUZ1u2-PnyPpY0ba4ZDJtZY_zU4kiCcDp4jnP2RNy1OU5KsDzCGVCluj3GoQNpgn_ndVmbJY4HrtFuzzbD81sVVcw_gLHHhr4sdwJpJegpkvGWmm8BND1i1ZUhPpVaBjZOT0DtEjHc19ePatjkwWHefu6JyNPeguK1BSGKKwIBaXF27R9RmgZgmHkmAfkq5o4L2Jo8ojfnNbU8QBBnHzTiGiVvjCDaGN1ZQ3PxSihU-iQZwWp9qpt1ClHIxxuHzGx_b4lUAjDt07yGApyHqPsK1nZC1Rb3qUwNL2juhes-5FZvwUHUaekQRao5EOyIwc2x9yJBzSUDgK-0O5XBZK9HClGHjOswN9y-SbptGiGBhMKUsEUbTKWuA5N4QU1Z8t8Oyqp9zDfVP3fv0V_j0DIOzP50VX8GH5rUK4PpOJbNsn4XF8cI7slA9aXS_BIDwmPflnDTazdM_mQ9XwnCD0NxnqAlAzyNrADBFjWfebZxY58ycUCefyHQEAoSAyc-BWtoOTmAvGvACtpmICW9_OqupvhDUh3OkploqkD7rhXNLV97Q2-5kjdVOSavAyC47Gc8nrIbIQJHPWN55B1y6DtOtXj_HcHZkKHPA-vz-lZNiWcL5KY5-fJ-KpxxEhVQLJRnCZYlvcl7rQbLuZlmP8Cx81CmhFOeogwsHJwwTMp2BlBPPGQIlIeGhd5NaA5AQv0D6HMEZNRhsGJthDUispLnp-SpjUbikuDazHSujqeWklRbJuubP8LmWVHkLMi4mmvxLfv-mEDVe78BmApX5Kcc-IgYOZ03812F31BvKhA923W_uEcMjsPuy152Kbd8maj01
+)
+
+[2025-06-29 20:54:59] Email traité: akadimadina0@gmail.com
+[2025-06-29 20:54:59] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 20:55:00] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 20:55:00] Utilisateur trouvé dans la base de données
+[2025-06-29 20:55:00] Vérification du mot de passe...
+[2025-06-29 20:55:00] Mot de passe correct
+[2025-06-29 20:55:00] Compte validé avec succès, connexion en cours...
+[2025-06-29 20:56:19] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:56:19] Méthode HTTP: GET
+[2025-06-29 20:56:22] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:56:22] Méthode HTTP: POST
+[2025-06-29 20:56:22] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6wCO8jLLMsJ3r2WUhaF29KhS7D56LhMFtSzDc0-CBRiQyLHOGhiH-7eOWHVZ9VR2VxsFDgkZAZisVQa4aik9aqz7CIwdsq_2Sa3v9ov367DCXM8tEKU8x4LmmPDi4Zg1XVhL7lFv9CcGK8v06CH3jopLLlvitU8BDaMiiA8AVE3AZmlPrNs-pi7XY_JsaJXbgbY1IpztBEq2fs-Nbv-E06QT7HepKgHnljww-qpRMGvwq2qino1OL7f4FBQtXygDBOkCNyv5Su_NJN9WAp5Oc8HkEuwzHlxbBe9PLc9RZOU1NnUECKiqCJhNT4Riwx29WZJRSdTzRCG8QokU6YJO0-m6m9NxUb-QpQCGAaR-gjUZBw0UDOd7V3PcJUigrXmLyOcksO9fRitzOAfeqSQj9XMQPqF-guJFi2INmttuPcpAvDNBYtFVYvOJ8K7L5d3sUK1A4gwrQ7Q1lfZ7tidwJ26VHSOgulSiNX7Lh-UTNtXFCGmd1Y7w3eh6cizOpYqkPYcZ0FyFnMV8NxaCud6l3L2P1C_ofFgTbojGaTnkpDUr6J0bYdU_OmLKcoiiyMYWTlkphtKk6wMOuB96jMtlZiWfZM8t_YUWvc1EhVQunqPurXo8OBrdmDn2_3jX6fI8KJ1gzHQ4396lO3sIQ4pGwqyceYOZXMWLdJc9RNHWwbDpCtadQb8RQVeLog_l6yY--Lt3Cs_ciVE-VnwyYMAuyEnRTwxHt_NQq57bKvtD0FsNcGUyk8tiLGS6AvGeZWb36gWasv1zk125HJCsTA4d7fFFUbPbZVexwnx2ohqTWQMHVo5y94aFT2CL4iJCOu7PoSfQQFwlDiN7HsAS4AYmtgNfFpPZvA2QwVw6I0z0yeoSKNpTF62JGXJIrfUiX2Diqs8XlCZTZCxcTxWsV3IrsoHV_CRCBBFdNN6TgwzmVQ0tc4powrblebb7CG-H_iQ6DAM-9NZ9xaOrMz2V5plGeGreNncNW6ntILmluXh7xqTciLSAqioWSWm8nZBjbd8qCk_xWo5fryp1V42SFltqvv4IlJgwqzTZhO-mMiPPWoR5d_ZdlqnJH1mQC3IKtyME10wwt9KJUPBoRWRAMuziTEDimv7R_S2V3XYyBpCZbC7vdmFPpzxqCGz7gf1BHf8MDzCCKYmGcpedrT0ZyTHEIKi9IUNiiZDbTH38YTupY4lFDfnf8CmnSf19bJV8mfmfkG7WdSJvHsPgx1-_LA7SG1KB1tExZRa29iXcuiOzObqZ4Lja8GI7CDgYY_Zr_MfHVDdwX0cbaZqhT6oX_TDK8AgMbgWZEBZ5bKbj6NCyD64tkQG15MOBJk7YwTK10pCLno4S84qSK0_sDihD5QN655x-Zv4GiIh5jom-kWPJaWyO5_PY0OGi7ek1dTiPcVP36XwUK4YfLDc0A8YqqDfxyoFRU8O2Qbdh59VudvEidHUbZGaVfkED8kbYIalWOJIQ6LKLDcP1PcTYzBn2g-W0GjNQ0JHFcSuI8o8YdnfIcYANWMi-9Jvs28G0pTSpKWP07KkXiNzzpp8oe8McqJDxQ7BaaVTcNxL6V0yzVCDTt3dkXtZRetoymCpEoIdtFIvc_Z1x8ghOSwaLbQSH914ICmWGvQVRY_5xBvNS3osQgybupNWNXTSE4JHTp3HsWTPktj3wU9sU4bs3vAwOwq02LyE5A18xuh5ivOM7WxnkFiTgl_uNKpIbzIbtpSuqokcYFb2I8fgGYPHVqh6RgNM0r2JJ9alopBkKML8OZlkEO4HzdavYCIYUJtmu8NZ-yFBEitRaEiMKnEoiI7fFZr-FlhVaMfrT6Gg9GJiUQCXTYFvttTqxCyQwdaSaI_P1O78xlDT0QZXNN6ivdbMfSJPv1Uz-HnJnytIhtCkYjtIIjZ0DOnYUuXsbzMEbAqZx0kO-ZzcdvCcz1K4YgGYeU6xsGkOJn1fLQ8kGanfWXF0MwuFQv06pjVc9Qf7dithQmQY1DyAVZwK-mWJDcFjVBaMjgQVXiJnJYxqs7QbpU3zY58yGctVENkbm8t1u3Q9jsQMM1M7-cm
+)
+
+[2025-06-29 20:56:23] Email traité: akadimadina0@gmail.com
+[2025-06-29 20:56:23] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 20:56:23] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 20:56:23] Utilisateur trouvé dans la base de données
+[2025-06-29 20:56:23] Vérification du mot de passe...
+[2025-06-29 20:56:23] Mot de passe correct
+[2025-06-29 20:56:23] Compte validé avec succès, connexion en cours...
+[2025-06-29 20:59:21] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:59:21] Méthode HTTP: GET
+[2025-06-29 20:59:30] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:59:30] Méthode HTTP: POST
+[2025-06-29 20:59:30] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7cojjFKnR081uR2wIrLisUFTldfLrNE6igQF-0uaoX82ZYMNwf7i0D5fZPZ_0cjPpKb7uPdPpcP8hX8jJ4HuxqKk4rUkX0bEjm48gm8Q_wU13Jn3pd2ZFCEz-QXik5OJ6AJEJEty2J3X0X2rU8Si-T6Cd3dFmqyMJ-9oyHh1S0p4LPbUD67UNEf3TG8lBkWkSJU3dLXxYW_GPwEqHb_tgDFj9wtqyjeF5uFMlBhYeQtTYH0sm_kZ33bYPE8VSyzIUlCq0aBMRc4XQhfdQ4VOULxfMS0LD_AjNb657U6LqRadEGaeyaVnttegrYSxeVXQKV47KBu9gpoJF2Zo3ymRQsdg_DpMmBCBldqHTUuY7YgRAgYKcdYoJjiYO0H38wFe_wrqRUlM_ym1wwBvkfSQBPbF7oB5-NFQbE0rUHR6tZ9O-bbO_35rZje9R3aip_oJz5sgaeQP3iQZnp4VVTDUwQMQc-ncmfXOJWFyk7LaUsZhsxwKRWKgUFIPEhuOMi-reYqMD8d3tv8DtjSaE7Xf-jtx7Z5HGH612T20xwzpdvm7Z1R0ilTy7h5t2c-sZkUeCdo-HaPGOLcV1-cVbLPKzAOZeWzD4ZksH0tAJCq5MshN06OttfA5Rm9XyW_hjh8iA7j86J31OT7h4uoHmkAFlUuiZC7KGMleRCy5l9LmMcZHIk95isckD4YLAXVeqX8cXsPbM_e4CRtYakUYjwy0o6qmBn0szTmkRsoqKPiTtklcQseHWhsW_lYaLJLM9j4_YvTuEAOsqmjm6nS5pQS1dwCiS-d2z5swVGBBzASBu1QVg1rhAYQ7UjcTHj5BT-hx8IaOkcklQkGaFaZLidn06W9rrxo-yBMlgDB9m9XwwVtkc8TivvUqn5IFTdekljAjAmm-cS494i_Hua19NV8zptw4ZRIkNr6Sc7Kgnc2cIAkE_MBGHy4CatW10g-fxvz2cXSRRV_--rmjmk0f0YaQ1J4jrURKzkWAmALGthbboVoM_ansJ1ifDzIY92qZGXQgx1huIS3OsB6I-8ZUDq_ZJ8Ls2xmbsjqELZPUT-n8i777SXRsbv7FTDdllQ_fTQ0DhoAACdkGL7Bv_7se6z1dFiP5rru0YAlWFYgXCA0Ohy7yCLa5f7OXG1NrsPUc64nivi0GjW8BnusFGchN1WIgL2o5kHMj_kZm0HtvDSPHN7aO94g-FKsIjD9KPlJgvoyipobHAKLjZ1NdyN8dtzWVnsofA4J6-tSLz48ZB-3lnyihuQABwH52LsIsCWmHBD3WFU6ImmN8ti9U97WFnXZaaLOfNETY7JHgr4iOvZ8ZKACQlVWaV9Ju_0qum5ZYZK0CJPQ7NO9091CxEopROA8ID4O2p4MhqpsHAfXoZsjQf_9M57qIM9Vb9FLbIGmqHBkGy_yFjhTQ4qb0F7FAI3kq-8JLmKeNauPKEXKSvl2g1_K2QStcdNyhBolu5DLep6iyn2_QpRU8r8AkE6VmowY0v2D0mXICN8d0dX6odGcW70JlXiQi73AxY8r9WfKq09vQF_BWYoc-zmDTAQlWNEJ2IOYmQ8FfRc8KPcPNcEH0BuWNThhXP9lV0nxhFULhUYgn4LpBOa8i241TZEGGmyq9sM9flnSBhV40VMisxX0xwoWFHMuUiTL3se9fR8ivQ4WS8d-gNJC7r_1mu1hgXXbHJszUQzXIotBlGqMWQW-X6dLVaEl6JVvqxkH4EGPslmpgcRkztnRXFJFVRTAwLrfbQ20TUP7VoMMDqrCVxZOnzz5YL38VtsXg2NxIF8NnVIPs3LIGhW6nR_5eb1MSzQOHrVtIWImeW7Kqm3fvVlcsGp-CMYrQ6gfVjp7d0Tr7Iaf2qxlCnTdX_ZUYOCiiJiuBuUqsVkLDIZGcSkyLmaglmH1US3knWMUwke74fRJlJH9f4RvHZ-X7-v1oDDzzpvtLd0x2MPge5xaCans6Z_qJJtSY8KuB0oRDhCp4A1SgSLYoucn5fRydaEjJZggx0P62mby3rMiL6NO1p11uVtmMoQT6hfOCT9oI5fXQBEZ6ySBXNvBbJu
+)
+
+[2025-06-29 20:59:34] Email traité: akadimadina0@gmail.com
+[2025-06-29 20:59:34] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 20:59:34] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 20:59:34] Utilisateur trouvé dans la base de données
+[2025-06-29 20:59:34] Vérification du mot de passe...
+[2025-06-29 20:59:34] Mot de passe correct
+[2025-06-29 20:59:34] Compte validé avec succès, connexion en cours...
+[2025-06-29 20:59:54] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 20:59:54] Méthode HTTP: GET
+[2025-06-29 21:03:55] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 21:03:55] Méthode HTTP: GET
+[2025-06-29 21:03:59] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 21:03:59] Méthode HTTP: POST
+[2025-06-29 21:03:59] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA58m2Ia-uQ5xI1vLuPlLpobGnkdi3uOmFPITszyk6NU-C6a2ayrxGDi_LVTpX1WVjzPkTSj6jVF2V8lZlCfno8CfZK680ctjo01iZoYJM6pPdnihKlqKx_ArkwOyPwY2FEL1lCuFTtYJd21i4YveKHEVY_LNKqOwvx_GyEHWNYsmd3qu2gFboPZgUwYgEPES_tloCMIDVy6KpHgc8nQnC6znGOA9m2dDeA95uS_AaZjNNhWHA1WO0MiMkRVqY7GmqeuUM361KTq2sIpEID2dRyyYls-nYOfUsFYcZcU8nqpznhqF2p2_g0zuCRocrmhomYbONcHzt7slROJOQa6t5Cc7tArv4bUOKjVgY8EZ39FogVXWbTZO8kjJuHNxNG6sySt4dB1wj76fGi-EtAIjukN4kL9OlCsE2GWV6a7lqkjtgrp3OANp0oSJSdgcHDA_czsiW-hIX2jtYIWf-2XXmVrBep_-YRSS9K2Tq2ZG-X-GklLGoE6bmspeNBEDwzSP_gcNOdpFmJTh4DLgyx9duV6aSIiEL6xfmLXQyHo_wZnJRkyf4BMwiRMVfu6jI7qVWSRyL1WlFvUW0sUAjQRMPmKMq2vANEagXg5de_TnaamXOiog_8bF-V_9IyEOp_lzeXv6KfQBMCa4-LXB8Jf8_gjHM3v6Kb3SK7-ixPCdfswy2oBkg2pNqylYOvw9EshCjvwFRKLIWlUQmO_FHraJhDmS3sOg2bfMa4gvXqbA_I-yAk2nOWH-_RfFg2UXawVyYMhuVQDLfobqmnJ9hUcdrXRtOUqqd62al1jv4jWVLy1IatU_o7VTyUORM2Ll6QNJHx-i6q58OU5WI08YJvK9xIBu7FfRhsS62yoTZWBvEQa1VkQIDgZRFKWA28V0tjTTIa6qqGcph2ewRtujne4iBjhjR_Gl1XURpTJqBh-XGZ3luQf7qf0UH3fqEBXh4Mx4eF1_abQLH-mDN9wn2plSEODliKAKEiZQM59og8CwebtiDqEWhE8pWBCnPAHzeTcyp-UG8gdSp3_xlMSmsAfOIcyNj2Vn1jH3WX1i6oOfQ_JMGvXhUVzMyr8HMA-vX4ndweUftkVmMWx-IKLUh0eww5rEEb68t4DtVRkt0PDrjMhAbNvEriBG0abx-FamzJYNdYRyAFlw0uoRdqmLx0VwfkGQSTS0-VRWgPGzOZ8sIi7MhFRnGQnrGZwIvsRiA4AyYTGvu7d7Kx9_7rs9mSq0MbUJMK7z3B1_Hj0J8XlV_VR0fnIHSpVmg6r9Bx-Khjl9slkS7-ZvFVbm4fRqcuq9NW774pDmPZFFFimG6e62cX1C0252mb2_RWAbmDIDVI2Mlbq8ID060R1zdXWAjhTZlmLJmEZIE092yyMklrK1rxWcK9SdcDMt60BdGo-Ik-3zWqBcz0j1_MZ06KTYRtNT3Cnx_HDs3mQ7uhmYv-_PpW7XVwLNXlNq-n4Ja4ClZxyVw03C4sIvZMaiYrcNUGSAb5fNTdQ8RrIMxtAC6QAg2BOcPDnnON4xy9A92S8nqTCfVTC_RB9xCzhNXSdFt1p0yyglChUOXWMT8CIWAMoR-vWdtIHx3Gq9S6TYsbtsHIcOfS9nUatdXoaSdvkKiJlD7F0kK_kx6Rfs6HXI6GfG-ZdpMHvq0Ilv73UBMVycaGT-z0A_Qzs7QsmIPclR8_Kzr8q50VavKdE86N-Na1U_klzOevhmB18_RyBvjNvAmlMrcKJysIKbCsvXqiU5v_NNjcFA2oz7598Met3znF58zZR1UqTOvTK6U7zXMCuvk5ZBGVYVFPIjecwzCd4CWL2mZyHChBaKACZvvI3Na3LAzSdwq2K54C57YjlcZ8F-XBjxBskPxhEoFtOJ9f_M3HzfZSSdIvBgtLotjHHiNfOOdoG-3R3GvDKXB9KjeOiPDMZdJeX4_7CPfciJhjt_zc1o-gnr8nSRdDUjvzyqY_WZccQ4E1Lh6I5rTaUhFHI_Xatr7MW2OoljX7I5MzQI27D-uJLJpJCQqO5FB2XoKebM4zCMn69UNZEbangir4uWJQ66H1yGXnW
+)
+
+[2025-06-29 21:04:00] Email traité: akadimadina0@gmail.com
+[2025-06-29 21:04:00] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 21:04:00] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 21:04:00] Utilisateur trouvé dans la base de données
+[2025-06-29 21:04:00] Vérification du mot de passe...
+[2025-06-29 21:04:00] Mot de passe correct
+[2025-06-29 21:04:00] Compte validé avec succès, connexion en cours...
+[2025-06-29 21:27:27] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 21:27:27] Méthode HTTP: GET
+[2025-06-29 21:27:31] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-29 21:27:31] Méthode HTTP: POST
+[2025-06-29 21:27:31] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6IC3EyXZN455bU-KYByn2TEOI6jzCqWY35ffiy1njGPvkzddD5FKh44UZ1uGbGct5Pp97qQGGdwqyWtY-UteMKvBebqQ6NBcUKoAbGmdRESE57ze--t01yz_Du0wXlPWdwD7pjF-5BN8om54ypkc_HKSMDhFN-vGNBtXlP6MdRAboXG_tQEIoQHLCcDfBLX-60Uh6l6btSCzpq4lspnomNinahC900aDGS6LEqsB0-l5HaOE3_LkT8wfHjFOK9aukjUlKUEw244wGrONNYGxSl62x0cQDqdcjuhZ-Ved_pEW2bjoWjxlcSYC4a9OmHhXi6cOcsP1feg57DrxI6AsA_yXjf5JbE53xbRltPiLvoZg_lRnv2O4T48jA4jk3gpon2XZggs9olriZhpYJtElgRyKo7q5YyRuAcwQHMCIpryxI8LqxPOWEE1uUI8pXJUvBfRKL1bM0nRRh6f740K3xJ5tvd6RF_8IQl7Uo3GdtbTxoirf807YQWe3r7QPeuZi_wB8TQnB2cDJVQhGyle94uKk0aGX0R7eMLsm_k8RGTotbbj4WJYxECeM88yY94ICuBJomxf5jQX4c7ODOvvvfZxsC6NYpH8fy4EqEuQQ9py68Xd8kbrExqSJFnJxaQFBDUlb7iMWGP3OyImZc6tdEq7V5JS7vOki7hI_MT69TzjA3UAj3dqxYAxrlBKRgrLORaIsQZXf5y8DELZNjWby37UBUnhLSh9PHR2xiiFnP_207hJolmtfbHqwslfL3k0c7YUPZ1g0W2QQYT2rwyK3l0j8QGGSAixXVNmhaJNvhdgwxHfoUr5NyRFRHZq3U34TbijU6WcZRztErzcwRbSwZ3PGe1-53fOIxfQm7UaMnJ3knw0WjDntwJJjzzk8AOl-K2u02CUSIqPSf9XN_TH_HxjbXR7IwncwzuJl1qyckSLRobw2io-52f6WU8GHOGhJRUYB1YK7vynsGV1QkgekMyZKqu79V6hT5A96ZL1ohXnQGhDypJjsFGDY86QLx9u2dph9fHHNu3dh7_1_xLi5G862M9Y-4yR8e2hL68xLC7bBb5-Et5buXH5XzBguWdv9zRI6ZZYEUDljR9W7MXWrsXdRGKFsqCzqIjgZG6tNbnZ52lCIeHHlfd5Hg7_5-B8lyn7sT4uUS-ypsG37-mytMq90V1Gp96_hajYEFjsxfpOWq_TbcGO_vt4o9Uud4kcGqoRNW2r5OOt_VOFJnQQobav0hxXkhs5wtsqMSdiOLKknh8iYyflyqKrThH-97k2vsV0f-zvHgPjdWPgUGHA3v7U4x6nFtE5_k5AevthABfulJpHbH7hIX91mXXRm-gA8D7IuLzBRjRbwy-hWcxru2tRgQBjWtqjGLabhUfFWSk4Aeie4zlFpMjIbmTepCfuuzcvqjC_aq_7CTB4p0w6CN0ZKFyCDZnmxe841onmhzGmPWNdou20YFnHB3HmsTi6scokbRr6SjiNRsaMBiXCx6orO-Mxv_cepTwyN88IUzWHU8LDdu_Ll5NLqW473nERSgMPIfWcTZcFXkn9S3WLzHy5xyCY22DFfAxCclmqFpn_SkMPw4MZEhlWXz7EVExK-4fkstxfVPa8ebKIksffkZHuDs7oF6La9QaTQSycryQx9vVwLDHUPmz7vALFfVP2Qkcf4f8yGI1zq87Qh477IAYGCvkdmXbVkEq2zLcT1j7_g7vdR4yx6SlvmB2aGl3oJGrrvvjbvxWwAUro9e4o0jHVHBVwuX7cbyKKhO7y1YA6O9RjhPXh1eXu8Bj9XFAZjBRJj_wR3Z9Ytgh4ipQohO5OzgSp0LIvvYVHAlTLO_o4YyAS1bcxszcI8GqLnUVayn4NASedzOUvEjCGqyDtC0LgKUgGuYY1Si52Rje_LxAU4pk0yuuwBqHugYVEJCcdTZ_InxAmOe6AxqxvFp3QmocJPIsfzF4xwrNW0pSC0Q9IcbWvO0FvkFKt4SB8HC9RpEt69G_edba_Rh2uMhwgB84rd9H8i-8BTKTYwA543de0Q1VGeRbkvp7zKfbqGHsbfD7Fwy6
+)
+
+[2025-06-29 21:27:32] Email traité: akadimadina0@gmail.com
+[2025-06-29 21:27:32] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-06-29 21:27:32] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-06-29 21:27:32] Utilisateur trouvé dans la base de données
+[2025-06-29 21:27:32] Vérification du mot de passe...
+[2025-06-29 21:27:32] Mot de passe correct
+[2025-06-29 21:27:32] Compte validé avec succès, connexion en cours...
+[2025-06-30 20:42:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-06-30 20:42:13] Méthode HTTP: GET
+[2025-07-01 17:26:48] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-01 17:26:48] Méthode HTTP: GET
+[2025-07-01 17:28:27] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-01 17:28:27] Méthode HTTP: POST
+[2025-07-01 17:28:27] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7GKJFRgn_BPkyQxslUfnw7fptp085upmCSNEOEyEIuhbZir3aOe1DYrwpvd26iT4dH2BWsIGEzjg2aZl362mJyZe-uKTwG0D53PbnY1RQR6SPN9a_JKtfcUXq1mmUCR2TMNGMVn6vtjreLE138ogTvrBHhgs3JrAV-TdmqPyVzaOVW4XglZrDb6cQHg4U2N-0XGg2gMnAroR-FcV7zP0BLK3EkPU7mgtMazaRPY21S1LBHLTeLWd84Ut64YbsiIcKe9BCzUyYNmzzXp2ErqIYx5VnUtC7wwPEaev5N2koIbFYYTtCERWTptqnsGAFl1mWguPB4B0MjXpXNZ4MvO0e_LlRBB_XbrGX90X0zlRvm8H9sbwSC9SdM_4SPuzSGqyAIf5eJzH9OcEJpqyn6LknYx9GtdjYxc0pM6ZUT1-baXlTpLNoAxcYvU4tPNOnQ-Y5h4_LIJH7te4hRee32EVH1xSVdjdX--TAfYDuwAFeWflfXYYTEPCm7O35T7tzgoDlhjWsLBLLUcxLXyko0LM_bN5ENhqm7kb0ulumVHjpQJqNOvDtSt-f6S7J5JGyF6k26gqK1ujiqbzjFMNnoHT3IgucIHUsFCzpuaGncgNILWS2Sa6ENikJ28AoyIt1SzhyjYfd4uiVKX8hBkDM7Rc6C0DAlu5ZqKhFyk9bc94hjSFbuCHYtdw18EZjwVGFtA9cGIct3AeUPhQBwgLyNiM2aruyz4-157H2EahOGub2D6dQrb7LlDCGqqVZosvOBUft_PFmXpwMMnGpufWphn_fkb-lMW-Zwglw1itu2Yv1ca51hjxWBut0P-8lExK4n6Ze1cxk27e23nwWBb8Iais6iIsRGaw47DJWVkY_Q8P3vb963J3NJ1M_SZCYj0XlCeFAMiQLxetByj8Cd1_CoGCnXkWTFgDAG8DIK-QK_RRPC66W9wwqeXQkmi2bbPZf95lXZL--VzS2KrVgVktkkNizS7Dn3Jg-WnqFFkWuHOuh2Po7IO97JCznmRCM8aVh7WrJV5GD3Q6dWz6WHR-xTk76WCxSORKerAaDt5uVYqbaO6K6fNRnKtjC3xiZEFwNZA9AfiOpLMTIWueRn8jZS16kMxBQCyMzV13RGwibksaqGzHjsAt67WigDr-dSRHgeS8t86OKD_7vFKRdyDli4LFepJiQYnj2b6sMYsBz_nXcoPIlFyJrUyxQAVlwehEYedArHUL068qNfNNuyxbgcSS51cbdbhh-qX59HaXaRzu8MwugiUcw6iHnktDtxa1scxjTo2x64pZ_WpAjs_u0zXIOPAAlVpL5n_L-f9ZzO_nJgGZLtFS2WNTHnMYI4DyUvE7L_GCJT0JMNK9UbqPlaucCG3nKQ8XSqUOyaEVRYkqJvYMR0ITgJy4u7vpgpZb1f3dvcasBVMqmMJtV5xhdgDJW7wDnTY_c774ztbuxaPLEb26uDVZgYBnULqW0QLCRdA79Ks1P18hXff_h7of7P6wb7oM33L_2U5UzCY16RFwsAy9xO_5DRMn2KZSQkz2x1iH6HwmhVHcjLZHuDz1WQ9rgRwh6pLlmWJA-Y9LWEExKxL6YPqgJI2jZlkdPoll-cGAI02yPe3eUx941W0axvAVFOqwutOvTlftOu4pcwe8LOmnJ1E2YjOc98TURX5t9x8EiD56kXsYGdHa2CH0KJPhldicu_udMvJZ6IaJ4Fy170HN31clDeJaGsZQ5UbgCFBFendj6JdG7uDmdJtLlclf2PlLq8qgIQPcSc0WQYlHJ0zHkmeNVNkFrMxv9Ex1ZYxpLxZGy9_w5Xtf-sf_T4AX7gf7TU8CTxDQGg0YbKPRIXwFEDzCfC9_w8nHLSnEy2cnsrHnpxpiHU2Mt2k1QYu7A6c1q4rdhI1GEWMktJRuEHlqbR37PLBemumdwWQrc90FM0fL4o23WxR457Ruwkifg2QvhbNinlf0l4fyJT4BOo-YbHdOrsfwKYU7sAp5z-48avdikNUDNjt14h46v1urTo8EKC4KEGf4azuOUxgDBjLKInpWlYZZfA-K9ZBJxOiNURYo4QIxuFYq-ByNkM_iIa-aSmXg
+)
+
+[2025-07-01 17:28:28] Email traité: akadimadina0@gmail.com
+[2025-07-01 17:28:28] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-01 17:28:28] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+)
+
+[2025-07-01 17:28:28] Utilisateur trouvé dans la base de données
+[2025-07-01 17:28:28] Vérification du mot de passe...
+[2025-07-01 17:28:29] Mot de passe correct
+[2025-07-01 17:28:29] Compte validé avec succès, connexion en cours...
+[2025-07-01 20:01:47] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-01 20:01:47] Méthode HTTP: GET
+[2025-07-01 20:02:47] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-01 20:02:47] Méthode HTTP: POST
+[2025-07-01 20:02:47] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7X7hwMi3z9Hfsui7G7QEqnWySPfHniaWyJShlz_9XMTk-yGBNsqCNNt8ODcSj73JfZ2KBv-Ib6TVgmvKDLjURtNXtSIC5Qu_QN4eoMPrFy2655QFMq2mX2p0glG6kM_V6b4iiiP-9Azb9Rvl0NYQPWLi5CTM4gp0diR-ADZpPMvmZlh8CWwOx5wV7oDr2RW1-_ye5ssqyLb6sppUyVTTaug_p04rVQQwhOEiquSRIHhRinsOtmkpo54-WQcgwfqj3TK02VZ8zgO5h6vCItXYO97opKz3K4skG1GjuOMVys-e9QhzYO8H3_z16xugzt0aTJpUfEmL73CGONi0pzY_N8ueVDhVATSRLuBSk9mHWQl2EJiUBONLXzk9kLhnlpZYzZdnOm_7Wq8Du2MrwIw_M0OdOyBeOkipWeuTxydd3-wB9qS5nUkoc_dOBNRW_o0hPM58EwyaLEWpG8Nk5vKBpGi_PBacSqYiRXFY_Z1O6pp-GGM3RNl7eV_ZPncJKeyC8_GNcjhQknUWcd-8DakkUVoMh2frJCM_2BRrwAbmjznNxQPIldSRNgw8Vtg4_Gn3i42gL3RDYOaL4ZPXTvhlg_MxegPQd5ZcdNs3EyNbDpbWFJ-SeAckmDZAs7liw1DeWMplwlPpGEXFXBDHMF8_AXc7E739d2nFIAg_Z3MNtFAwspdAOhJLNLC6C82B0kjw-6CUjCQrir3L5ssn_dugNZxh5orj2Grh2ONHWH4Jv2eAA1MeFKANng6B6C01XOzo1Stk_4CjWMMW0Xjn_TNCkQjbCLKoGbbLI-OT2a3msfPrDY-jLQFm0yQEi5ybXJg_E5W2ZLUpRmpszntRH45Y4hF6yiccnd8Sd8iD1NbWCozUYfBQ_Ec-QHJMY1c66z_vKUrRbkRSPrsd0WSl3XjWNfUtuPboBiusITnPJN6vglN0-zyuvkRbiAjQgtrE-PDcGc-D5MRI9mI-Aym5ovie-9uNTj8h0MMWPKiOWUUD473sCKMAs8-aZCtLUcQPNrRimOG0JzabPTFpyPjj8uHLB3Ge_IpEVXV265LfmcJBtppB9mnSenC61DFXKu5hVTKeDTI8jY7BqZyNdx5mY8tH3Kw9gR_h5M2XR9vZ8D8NG-dYfWam4WGvvn5iAMp3NCRjcgjo1BoPkoXQAlkYyvSDnRgG7j8yoQWEHsA2lyLu_7QTyJivH_Yg8JxtImMO9FmuoHnH7t9EIv6seMyB4omqIcOb82SC0xJVvzire7NtexSeAb9YNIJjAs13ANlVsUIl6XPIB4is1xthpL7atk-pTFXi-c92oLebOj2IOvw04DEkr3YvVsU9hxqo_G4vWCjzvREL0nuos-6GQKObbsCiycgIO8K1P5daKQWvCNRQ7r8z7Y6J-l1lmeUt1QfUzhvxVx6v4euWurrhlOJVGX6JqhslBpnOtDL6cRZlmzzRokxmyEhw9p9jFHgXJIT7L3HwgLxt_hAtQsfloOwtxenAqBktUwyqzDj85Mux22Aj_ovaMdJWZ0kKhKzY4dv9txSQeu5JDOQ5MYJrc1Xg8KKrYUzli1dLIM-AX7ZexnfdKm1s9mgwDj9zyfkM_hzv-zB9aR1yzMdJnTRBonvVbc9Jy7iD9rlD6Tds0QadA8U58QUWjkUKoOZ7AQ4FpMFfjXxBBEgD6Ex9k-RFFDqNQ34kdjRO-iqFmfcpc7D4RFoxrgDEEfSwuvVPqrRNA4IRNBT6dg9baHoBzDJO13ViEPip0t9ViVc2lJzXXTI_5T1CD0Ey1rKQhCM9GHRZQoUE5gKHGJgr4X5_5UYexevJ0UYz7b1m-nAwWqqDbpCR9bFwcsFnHzZaob5N-FvFpMNelHRhEPUTBgGFMFkbCV29a3ipyGw6h6efy5ANx4a4Dpm-adR4QZt_dAbHNaEz5S97_P6Hlpsk_cPh5XM30TtpuZN65hRDLmWyDlHjVPpgSlIf7wnNl0Dpt0gCSquZzOBujPCk2KoVNoiLoetIwD0CKoXabNjUHJI_n48AerbytjXANJ_-uNn1o
+)
+
+[2025-07-01 20:02:49] Email traité: akadimadina0@gmail.com
+[2025-07-01 20:02:49] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-01 20:02:49] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-01 20:02:49] Utilisateur trouvé dans la base de données
+[2025-07-01 20:02:49] Vérification du mot de passe...
+[2025-07-01 20:02:49] Mot de passe correct
+[2025-07-01 20:02:49] Compte validé avec succès, connexion en cours...
+[2025-07-01 20:27:05] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-01 20:27:05] Méthode HTTP: GET
+[2025-07-02 09:16:19] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 09:16:19] Méthode HTTP: GET
+[2025-07-02 09:19:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 09:19:04] Méthode HTTP: POST
+[2025-07-02 09:19:04] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6iVQZsz0Ru4jNl9s5Thu5VNOEXliTBnpVsxaotdiRDwyPBMX2ZmgSBYCibx8SZm5dCBITaMW56RJsLeKLMSK_YAz0696DEdHmEt11l284VOUWNJCMvSXA30OnXZWWZueceyVHwwBc7n0LGeyD-S5dpQstj_xmxO467C0-HEfQqE2jtVW9msuObOj_grzWGDpasXmuIiR9G_kph6Z5KBZXrwpVO8Nn9mz2hJjeUk1nSFlnBn-r9FqGvGP-MbtcS6aK-Uzhif000FA4suqw2-lCLqu6dA46kyWtrs4_M0rGPo3QssdcuBNjOYG_UIs_QBMQO7pkDx25093Frw6IQ9SuwK31noU8mlmultYqz1HoQfrArxFzJTZWDBUCAie3Vr2lxQy7Ag3OaJzSxJn_M1KHRhLZ7YL-Ke9u5blWi0FCeva23_lpz1B3m02T0mq6zMHyRDun2fwFoBq3dR5C-r1gfr0khh865ZCFPKtlthT2GHpgPIakG8wnW8v0CjPcCwaKX7kqmbEr4RPGt8MMVofKdTUmZ7BkviwbdyZ7XGHNcqg8NbGv6D5pItg-e2Vx2oDod_MjWNfs6z4YpmTR_bG4zMQpcsV4EpR9hn4Are76qevmXaFDmc4c1dNGTs2WdbnX2CqoV-EdgS3InKGtRDce1AfFoaziCZ4Ga4ZAfDNztj2YsCDB22svTk6Qf9s2QaFUw7oX2xzeueRTe1zX_bb-mIF2mCK42vcqg_mVwMAia1Hxsa_z-0NjDpx1U9uYjcMRGnBuZX67v3RdzeeAYVPacbZ_DAZ89tXMoyYyOkycbnBcsmQD7W5Luiffc8wVHQ1ToX_E_PXIJXF9u9cpBg5byO9fo93V7OLs0y5PmgmSkQn2EXI_U3qp0kYAoOfE3ZGpAC4s41SJZMn0eZ9CDaEATXf2cMXWDa5HwemzVqNYmLQROtRbxGvREXOeEF6Hwa0nAJUMU02ENriZBMhP69QF1b0QivDmN-7dSS8CB-50KoOcWm8k3e9j7Qa1cvRQSJ7V3UogXQBRbtz0fY8LF0R-Wqp8pqeysaypqRrjwJyPsW3mRTjgPKLiArazRgU6ZC2_89e6gnomLWpo-kTpecXVkF9pJ3rbaasp2BK4Ofr_2sz4ev038wAiFou6UcXp1LLMx6vuhBoiHUKawZVPvIcrgTVzZEzgrqvx0na335XEcZJ1RTnnIW0dALOttZPjsox0QQwI0PUdOmfVS9HYARvktQXiBGng2ClkrXyEHaxtJHOQKaV14d_iEDRS_blxK4viwuF6mAHQX27RDIObdIdCrNOjiz_y7o_2YkksC2zDkruBCr9DcQ5vT0MJSQ3NXU65LmP4TcJdTeh7T4uoHPfLX6zgrpAgAyFNM5OArp4wX4LGY_DPWL8c8HuWM8Bw5E0dUZ6HUEtJE2D7kdxuzeY04MUYZtbfLoZ1KjOiVQyAqDxtENPXFZNLOxVGq6AQmHRDem2lyoIp_cDpSuAeOPfcCtaV-L_2CVSpdyMQ6UaBhRY54aUSrGPmKRC6apowLY-94ZjbaTsWx9S5eZpg0PJhUrKfhJHKnwtiNiFMModN8agykswlG3MeEAmz2jZa38NQ8VYneMEAj-PGwTYKyVMjeSf01Dl4HjN50CqJE11b59MUpJbwk_wrXBKnCJyVICGWfA0lOonDC3Ed5uoDOipW1HgTLZ4HQtju9jJqSHwzMRnfpsDgfURBBd6npLOlMYNsaOP-GRsjdXNaDb5bluLlwWjD_FVpqDgHyhTH6Db9LeCxne4zKO2eYXAf0SIo8AGWADIJAp0kTMIyZV2VP_KRDRtw0HrAdc2SUb-9ZycTbz3S1O1pu7Y08sDbQX3gfyqdM6OAoYKdJJpZAWccAvIl7XTqyVKTF0HDC69rNrl39Bv83h1isLh6fGqUvcX2cxcX9pN5FTXrA-bRgU-BYbhnTy0SbbC8fFmRWVOFckKmPPpqU1NRdRtWmdRB0c3qjNRS_szMbzHUcMbqXsS9imP2lPxrQ-Jahqx_Y-rZhxxXHBluD9cw
+)
+
+[2025-07-02 09:19:05] Email traité: akadimadina0@gmail.com
+[2025-07-02 09:19:05] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 09:19:05] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 09:19:05] Utilisateur trouvé dans la base de données
+[2025-07-02 09:19:05] Vérification du mot de passe...
+[2025-07-02 09:19:05] Mot de passe correct
+[2025-07-02 09:19:05] Compte validé avec succès, connexion en cours...
+[2025-07-02 14:09:24] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 14:09:24] Méthode HTTP: GET
+[2025-07-02 14:09:51] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 14:09:51] Méthode HTTP: POST
+[2025-07-02 14:09:51] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7TCJpr-EOXv9vYeiP96lC-Mnsl6x8C6hlHPoaQemRFwKNLCJJ4-Pi-h3-_-MFSTbzqAQ3UwOJBxmc28FZJ9dycS8rhm6JhiHs_fyhGPhp8u3H12kM6Hw6vsk2tUfjKwVvZ7TGd2Z0ISpa6Mmcr8xjuPIinSmVi_-t7_CT4gEQZ23nq2rmER60fZN6DwDe4kGUqgyEcuXnMZQR5EKT7lv2GA4EB3gibaT4EdUZzvU-kXeryIIG9Srsw_D_s8GkZhVHiQzIZbREnfmU1iQmhw-GvyrpkXj88Hjyw47piuC0D-oU4wkvBowzZXV0rTwX4zdgaJfNeKW35ATTGUuLDjwjYXi8Y5WuPU_d7NusvrsGoDAUvVoEuRbJRtoadICJxV0AO-OFP6JWfHlx3_Jvjkm4dKO7u8JFfh_X6zf-xWFtyt_gsL9X8LM3swiBN8ZitLQrvhOSV3It59bmpWTB2_Dv1fy9Am17Zh2ZS8dd_cxc63r9MxqfMgXBa6l1pRp_aLACkQWNlGI18mh40OZdIONhCRYsqPT6gHEP6E4SjX_UCYr29RWVdrccsnH7hpRNGbJFiK-vdejTGZYTOpBxYX3NinZt0vUjyAzGypUv2GKPbsfHKO4Y6T0JuP8jGCy7pnLALeP0IhM8vc7PYHlbm4f7jpn_I_BAsMU0FBfffNLnzEG7EuysKj0aBVQxFww_HCjH00Ja4yUGdlGQ36B3zRL6fVUP-zCBqrnbAd6a45irgKdk5IEnIbj7p-DnNG2XN9U4UirectX4l928MBumnkSlJyKWsx6-7ivySBSxfInoVUWtt0I55UaO8Dt_0gKw66WS6gGpL6VXc0N6-4E9VEtQhsZvH6vqFkZ0Rg-RmrxB1d1uIjSVIGTZ4US5Nf8ZXwEtI9xNYjP5GTbVgFTUehCXLpQpQvX_GYdihGuxCYVxpKWNRGBOQXABqW4lCiE56T56Yi_PiiCA700NHTr-AyNN3q5ZQd7Pp85ECblOpZ_trknHeUtChp63g21FyXHjulGdUgqSLTIH00se3Fg0VPjWM39AbynRR9Nzlz-y5YOI4SkIs8mmwUSWgcWd3wRP1GdQmpQ7abNRXiAcGLRQxQTAn7q5rU5wkQN3j-5V9qDmcCiM6B1tlZq9GVUG3zKygSUtARkftxoT78ihKzG9ElkXzA6_DDUbqBE7sYl3rUNiM8u83H_md0k2eqHLBJt06sM7N0W35Ft2T-DQJUiPhL4EV63rK2WLFhGj7JYomZ0vWnCumMJmwlclYsrxmL_wHV34kepz_14om_E24lZqdpEKPn48qvqvgkpKyjI09ox86GWTGbkIZkz7bhVTBa5HJ-cKJnuCB-j26UDiFg9eOdSYHh8YGz1fYSypLCVkk5OXY-g1XB8BdoM3G3tjSG675FaG__Bqm90uENnhCplh2mWV-uPTKh0rYDvb9kxsZjHJEqhXD80PVWDsxbusWWh3QK2Yv9h9gnZ_hpHJu24h9UZQ6nom_Fd555UTIqXWRDlA3L9MfK8Uv4VowS4y1fCRdpIx9tA9U_OWaDCdvAcmUbkRAPWpIWI-rGUpRwsgRigBBHwFprmKQWdAg6YQGo_9TRfoEO4rPjo0WAnleiRjNvcoJuKFunO5WoblS5cp8QFGyuM--l5zPKLUEv1wn1m--TzzmMIkEmqqGyB87L5BxJxYSRe640eljTgXBimA8MgRhU9LrulFDyOhxC4u6SBVu5esL1GngIi-O5dcjpJkkO5JPZRqGrO6-VUiMktHZ83-TL_obcY4OYSRhi6e8wplfjetFGxVs03z4rYJ8P35X-VEwhClG-PAxxTL3XOgrz2cWohmBWiXG726lbusRLhty3hq5xdWTXlZjaprVP1xMwLbDZvXa1iKmMM_oQmsSxAZheq86P9mmQ19nbGKF9coFuA0Jlh7tc95kpvOyWb7Qk8Jc7EYBKLBKeL8UPqYoJRIcQxgx0m7CdZKxjPHy-ITat6WF7YCjZL7KseWe9JiVegONvs3puW9KDRQGCxPD9eS-bbmAzZkU_z5QblSSvp370Y0lS5BaeM5CtTb2y4he-xpGCxUQYw
+)
+
+[2025-07-02 14:09:53] Email traité: akadimadina0@gmail.com
+[2025-07-02 14:09:53] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 14:09:53] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 14:09:53] Utilisateur trouvé dans la base de données
+[2025-07-02 14:09:53] Vérification du mot de passe...
+[2025-07-02 14:09:53] Mot de passe correct
+[2025-07-02 14:09:53] Compte validé avec succès, connexion en cours...
+[2025-07-02 15:01:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 15:01:13] Méthode HTTP: GET
+[2025-07-02 15:01:20] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 15:01:20] Méthode HTTP: POST
+[2025-07-02 15:01:20] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7yhYGGAe5IkPapPcR6dJt8M_G0nJa224eGgWOmJO63h9a2LKA7e4cKXY7UfJsMpGRY3Uy3WQulM9Fnp4WmoFbyymned04hLY5JGwCBH5AKTxPutjN_vk_mz_LUpiR-VCdrUKpEuhob9GsBKeybIr7Azz7LuDDi2wGTlGlwyOn27P4EjWWNG7c8rJmAC8MJglRobik0tSLk4wJIQ6e5SA68aCcUoL1wUha4DaxsOUEMH2JUizBbwiWDhnWbn4bDZIAGLvtK1F55UAHAt-5D026EgLnPkc7bsC8Lvxyqlalnn_HCv_7_ryuLr5UJ08RA-epEi8IoT56cpOEB_7I9l8_I38aIHE5ax7Jsq4CVRTSESy3Mfd4OOf1vBJEywOvRHw5rh9tRUxVfuyxZXssHmdDGW1P0Hl9_by_TlqtyEtKKw82pVNoKiIbuhu4vgD2WJ7qIWaddbxQEdRoIMFAP0AuEA5XDoc5NQckG-kYjKUdYtfPvFJFStGbcBtnLE5C6kCwYp8oes7lOVdQ5EclsmBCj8P6ucKSghfmyQrg45lU4MQLsDlZN-oTgEqagCu4UZniZlh3UWBqBrDC2yfQc7gNT37twpogWmYrMfBeHJ9XLD2qt_hOwIleHuRY8rNhavdZw4jlfALWxC_vs5fm-ePaStOlM0Uj8zKF1re09gjNLIx7nL-73Wo2q6kto4itERdt4dJB6IBt7Gg_CpeecN0bbFXlaONIV-RDykaaEHQnAlxEapoYWBkp86owpYW7PeNDjSeD6OCwvcGGkDCJylKHd-LcCBZR1EdAeSh7HQU5SQ_KbF9ptfKwF5WaCWQvcxmbq5FN5OAUZct5tcmWSht1z8a7zjO4Z56KX8XvVWPONFYB8S-c9pFc0E90APoAzB5xSZcFdzZnY-9RjN74vcAoygHAzur7qdIAOABUbVEAibAffsA9sbx7g_-pSvYG-sgwik9jHo-9hx1KqHcM7vk66nKFJOnBfv6a5t5M76nK7Sx8tYCz8ouEkf5m_ez949pn_5pe1XWcVuguZVUcPedC26GTns4Q0lu8ez-L9n8OPdadwHz-IyNHV1oHXBqBFZorFXuM-GWSio0ms46LiqLA2yq6_TrESLZxUXfrFKkgBkgTYB7KYb2muv2W5oUKN-VzyjRF9scWoT9ewIegmID9fWE6SzY8jCQltr_AwGg1EXv7E2d1Xio1HSDcouU94_-fF6LyYNjXZFQJ85ig-bofShl5dIn_LbaY78_kQ4wntRdrn0QkT-7bFCr7Kp2Y0eMDmMc97ay8MDKhDJ8NRN9Uu8G8l7uNNDwAT-E1g0bWqhsB_gHl2gxrUoU5wl6KIrvDPVQjd-apKkfLQ3UySAm1JDpgmQIFksl74u2NcUmYp2Q17ImJlMXuwBkNDrOi4DOCu9VayFCVKJG-ZwEPoIgHORQKsDAiK_lo78XFB36qhxKfInbhvKKDbrphTwOp4ul9OpU0t9IfmmCkbUYkcLSkv5Umx3rp7hzkN7Y9OpGsLSTjY2Im84DxZjoXqcuJEDcp01q71FSWF_sFI4HCc4y_QCxEb--rGaddomU930kt0A2BQowZ1taT_rO7HJzeHeZ7Ja96nLusoFbwHF-4iitvYh6_b6f680glUcbz2HDq_gd5E6ELpd1sycZV1U-1b2z5Kv_q9EMF1a7b15IJx5VzpwevQ_qElBhtNi_eoyKkb-x5sXSXoQGadCmjmLG59dmBorBG6Z7i3QSMO4nE8pmuH6gjwYiJh_QQvryc9ssl5JcEcnVsYKtWC0kjnyU2JlT89BgJ6EVnIzqNGKB8QxPtorwnQ3L_FFKxHSIMRNe2csKEh6dtPcUXFQ84nBgFp7SAvfk4sji8ljMCPblh278Nv1dyAX9XRZTqYxgp1dLUzbFH2XoHSChLq73Ml5sFC-z7FeODCR1XWzQ_XOkMiQuFgwSo9Y843uwtkon-gqdfLJKWdTHIZ_gq14nRQaw6hkT0OADu3rthX-aqAGErPJ3BkZWOhiyCFBtNkhfyN9B9Jbp1edobfd2mx2NvD_DRS-ByBbL6O
+)
+
+[2025-07-02 15:01:21] Email traité: akadimadina0@gmail.com
+[2025-07-02 15:01:21] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 15:01:21] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => circuit
+    [5] => circuit
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 15:01:21] Utilisateur trouvé dans la base de données
+[2025-07-02 15:01:21] Vérification du mot de passe...
+[2025-07-02 15:01:21] Mot de passe correct
+[2025-07-02 15:01:21] Compte validé avec succès, connexion en cours...
+[2025-07-02 17:50:28] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:50:28] Méthode HTTP: GET
+[2025-07-02 17:50:36] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:50:36] Méthode HTTP: POST
+[2025-07-02 17:50:36] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4TnbTV5q1cZ6i6I9pL9xGl2_IeVlE8UTN6J2IvMp_nMWSXLyKLY-SmgxbfVaOp5g8CDG4OeibWHI7qhaMI7Gp132Io6ZTaEZsRn66-wTCO6Elzc6YBADM0KlbMRDOCJb--jn9Q0N8aKWFTc4o-zCVSBNLZzxrBuO0opJ1q1x0jgTAkvmcorPHScfuXd8jExH1di1EHCZ1Kk8CmbIoGsORwSKt5TbDPDJC5AVTvEdqUk5-9H2sOMeOvSOXO6av9tO0eqO4Ww7OZ08mcz7wLNi5Artda9lrtKi4PuhGBmqaC7UZ5gCshQJzy5lGW-OdA6uq0rNj6j1vhmswwcKxXVP3gNeyKcTF3-TYVpbnHIzzwPDImfoIBBfJNFkUyYXyzL6A64wHOfAw9Qz3b13sUpq4tB-3NQLK1OlEYRkZR1AuCuSyxJdblZjye_oTVL7WNmxzO3geHup6ugDjYlE8w3doxhJdSgLvdbpKcZsEiPD5QaiDXz6reeeESjvqH0nN8ZabRJXe3j4b57ZPmvbobubMS2h_6n_kYLPbZLgPopzUo24zAKzKvFPcy3gJ00-Q36r-j3FFIXQbUDFo0vjZ1gCeJe4mvSvUmsHTnqfjZP8-nbfgdemBanO6vLuevPSSInTrXOa1PNjsxzDP-YlhMXGCRESLyaAwfg48nSDym0W_JASMCDj9Di6j6R9wX-l3Qfeg4gSK-mM8y_4R48Hy7Xg_oJVhxor2qysCkyMrnoJl57RY_cyzRTpBnIG63HgIZVieusaB2nDpOlSRCAYJC5Mv-67pr4N19VX2oc9zSP63hnL4fcGc4oKfrvWQvoWuvPQyU0gR72AI1XsCI73ZTpdjlmp6exgXMGoOQWHXNrQRRCn4rMBCrZTp9zRS6-bCI8cCp8r2fiz2kAzD5_-IoCJtNhm6Ubk5fyt5ZzdlkZo7bM7_ak86IvbMBhEfxLcFdovZKYxK5_qU86B5ylVM9f-VfHg2OPB2rWqsd25Pmh8mY7fBy5vxCLeixmHrGlEKnI3c3Pv1jJzSLfqlrdwSH6-G2KIz1vVhlLdB1QA9IcU6g1QhvdsCDHPxyKwrS3d7Cd89UFtMVBJBScGGw6ACppqZ9iAqXJJuntK__SS8XJRm4Q_XxGGttSH2VBl8EDktxGay_XXZh5VeHwxA9Ap6OUG9cy_-FHCWfLN4PYicRboa8aKZUqIGra4SA286CJvYJXZBFfrrecQVMGX4Qmn0Bp6aXRimC-U5ldc8Y2NEEu9oLleOtr7_fJCi-kuIfOREr8Y_Whv3bRb--OjSO3qwJ_Kw_a_ICLNvgiMLYw2iDO7zA_moxyBKUUEOmfT5M6_ndhR_v-997zIGeqxApyha4Unl2myJRU9j6oaCPQdFEF1AU2yiXNSQ4BzF5VXmNWVZZZr0ySsSx2haFSoAFJYQXHetn0wMPmKHyY937ll0X-J7bP7whgUaqU3MPsaZvz7GTY6Wdpr34iHNoD8BliHwLMjALKzHviSThaQdmT7M5u1qjrTJArTOSBqJwtfKF_iSxwhi8BdQOEHSq_EgXEDWFj2XhUEeZcudw9a3z6orE9yeQ2Oc3jwXcTV16XRBAaxnI7FoBKQLHg-f5N_fDhC-BInFzrTo7EpI7g-1kLFVOXdWni07DvJ0Wl7sQAaeiruYoVHbasTtl_RvBpwuLNi97gYLOj_dtURGXRV-hZPU59YA-Cxj8BJDeECzj8PxuMVLZ-eVDewhjQcC5PvuvEcbDnrS5N4gfRaHmVNES-0VbV2pgsrDYPIamzRkU1ArDfDuEt9pQxjWhMhBu5MupNQB3NKIiLQ7CxeFfsfJWP6oD9Hf86XQcYf2XS6jG624fh8UCGEUBcQlT1qTavlGC2cBphnICvuzQ1Vot-2q3hc4rvfuarpDkZclRB8g3zH18NV35NkN6JQFrHl262veCOf4Js6WA0td00QnNzbs1ZzI-kEu_etcVFH-DlwzPjxseagaiqTjcpAHD_InWwi5y03LQfaQ0LIihT942ci2QJlYAzls3Ney59-U
+)
+
+[2025-07-02 17:50:37] Email traité: akadimadina0@gmail.com
+[2025-07-02 17:50:37] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 17:50:37] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 17:50:37] Utilisateur trouvé dans la base de données
+[2025-07-02 17:50:37] Vérification du mot de passe...
+[2025-07-02 17:50:37] Mot de passe correct
+[2025-07-02 17:50:37] Compte validé avec succès, connexion en cours...
+[2025-07-02 17:56:58] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:56:58] Méthode HTTP: GET
+[2025-07-02 17:57:13] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:57:13] Méthode HTTP: POST
+[2025-07-02 17:57:13] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-07-02 17:57:14] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-07-02 17:57:22] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:57:22] Méthode HTTP: GET
+[2025-07-02 17:58:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:58:04] Méthode HTTP: GET
+[2025-07-02 17:59:39] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 17:59:39] Méthode HTTP: GET
+[2025-07-02 18:11:38] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:11:38] Méthode HTTP: GET
+[2025-07-02 18:12:17] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:12:17] Méthode HTTP: GET
+[2025-07-02 18:12:28] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:12:28] Méthode HTTP: POST
+[2025-07-02 18:12:28] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5hmgps30X1MC5btDV8nOgmk8LwQ0Gh6QCH22nTP-HBJSwK8l0IiBwoBJgcPrf0UjfDaUsCsNb76oIgHoO9ipBuAk-4QefEDTp48QDwcFg3YFlGUy5eJoBnpXlKoSwpd7K6Y-bZc4JZsV2XFdBVKwNHuHUUlQaxSDrgjjK3HpXwxKU2AYl0pCk1irBgtsCUqW7zZ7T4BkhVK1tdluMd4ND4i4TyV8IKNK6Wk0gxwGSRk1Aj1qBcr1NUj7AzK_wxQSg5HhYYvbbHoeGpdStZT1EP9IdYKfCA5wiKgDE_cKhyg3S9DhgUZEV8zj7LMma36WYRux0gyI7UuBvwzhgizLz4r1Doj4-2mEmAvuqgcW7t4iVBaXy8NN1w-VLJEevwM7nvl-sOphNDv4LoU1tedMPneGLI8KUVIrlRIpsDq02E-cX-XQTrK02W6079eur3JYkO3aCJ_UQAsAlTv5A9zV7XEdVAVaes1841RhzlUvsGI8I5Xc1-lrXqwPAOgxJ-9TTx7RdKNFrJ0EQ2OV9EQUBUBjD_JOhIWJStVPAZta6bsLZRJZkG5wKKnKBekUOBnmcYTs225O4FxGZ4X7_uJ4L7R57QrXyg0WUhvAoxeiPLLNNjFRek2LNF_NHrGd_ZANuYHbAJtP2aLcOTao48zxsve0M2H0Qu9YmsNhpK5hn-zNI8nZKv6nyLK1lm6h-p_Uggeb8x7q-puFkrGnQy_7WnQtee11f-EbbabeiSRx3asZcg2pWiHPDnjvhxXXtWV23DH_kOy6aGWd1I4610Je5vE32i0S2JIQJDz6UEaO0JXVT-2MWc6npT2pB_fNeWkWovtK57fi7IUcEFw8kD_aUwYFKJywjOp_IuJmEzI4cUMnrHZmqI9E7iJNF-kisR2HXVX1jeObUTnbc9RFeV0TCpudWNvyS0whndlmt6YN0sOuSb2MyOjduHH-owgfmQU9m-NXoFVcnR2x4jXGM9WPgeWJ3jALrc3qkMDIBgiNWndEVJcml1nuPD-ZflGk1MIrtkU1kDzB2wllxaVQqoTvRlBdoEn2QJ6rHEeP58Aabp_IrckF2Y8muN4mEPW26poECK-CimjD7KmbYwqCo-ipHqhY8W5nq_WG1e4hAWvpfjdTjmqfFn2bNbbFa3OLIHE1FHQSi8yRgdT8_fAejpKVgT7QPY90KT6e6xaFUUTWSqwGCC8XnZEb3AEv3ZKIAY5OLk0wEF1lLsgSnzjVYs70oJvZTOiPb2dQL7Vh0yffST_tvodRaQkvejP4Xld9h5huJovlovEjrIrIsIgUF-o_wVVBWjjQkA4z9OG8HpsAIBV70FwnctPFmXO8dK6cn_aw4I4n8I5sLIICHtdB7rke_dr36LufP8yHAz-oss9S17Gty-_51dVQm-FcDq_fct5rUpcW1lnY61skcZ-FWtwXNPdzudsWLztki3fPn_4vVdQ1kSCwASIAD63daZ2TeS1cHnjXA1Bxh3A7p49OAPWE04-Dr_Pvwytt0AyfxWkOxIokEqut2Ub6EpmD32gnpSvMx9Bd5QT6JkjxDVUn_pQextkfjZWsokb5EEcwU7VsSIowodrAPedPR-EGPMrb6MQQlM40OH2L8BZcgminpfCdLUb58wtorRZBiVBDXIdlcwGcaxxypIIJ5Mjwbdt37OX1Vdv05XvrRM54tUFIjVDUcbKou5bw-5Xs1wJ2GD82y3IWNwYi_IHkSDsmGRyMOv8KmEroNaujV7kWqd1MJQTwsi_gcCi6XLMNabhB1cEi-sSaJ1w7td9zSsxJJ8COFt_N2BlhoCPb8FLu77Lm01ypmSjLCwz3W-M5IfoEncen3L8CEBUO1HLlTXrIZBvBwmSBm5X9eoCS6exl_mE6qTCIKI_jqTkO8TwqByDrQyrhAv_TbwkcWAaL2W51aO_IDnaoBsaaeSptRdAfAdkg5XgxAXeLWZD15zIXLZR-luKDF7-Eau-NGxBKEGhqHGDU4mWyWQGYM1ibi0MDy30vjrgIIshCbKEYGgh5FgERyRdHa1yGPH9cI
+)
+
+[2025-07-02 18:12:33] Email traité: akadimadina0@gmail.com
+[2025-07-02 18:12:33] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 18:12:33] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 18:12:33] Utilisateur trouvé dans la base de données
+[2025-07-02 18:12:33] Vérification du mot de passe...
+[2025-07-02 18:12:33] Mot de passe correct
+[2025-07-02 18:12:33] Compte validé avec succès, connexion en cours...
+[2025-07-02 18:17:55] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:17:55] Méthode HTTP: GET
+[2025-07-02 18:18:56] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:18:56] Méthode HTTP: POST
+[2025-07-02 18:18:56] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4BMiCktjxj_CDGNjPAlLXWBP4p4aB8MFOO0ayWbVwFCLM_3P5MZh65e4BpwzDtjAm9i8bjkhOsOl-c9BHh11N2aqf1PMXuqXsUjZ5iyHi5J7YtLsyeg3ud9IiXWFn-6gwWR8-lz4FvbneL1ruhpMpPy9z8DpFHJ4ePHiRjPV9mJYaPLy5vTiK_WrBWax7O4XyTihHHvpnynlQhiAgt_J_cuvPZ2kQiWGjCSIWFB0_0cx3nteiRN96wvgbhKDSV__QPxDYx5dHAYwe9U6ZwvOfpUH_IBbYzUbbdJniZGq1RqglkRSJLxZr9gEBoKbW_jLGOcNCcWkIihG8HzSM6OGkcMVSRT50P0Ir2Ddtso3-RMAvW9lWNn__0x6WxtCg2UEGpGmb0xsBlSE4RHc3G44fwfUmtlpLmWPwsPyxpoGV1ahwv0ZS8lvEuoNAYAI3KueBMy8BwwUvo0yUoDlpBqVnfzu2SQJaDILfOKxKtp89ankA_U_KmbP_KHUxwGk1xWDY-s87UzedGVM0hHbVKdCfawLZR4trLJf6cJYpF_iP3A3y-T9Hhtjk3DB3HorpqWZ0e2Jpapy7mUl-THkh39UIiO2TIkUAUXgimPgugWS_Y0f3aHoTi33xcFkCa_u42cDRjcvRfU1MpiaHcV5oN56gS7Os_D1i_nmjpX-TGWQmhFFZWDw30NRYbpLeFDp9JGRX9eqgRffEdXd2h7fi06kFE4Vukg2xrREpiOgq6qEscAez6VP2W0rpoH-qJjymq6wKhisCjRdukDFxHuU98nW9bw6Ah9ryYjQVKg9FgzVV37jX6azMzESu7BIpS-ImuoaqKYYWTWlB-HMzb5XBzD7jhR0DW9CDEsPXm5Buq3WPSsR734rcpD9-azLSsmvb1VIxLHFWZNfzleg4lrSCzakgsjxwHSa3pJL8e8XQt6B1MQDuqJmxM_OmL2mJi9GqGjJbPVSTjKJcpph7UbaVVnAraR_ZQAoX5j49dDzvTwxBxJ3KwFHbzgjFKPxtdMD2lEX3J9Pe6qfkwutvKSy2Q7qZVclU8zbNAXdxdxGdt9b9WWfTn2UOAC2W1nbMDbRcQ9ZNr7XZT-t9tzr9rm6W-t7shrY4VjGmxySpkU1Fm2PZh1JySUZ-GRsj6yFV9yG7mH0dcu7KUKvr8bNG_nDZ42BqIjhWrqDdPu3h3XuZ65XE2raEEcvE3kqO6aEQmuzssVwsIVaE5dmezfKwpP1E_PLiKIXJ25tXmbZNrk2Qb5V-GmZJOmXQUx3oekSs_MOB4KpAa0KRefBfo8lwmnvfR2yjV4meXS-Zh5Ae7ngB_5q8sc7flpWDshcfWIOeHhaTvAwW7vRYpWZmrvA_5sl83quLf1wVP7RL2aw2cghUHfL9U4lzyQDtSQ5MuW8qGbjsTVDhnRAzeJpmqYrK-7xrWug5uP0cLCUTaqgMKNcNRZoEZrJ0AOl5kKaps1O3JvndPdV62CMmJA6ktaYZVh01PXK20UcI11Z826PYK6sXd0RBRiMu6pUKhQI9a7RUOM4rtvjgPUJeA3VqdyvPejJROC6pqbh3pk1iI2kAD9hR9bpQQxy7pXqhjQPVug2F8XP-o6sUVRF1B-FOarA8XoFQujWOZVs-QiOIqn_FCKUbr3OE_hoerdK1M8ipt1YcDXWYvdONMItGSR5oni3uFIYA0Eto2yuwruU44jSg8D9OTm9tdofliNtPpb4SpuC5IBv0jSShhmXR1hejweo6ULpojE51-8vPeg2vId5oR9OlbFJyx67fgmAiNCZqFXzoWnmHIqaNet11cv0q4k4BOYylw1bd8qG1w1_Rp5ay5yhf38kpL2EGQ4tNqUKEYGlvEVlGjc9D1oBKxWqPgkI-22s3R1Wa1oIHWUsec-u3yY8ps5TiUixxQHkoWVVczvmsDN3fYGtTw_58ome88UhGX5aRvj9u6W7Yo2EUMfrQtNmtci9zGXK-6UtNjoejyJAPtASBu7WUxDKjLQ65uJpZx3ietTQiPKmzckVFDztd9LBegHpmA-zZ_D-bcQQXBoHxPAIohFTpOpmxCHWBvK3MkaKrGdU8r5HLikw
+)
+
+[2025-07-02 18:18:57] Email traité: akadimadina0@gmail.com
+[2025-07-02 18:18:57] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 18:18:57] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 18:18:57] Utilisateur trouvé dans la base de données
+[2025-07-02 18:18:57] Vérification du mot de passe...
+[2025-07-02 18:18:57] Mot de passe correct
+[2025-07-02 18:18:57] Compte validé avec succès, connexion en cours...
+[2025-07-02 18:22:26] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:22:26] Méthode HTTP: GET
+[2025-07-02 18:22:30] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 18:22:30] Méthode HTTP: POST
+[2025-07-02 18:22:30] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5O_OhXIsVv6PR4OEV-Dzs8poDNQt-MDyix51crRtTtN_C5t9kKtL1C7iJVi8kNiQV4Mq43ZobaJcu1jENF9IrBUOWzvDg5ave61Pg7wZyvd7f9QIucHM8Q_kGGAPycb1IYc113o3qCY31k4_zwhXYFpuQnnpgvYk28DZHmwCu9HGxQbAGLM2gTNPRXxNVbRbBe3k_mtFDPQ0l0CBZMo3RhPEVNP4q__J7JPe4X2GA-xSK-Ad9No5bh6jQtmrS5M_FupOrEqjDmhU1Lcr8ylg4g-nnMlgs3nKsaRWCGHQzLvnuZ5AB4MeqeWnfCT5iSVvABQ5t2IKV-pousX9WfxnTILPwfsdtLIvUwfnlwJO1D3C10wyIvPXP2d434i74flNfFrPgLmxRStMd-L0MygIYmj24Es5VzP6nBPdbfbTi6FVkBfxXsqUgegp6aE1aZ61OD7JxU2qMMn0c4nnYFtfllyBfj2cRTPzaKNpUKyktWECH4JyBDblO12NTGyjFn42ahITSblUUrmBc-sLXItlMctCFlBGYA3fg2EZ_CtsvZA-NOJ_RuUieJ3YAzYv8ZQwk5uJ-VXtkTRCn1NjLyllNPg16f4CKNGAPOfd_mePTjN4piWyiyPSTe5sZI8eES23KF7H4BoP1Ms2DmQ9mBQfOv40c86kcxQ2whOtTc_rv8qvggM9eToaubfr8f62NRz-i65nMqk6Ij1sUUeO4zPntF_wSZPDc9HkFd6BTptS51TBQS6Kc6CqZm7WWG6yu0i-7iRNJu25N7E3rzYL4dX_kUExq0aRdpm0h8FAwyZV7ZNqW56tZnxq9rF8fSv17VYhjSY4D9yMkA3dBozC9omiJU4OAIvjNL57DdySnI2ufrq75z_tKCFWQ1nbORyAjlkSG8DYrOsEKqiH_mufQxoUe2qp4n97unA2r_Nr_uZpB0Suwzg7uFsDDJyY8FYRjvdplgaxp8M4b8vzu4DPC6Nll2V9QIhrWU7T58rAf5ncJCipYr_ZW88wFW5ZkhAE2TdT8GqNpK-Iu685HWYYDkwadVgJrQ0m8zcN-RWN917AJpB932nSvwYCtWps4FESy92NRJgLmPfg18cDGxXmcGf7oi8V_ippaY-u6Zq9NMQMSChn1FXib0T0C6M1t_E4oUcVUnscbNQ37oDj9e7pzHyx4ChvurugCV89NwJFcAb_Kp6xTycfD55qlszwQjl1ek6IbYvLUg_4lgtzyUBRoyaEn5o2xTdsdha9KkIvT43fhZhQ3SYFzs9EObsTpmcZqDlcK3UFVSDmFaiQqZh4lZLhmRjq76wzf-A5fW5jOwYiZ7ALjQsvTdSb9Jxv93wlWgsqqEhUY1CM-J4fLMg2CHBs5xKPNE_ywMEhx3OKLGRytmNx9oKhJqJ3TQO5NbSnjMpB6ECFoht88Kya-JMwN6xDEq4MYf4pIR041zxsHQXJKYENALvKuZtn7U8uVStCB4DW-6VbSaeCnaqLXIWn-uRjegLxicZW6HmKPkLx78SoDqZRzLKozq0VVrQka5h65Q2kG115K9fpwLa-4jpPNmPrqzJeZ44UNt2wTxYrpVT1mrPr1_-F_9r02bNj_I1K9D0jB7r7HwJ7EaQsT_l-oKizPTUxdMnS3eXkGJkoQG7FCa0eiSv_GNZuEbcPgVx4r52nowW2RfdpHkUh6qVoIZfEbw8lWIsD27g9XJn6Amtj8F8tq1L42jWACkN3Q8iPgcCQuf2PT7JJbIDMx1hpnbnW5qNa0Q-RYfMhQfRBLm8kMAat0fxiFDwUS7pMLtQInB7yf61A3yu3zblGsvZPhkpFS5jlj83zuYURU4T1_BSusgmF8oiDR1qdOaM2sN-JBlFKa_YqBDPnN6-PVe8w_x3IjyIB3Vkc1wIhKRDq71skZPowtveAZNyuzfLrGEB3kMxtZtFeytjrlh2YtzrHO2X820637dVyrCuvy4zWVDqQw5toILLW4KAPq2iRTX63_T_pxaWq7si6Zn72xvp8AFxt7nKIFmpeWTS3PdoGOn-0XBqX08hD8
+)
+
+[2025-07-02 18:22:33] Email traité: akadimadina0@gmail.com
+[2025-07-02 18:22:33] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 18:22:33] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 18:22:33] Utilisateur trouvé dans la base de données
+[2025-07-02 18:22:33] Vérification du mot de passe...
+[2025-07-02 18:22:33] Mot de passe correct
+[2025-07-02 18:22:33] Compte validé avec succès, connexion en cours...
+[2025-07-02 19:01:12] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 19:01:12] Méthode HTTP: GET
+[2025-07-02 19:01:38] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 19:01:38] Méthode HTTP: POST
+[2025-07-02 19:01:38] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6R6S4DLuF9dXuart2QKqPmKf9NXUTWfgQHHytO_YaiTQKXhDl8zYioA8iks_0UmZwS5BBMvV-uoZSSmsFQPOyIhIBIietEmgXGyHrSn-lwx4covYzkUBoDcXWui7edI_8pdQesiR1uStNFVQSi-vNPuiI-GzksePKSbHlAsKdwml2R-giGuYts_N0xJWP68XJSjiN86HY-DAy93YZt_Pgssdj1cD53E3VtdDNPHMTvgQxrUP2sypFNakyo1iZopjLBkjFIkEM6I0dqxjPT4BAw5Im0GTd-iLL9qO8Rw6mpQ9m8npg9inyP6a7tfYDd1GJjdMMUIC3fgQG6cV93qpN3PnDt4O-O38BEM12kdtY3AsrjHkR5LCsQsekXegIxdOzbtKV5BNS0mwdkYeJADxNBCn0n60FRUyoDoSZaKN5JPqSWmknt3wBLzE7VGGEB9bZXytVvzyXsw81tJsr0Oe1eD0P941A2wVGFLQvCFZCLwpOr01Tm4mf2HNXcT2myn-RguGOxPCyuHtu0x-5VcQUHlUSK99bx5yn_foBR-h_6lN6WtryujzHSMIiXquHUaA_bZn9ON6GDyhyStQ0QFkKA6icpl_KmBbyKV_0TacvkanDlj3pF2ibl7Mj7dLNcWZWUmERSlrucK5H5JxS-nYUYG9aypl4MgC8XuNOf0srQheMMezxwje3qRYExx_EwGWd7uz7PQaqMq1K7mikXu_-6hP34xu2Frlx1J3aeaCRdIIatVVRIB0UQPSz8X64Fsv460MLZfRsAECnsua0BR3vgYwiMj9kvSJlpYhVvojf0IKbG4kPDaQEyAfODYMleCacXpfaUAQDkYeVnizhEakmTpW9YlzsnV1dd07h1wByTwsHXi7iqpyO0kDvV2zwvnO6r6wVDc7AfT0QS9OM2DEFTXk1u2CoxPzmVtejHilMoJ6Y5e5WXS4imV6Ebr0A0FKe5tWxvMoMyIY7jWbzHCkx9RhDdp35nKVuHs1Zg6Tvl2I2jwItXAOGIqAre1-SetbOYCw_Bq_LsHOItIzSQjF8a4Q7q1UUMdKFSEeN4tNhmDK-HgZDf9y8_vX3ovXMBhiNuvbKA8ihEP09EEjd6vEsMIHBNykJ-o1yK3fH1gG1CKF3W0c1rS5-tS--dMhK4Equ6fYlDEj6nPobsJbwyjva829e8eukwg7GujNSkx7W4uemKRzZmQPFOfdTMnZd8gIb578QAaHTV86yMVB2-fGclAmNYcddcWZCgDpj-b9IOV2xDALENZRcMWgXXPsxYOqF-7mR1lLdrOxYf3W0yACcAQdMTnhScODTYRM0_I_GO6Pt4zpXHWuL_tIRg3D361vmibTitYTtVQa_Xw3aY4UexOiGr3FN_VqU4iB9wBaG3JZRjJTLH6uLSKFAZvyrKGVVLfsrU491WSN37y7ij9UC7KNaYYg9vB45q4Uy8JSvscafjwokB9cWgo3aW70TaSig3EprSH0cSKWwoYPb_I0TUMdwLD1hg9dpSb8d7WXqbYORxxtMb6PXhIawOeZYkmETQ4WkIlqxwz5WFpoW2pGco1-DYVujiPUMe7gA0iIqE-xSizdq-6LDql-dWYwBKDHq1D96ZaBRZzMuSWLSfxNW1KyZ6X3aCJwcPS_wbGv0iaP-91hk27el8gWH6pTwA1JCZ6jMP2WD8y6Mr8K1o_vTy0MXwqWCIqyIh_ORVY3RV7Qz6RGKuW1tLciXhroP3Fo9vY1Uh-nnTuwz00xd5VF3AJcEfeO0OszZ5iBXWxJSefYLwk6v5MD0z41P1Lqb4pNbkIymmkOjurz60NiAQtJEVlC6GyMW0WnAKYNywETvFg9h_EGTAvjqTjCE9EcWboO0v7hfjpeFdmTqLujl5nM_0IPgudnnEQwrcIxum1eHDH3eDzgVPbUeky0pMI8XEAKMrvVL0xLr3zJsWSBdz5UwkW0O2jJBedPnGOzQsaULSNXd72i06xvRUX1GX7O1LQirwbrqvGwI43vF3QveW1vPYswwS8CBE-j6RZw2u7FlPvYDN11it4hPo_cWXbSeRzvctN0MB5hptMc4Y91SKnj8YylTe1A
+)
+
+[2025-07-02 19:01:40] Email traité: akadimadina0@gmail.com
+[2025-07-02 19:01:40] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 19:01:40] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 19:01:40] Utilisateur trouvé dans la base de données
+[2025-07-02 19:01:40] Vérification du mot de passe...
+[2025-07-02 19:01:40] Mot de passe correct
+[2025-07-02 19:01:40] Compte validé avec succès, connexion en cours...
+[2025-07-02 20:25:49] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:25:49] Méthode HTTP: GET
+[2025-07-02 20:26:49] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:26:49] Méthode HTTP: POST
+[2025-07-02 20:26:49] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4V-GX-VaO9T1TYkUo5769zWiXo1BwOGO9xYk1dyio5Qg9Li6XWhS08bd6Zs626oFL6vgkxX9c_vdbQu7qRjmDC6MFX4WOnhloQwN35szTQjARMk1J-VRdM1Bendp1NlNjf3-5LtkHY_MnjDRRfi7oWPoT0RbDiPIX99CC7zUEo8cVsQAJgrG3IQRdY6GMTq8J-VwaZ3YPaNzokcTljGst2GJN2gBqtTk5rPkXHuoowMJgTwNvp_Wxs76iIl5OI-ziY_exR8yesQS01mQ2KlbeOs6S-W51n2VATYWknbHCO39iAYHEM13zfPQs5RusgyxTInus254ScW6zILwFRD7JjlppUTZ2Y3-SZ5UO5jfEdrjP2h_0iR1pu-r9cJhq_az1nvM2iEZzzf-OpuGdI187HhlSj7wZ6HA4eYtMQkutHgQi82ZaYvXjhuOmnwuSf2aZdEIkIMG_WQZ2mm7IK0JwExsNKGAv9rE-5kvopy_1EQ4zCG0q_JbXHP1YunXaAcIGE8rMIwb4V4ZYP4RkvpfjerDjEDw9JlQIIAipV6CEuywSbAELVjcjDS3hjQjhSXR8DNVFa6LskQKeCqDhBcKqUE_9pBy7ywbUXyRFZYeQIyKUcflPqIKFn7eq7GJv9G0shyMTYQu1tknehszJL80LCjPahJKabpNwOFdyTPb-lgHvOpMbGoGjJdvz_V0L6-UeKD6sU68uwu88XUpZxfAHVZNPVxGVx7l8TaD8YOLsTZdO5cW-Fv07QhA695P_WCr8elqF3-tJuysprxq5-YutI2Knnz4dn_hhuig8r82gtCg_lylSQ_E5BtI_mnj_QLyPC7EQZVcMEUqi60HeSXhse3jXvPTptnsSQ74mQjZF_ve455zT1pJ8w_fQuF_H7yE44HapZOJwYzdrXEY2hLiwg45SUtaXvP8XQScegYwVtnyoFr7Whmg2VMaWqRsz0RakRPUeEHGy5raRlD95lrG2t4l1T7FPgpR4QNtEjgWLNUbvkxhjIdshgysQHwI3IyGDZ2DI0_iTJV-pRyyTWa4euK1nhzw3nm76HfDCsY794sNpBhUVnjQaED9CW6Eslw5_Gc4qezD5aTIlhuGo6HfPRMt4wEWTIUFlMJqQkjadanAPZdmlGCf2NprHpj-aN0TvoWRUT9K0Yxj2MmQ-cAm-x2f709yMo8sAkZs6AwfMX5gwg1TqlT2HK2yRTIA8HaAyjY4NOKU6mV3Lvl2_neLm4qziS-HtIrnNDRB0cERXbeeRzJxsMjreFiHm1CfmQBEMFeIhYtPN-GeNDXq_4bMnfktM24PzLdfcenBxl18qzBETFdraIG87YDBN3jRcwMldtNlVHC-92T-IrO6XfQ2UmjQM83fDZhHrHm4mcEvbj0QCCuHy1ADCtV4cFPvlzSb8D_5XHLRPV9RP1MqyFRgZ7NuBNO1zTbHZmtDmzQRW_hT1sG8yxb5rG-nYTBtenlizaSeEhsRBISNNBXVbzbJ2zsXLA5S85yy8OCb-a3Gx5vC7QxHMwRRg0tAcHIeLLcDiZRbXXgy5YD679wuMXn9H79cf5Le8fOEBNW9sNTGZby0GlxGIkSYVRWMs8MT2Zhf82K30Msu1HQkcjrExwXeeLya9tRWa0SKfFfsJRnKO1KZ28FxoCFfyDjl_mvsw0YnB1VnLg7DPSs3ffq9l30167m3EVcvdh7mhv7irTfuiQN3ySyjWn_NMtiYWEKe5PAvpkraNmWLff6qIlqPHxsF8jV8nsDlGghFlcX9zGvL7hNsruzODUYbfCrpYoXqFoJOI-DVw0uqXqv9TElFSCy-5SYFIxdeN2yW5Ig10zX8OhK0xXGfyFx-83hy8n6VS-agw5QzLpeBcSfnxFwcpZGx-uR9HaBLbD10EVtmXGIHRcdj41tUKYda2z_UZutwk8fLgu2ILc_qG41fjGXDTdMJjNmGR_dOt9svHfjOn2cANfNcQOGEhtqBYKCOG3vwEc612duOTw2k4jX4s_Ny9zJhRhDCNX64sBJgIKomzQmTfh95Jhi9hIenIXllommVBoyqXefL1u
+)
+
+[2025-07-02 20:26:50] Email traité: akadimadina0@gmail.com
+[2025-07-02 20:26:50] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 20:26:50] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 20:26:50] Utilisateur trouvé dans la base de données
+[2025-07-02 20:26:50] Vérification du mot de passe...
+[2025-07-02 20:26:50] Mot de passe correct
+[2025-07-02 20:26:50] Compte validé avec succès, connexion en cours...
+[2025-07-02 20:27:16] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:27:16] Méthode HTTP: GET
+[2025-07-02 20:27:20] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:27:20] Méthode HTTP: POST
+[2025-07-02 20:27:20] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4VSJlYMz9_6_pfATyQFDBF4kklneEB2aYniZuh4YjqjMRochqxs3WmS09XbooKsy9JYex4BLuxSMwiCgfkNBU3Q4ASFYShjrwX9ofrTk5n9_g3GDuZ-Tbf55pB2fEW8J3Zhb1VptpIGoMX9mrISL8VEYLnA7KzgNJwalo9NrVCHkWOWeOls6j8Af4R9dIL5q9tqSrAdmEHAtNyMhl1s8PaWOaNqZbRsYzLfht2CeHZwX_qvfEAY1WJAvbA3i1ZQ1-Ah9O5sAf9Dx8Jrpb7w5ecsAIT4mzd4DJpDxaXzZMwhz9LGOe8MuE0SnDSDtlij8DDZYnbkmrdhscAJ8TdU8tftsQUGk7Hb_wnx2AQsRmjRxB4yorqnfMwox_m1qVvILx3n4P9Svn7M0stC4zXqQ4NrEy75KhUthk5kZ0AuXfrSaPLAdbdVy2p76bvHauz8jOcDgyJISLOC2-NIYd-0AnruPPoxlF5Wsr9FzpFpIwI_Vyl-TJZL0hGPs-z3BVibkRt-M0EX7vzRbki48asZMVFps1cUtwDSXfGOknYwb27qcRd0P4jtmsVIBj8AR-Yk4kAeUKg4gGJem72XbDPpdEkebXSZsRfcxXuVrFuGha04V0ceLf0iI-AgLPvMJ9CV3LvJ9Liaeh4jwhRunwU-wCZXiDlpTpAnMPH4QENEYGvA9DIUhc2D64dLig7HLj9d5mnc77GjoPBsVb4atNPbpumpA3jJ-eZWORnNUH4yAFQpZDNfgBdVEYgX0TBenv7r4C-eSNWrHpPlAU6BgATjmqI1RimZhOJtZ28NeUXyhNdiUtfcMOBde0VRiJ9Pqu5kJK6Cfl8jKO7v3QJ8YX_cb6LP60iZL9VNr8s4LjcP1QN9BYYYBwLUglPa1ByGBIJwxHK4pdfC3nSHsSd_x1RCDPeaWls1BYxG3wv5dxj4QYyBBCdF-b-f39ACZ7DxA1Q9yc6eqIFiTufiUlF7pbrize_x54WYU_EOp5hijnmrL3KF3wM5T_4jCtqAvPr3K-YgjmDvkbaqW0OnbJa6bBF4k3jtY-PtVjcw4ksFCAvobuy84nEAQSv-a1XUnG7eth02jyI8LvdaD6bWMQjrZ9wGnrSATtaazuKKZY7S9YuT-mJ9CNX5lMLgM0YNCxAp8QCsGZypUMw9dGzIeg3YM39ID4wG4GBaCItAtpV8kTGilhPuHNsXcPns7k4NbUamUxUfW5uMqEyBl4ECd1nuHvhz2BUOAQDzB16gl6Snh6B6LVbXYQ3wxe1jm4fdEb_Wz5JHzk7klr5866TLIiwOlxBMQc6sV84Er5sp2tGnXYEmxiBSHK1KG0XETW_i70Sk0pKtQcF9g4zN2rQsQAHLTVwk7MWY1QnHJcwTQ2EwkTOH1GsAUE-RCWCegWMXVqww3U3qr4cfx_NS4SBiX9IjeSxdAVLxfow3oj6HOVNSZnC8OSX-sE4_zjKVhExlwp2ThpEAPAmcalthInE0wHvfeksXwsgjpY_sz5DFdukQ9_wJJ_TWKSWbR1oDzNiUwtp12b9jwMRZqh3LvyyJTllz5OogykhH129NwnQBRNAAOSNAbNZvJC8C3WhEhgiZuyI7YZYXW8SKVNJ1iLAjLWMxbn4cNS1c0gIS7fU4P5Cm6zdfC0Hk6fBG7dl0yjDMLbzU2J5k5Fu7kO3IPjXDotfKVCxJfnTl_J_66eaTeOOYvV8QljbOOr7_Q3e5O4NZYeseqAfFasgbfRFOYmckHSCTjHULip0b49ZeS2-jgzfaMgO7i2lYBBbhZShb2xstlFVVxxVejCZcY8999irMTPP7lIlpAUeKJ41YBGQQMdF7kHnjuJDDuCOk7ClwrjXsJBw5BRN4F5b6ci8PBpPvItwtSRto282j3U0-Bb_u1_WoV30NVH6yf_nefO0KAEj8TkpOU6G0aFbvyofh-tC4mz3m7wUQTCv9Zjrs806KA4Iom7KGlsh6Ny-q9UKzD-QvPtiOB1bASPARUPDKrYSIF8LxO8u2dQ1f4K0ipSAQTHvdRJZyx72G8EGDT42rZ_poru0b6999eKyyq7d
+)
+
+[2025-07-02 20:27:20] Email traité: akadimadina0@gmail.com
+[2025-07-02 20:27:20] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 20:27:20] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 20:27:20] Utilisateur trouvé dans la base de données
+[2025-07-02 20:27:20] Vérification du mot de passe...
+[2025-07-02 20:27:20] Mot de passe correct
+[2025-07-02 20:27:20] Compte validé avec succès, connexion en cours...
+[2025-07-02 20:27:42] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:27:42] Méthode HTTP: GET
+[2025-07-02 20:27:45] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-02 20:27:45] Méthode HTTP: POST
+[2025-07-02 20:27:45] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4SXljRyAVZ8CWz1RUB4gu2Zeeu9gstWsMcYXAwHG36xP410Zn0cnFYBTRWApRMFkuRARvNFH-X7mTbjrTuCCJwzwhBx73wTJNTeQ8pStD2yAfg1_q8ocA8wUDGMcyvfgO_d2jTvKhww-onD08JH_W9FeSophVHGPMVYxgkgslXnE2yVnWBHmf1yE0bcrlTZ55hk4ChrorDWgHrWHgGdr5Iw7nTHOKYEMErDL_sRo0f3jMuuCGqS0RgJHOPOET2hMlDIbDkwwpWJ9qxsfedB0jB6YPGGDgGlwPEdsNYoyKwJxwSXKUc-sF_LV_TpXhPEExKCeMFowR3YmAZj21KSyVWpCOF2SURzKq_Vi7J57T6kd_Vo3WkEgmApSjc1pAxxZHC7nJkSxxZi-lisEoWtACRLyh4sfTQIH-XzIZWvC5TD7XRnRT1II9Il2ZJGjk0L5Dqz2kZuOgnzjKKodVELWRDe0JLJ_piSYrbh0cLZk7wzBB_kVOv0qakI9OHJt59BU0K5DwMHrMCsxIhUq4L4TxJNtmJwoad8Pe29BZ822CG7GmDx5xCsdqXCvmWDvvtopKPHPYUBBbejyF8W4IISTeaGPtWlF4QVIr0hiFz-ZtpeGTA7DarcP6W0SEobJJ6njuF90ERFzHGf6FdeIwzxHXUbHaVwlMFeYUEFKJ0HZT8NfqhKaRlYfj2hG8gQvQBQheuxuqXuTHMX3cW3z2NlPDhE8-XEZqMbtWewRk6BmeYa9TaTehiE6M31-1FvLs_ZiPs3oti1b0MtL1hGVTGfjY8YzXKr5Oyuudb32iIhJwjnzYefaG7oyF6mgLRB_WNjIuxC9NM0IwNqp15PM5_CVDGOBjL2d6oaQNCA6SDXoh_jU912joZccIzxrM2OMBxqXPzi45XCTGa-Gd-OhyuTCtkQeDi9u4GkKWULBDe2IZJ4On8FHy_DkYoTKLhCNM1iIFYRuaIeLBxNm1TjhARxquE2zHO82a7iRT6Cw_lvcYPybhJ3kH3vEWT8BZjPSSOAzM-y7F_s-aoVhYhEK5n8tja673kwk9UY-Pm24W3AXIHyiSLF7k8OJJR_heAt-uIQUryKJP56rVOXn9QE3lgiWLjVAHMVPWvsXVcn63Ue1PLieNQtkjVQw56ldZaU7h-kjAfzWkVZxdESqB32xv7sSRX0gat5U7v53ZDFxLcCnMny1cqHAeFo7m61keQf73nec8ZjMZjZmeEQ5XragBQrOJM7LRz3CHV3tQID7Di9KduHYdixxxYqgUOmzJPLaVqFgWYeXU3vfSFIrC_kX7qELiTmV0TlHujHRDkruH7jpUoXCR5id9vys0J6558jMMmXO_UHtpXJWm63PE-EM9YBbOh6U4vxL95L_x4yBcgBc9Xt_gh6U4VeaA-2KSaYmuD6NcLVQPreBbM4KkyHcJuw2up83XWn8O9pK4AENfnh6yVcGA0uLfqlG9CU4T9SAdSflEaSHY1ybD7649w18N0lZeFeH9t6Xib3LlXZtMeN9dZ3DQwPh1oWBUuI6yGlYJo4A1esPzfCojD4s-ov_DdyIx0hE2rlPvyHiHKJvvM0RQVJ90MwUOMjX7PscKhE0KXWaOs1n514EhTyp-bZBMEVSnk9GF3PJUR703oQSsqQJnBBXLqviIQ9I7acFpdSqvA4Ed5Afh571Y_UVxzc45vFMthGWWdIYoV8f9Ea1CzlpK_brwiCh7k1kTIqLiXJ7gNl4kvqjiUEt8KgmS6jxLaKnFtGxqSsK7iLTOU1eRMsuDoBcsS18cx3e6jLxw09XAR7UxkfPEqG65rk1IrnWZELRJQDcvrEa05jB1sRVGlD_VnwmU1k2x96Kos5wDEM-ubE5YCmP3xZWmTudcAqSSOl0hxpxhvj767AWT7NJtDl3uDuP0URl_pesOXVVyDn5ZKHgzNcBvy3XLoqc6jglNdy2onfHyNKcnaDrwvo9R6zBpzekZ4lWWxC8wUWzVXSuGJvX8tGb8T7COe9bmBncsHmZUJ5zFAmm-UNzhAfZhuV9Q63JDheKN1I2Oe7znr0nbgQtMDJLl_
+)
+
+[2025-07-02 20:27:46] Email traité: akadimadina0@gmail.com
+[2025-07-02 20:27:46] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-02 20:27:46] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => circuit
+    [5] => circuit
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-02 20:27:46] Utilisateur trouvé dans la base de données
+[2025-07-02 20:27:46] Vérification du mot de passe...
+[2025-07-02 20:27:46] Mot de passe correct
+[2025-07-02 20:27:46] Compte validé avec succès, connexion en cours...
+[2025-07-03 10:57:12] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 10:57:12] Méthode HTTP: GET
+[2025-07-03 10:57:27] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 10:57:27] Méthode HTTP: POST
+[2025-07-03 10:57:27] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA63wGgk0O6bxlusvra7_ZIhCIEMgMRJ54cPIFafk1noIx4vC3PNBoI70FtOTk6R5cJWmAfvD2bhDrLQbwNuf272sch4cK9NOOFSBXL--MmgvU16Du8Laj-aPCL9_vSoJNKsqCRGu4ZRZ7mfF_zaUa5yUky301PZTEY-vAJ-QplsO-CNMtPqmBye9H1NroDbj-sVUP0Cq221QZRkB9D7Os-bKCFuFI5kRMzEVPpmXeVvYLfDBchnLwOTz-upHDIhdoOyGuiCd9jRizz9C3fXa0rT_AixSCECGMDy3xiDPx7z64EnIvgTnJGQCoX-7bj3KyodYdQw5W9UEo0P0S94Cc8ktB5GKAJVVlIbZ2Wy5e3lJcKc2B5QgMui1Y1HIo59UxXAmx9KcGRw9dCmV61eYyRec21KEPd7QFOLeAYd8F_pv28dXN2USOxZMXhwFF_XzHjY1dOiFZcakGluoJnEwxnQtlk5QZVGbtY_YkQAV2ANb_BWsR8HYFwqcOS9kOX49hQh9GEdIicQJZI0Cpr39G9n5l9mOD44qx8sAbjtrfvM4SO9UcBvKHNfLbwj4Qz951YQbxh7Yf9p7NwXS9UHYPvjLdZRKZrz_5YZUZIuW3JL1iv_2TNT-K6264xf3U9ZG3Wd8pEEVKr0p4AoC5BSm3fAgWm1BGHE-s5Jambl_IQKQ-MRVhERhrNqyv-Sb4EpAjnZYDejyZsDBCrZwh3INhaw0tuKrZrRY1whWNAclLJhk-Dgaam28lUCa6lItqp2DYbasLDSCmLthunbl83S_U-i5UyGcz59VJ0dVe76Dbbv-nxD056IEoewDXEGKYPiH0itd0AhS9K6ICFBWCrPtnKI6X3Vb9zzdFizQ_t82T8KC_DhYXFvQbi4SuODfIilKSx83QfVDIUmblOXvDKopxtzVRRUwsD9pgZBgjPdAT_DlcpwoBJTxlg_p_Laeyi9SIqGBl-HbhKX4sbZo-WJxVRtUv4nRemniSTzCHUdmuRa4w8uqG1X32QwWF5pITwa9RjWpXtYQ74v5V2v2FQgSHaftHXZ5yeq7wvE02YCw_V912oDgugjOvnflEqir-3z_cjK6UspN8t9MhgiphorZK2fEODUaL-cVzKEoAGpY3pQS0GTNeQx4jocbFVGHCjbUr9b_eHTOPzO9J9kIG7v1E-gowsDJAD8PFGFaxV_xpj-MnkAabd_vzvITtC9LYKuJCZvjsTdLWX4j5i-B4w_0GlHBGsJVwZpLL8iAvzAGeWxRVaILxQqDtcickB_VgsJG-YrOhaWCJ6FIa4CiO3GwvKklGkWtsVQb6XTJJ2Uf5DN6kINGhbyVqzKVMiyrYsqjTX2Q-MsYVVMJIKIPdwtraHc053PI1z5aVQ6CntrNVzX1keBn0S07mAXW5U48kmtmECutPxAUqymcO32W5ZstaH-8st5oO34gcvKqrSju7IYY7fqF58evUA1yo3VvOpldEP9VfEKMPIS8zOehZeROXV9MHQh6tOIR2H3dpqtiz5XV1heejMdpjQBP1wfAN-MMA05wE6gnV2sC6pqY6vYqwfkEJOFKawCpgzWBZnSE6bjMxoggE_Wq41SyG9SJyRLDzbIJ7eEofF1_jrTtMNrq0_BuDtIXXE-WgTkeAQgaBLxwY40GqXLfiM3q0I7lQ5uggANifmFxQddobZVOFrtGMQE4nlR58qLOuklRaFYi4QkrfhpPvWz8RHZ1cyMQLQEgqnMbsUrCyqzs3tp837jQTIeK-Xv3O5tyrgoOMyC9kLEq-1mnIDR5lPcBUGCRLvLR_QwJYyGNOefRTHFIQkuu9JmDfvvV5dfofDd4fppxpE6WySUpUiW2K9jjG2AboKcluRdLDyy6PJqJeRt0f59YJoBXAWVZoo6MtWekear-QA2MPHaNOpmk-WL-eq6R_8m17W5kt0cyDmR0kUN2b-j0fQUy-Xabnqq4fHs9a74hrRkwBIQQyU5kbEcyNRKDETF1ybmQ6LsK3DIXrRssrVosR-QsUOdFPk-HS9XpVeoTjxN3gHMw3dhkTlhZzzXfUH3AnwDgn1c
+)
+
+[2025-07-03 10:57:28] Email traité: akadimadina0@gmail.com
+[2025-07-03 10:57:28] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-03 10:57:28] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => circuit
+    [5] => circuit
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-03 10:57:28] Utilisateur trouvé dans la base de données
+[2025-07-03 10:57:28] Vérification du mot de passe...
+[2025-07-03 10:57:28] Mot de passe correct
+[2025-07-03 10:57:28] Compte validé avec succès, connexion en cours...
+[2025-07-03 10:58:26] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 10:58:26] Méthode HTTP: GET
+[2025-07-03 10:58:30] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 10:58:30] Méthode HTTP: POST
+[2025-07-03 10:58:30] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6ezE00uK7CvG31JkL0ss1KT-Jih2RTyxrbQSFORpXV4H8pA1xAG731e2hVVWR0IXbK9FaHHaBShlRoP1tfhAOm6cFSklrWBI2UfN4J95ivSxJnfptPW1p610k2p22r2lXj3mF4WvjiCxhoMZFqVKSmqHmu1YfvuGutR2FJB6T1i8chIn5G80vuhXpBkH8sHMJJysOScYZxHb2O4CJfRyEh4FVNFrN2nIy0w0PPBWD93gqXYBFh8HRl2s8SEsA3PH-CHQxbL5SGTQHKDiddj-zm1PYMsdk0YA_w444lKIVjMaSwwwg91jPvyiB79d0pr4iQ_YqqyPy4UMTKfFyOc4orCqQ48fCSEdbiAKIB9AlEiEB6WQqBL_T8Z-1GGpRj16665g5Am5z2YIYDsTvRqkrqpTTA15jqFvtLCu5I-V8FnQlZwbwXgPl6bCAvmH_zzh1yeOHdhQ_IHs6HXGjSuSTaqAlGgHrt_2nGGXt-UwxcsBRjlxDDYZufky9kPFaaP8gL7d-C9feuR-HwqTo8ZmQ34Tg-Ia1UuOWIyuxpIn-dSzUI7hyqA5q_UuBXrsVYjVyYm2GRUk_zS_QNad8TCMFXJYRI3YV6Xj7p1lXiEkpGzl5f0dhby4yVhZi8PUA28rKDkgjVgRStTAKjS9aVH-EqovUa7pml46TDyfIiZJgbxVOhUAHX6vioBjGZ59ZYZyhjL1MrkH9omXm8QXGphHBFVXrJeNnhtV8u1fKA5CcdJth8Jhf8mImYSfN1iI2yHwshipf8lMxCo5tJ7l13M3HRvnDUiICP9wMgs1yrZuspMBGHEJ8Ww7_BGL6glbSUlbqlq3GfLUqLPhct-miws6XVL0gAYPuLH-ucsgmR-mt-iUT8IaxxmMTles4M1qz3s5P6PyWI3wn3Jnd2vWFrTH02CtZ-qFuRQoGsabcuo7MR9uaRBT92qKPkWgPiPz34x7o9DNsoWhz9V7b41W-8bLxNfwQQEABX_0hLpAz5MQE5BEacES0P9Mvvdtowv_K5TcjarIjTVqpQaeR1-SjRWMhIUBUoGcK5g4febdk2Ur2QcpkinZ4B8vAzT1ulps6SATKpSxvHpgcZDtGu4Jsjos-iljO73-TcJGBhAqTEbOLfhrwi6gZPlpxykRkDyH-hLSSPqJTRZNXWZ2Zvvq8hmVHC8ZkF-wvVIQ8tu_LUpMRfypld4fm2POV2J5gmi1QeWW2YmR_nrkQcps-RYMShVcKIBWiyZtSK7RlSGAa4xS0I8qIQ0A994B6a-Juy7aj9c-AiUdgahaxL_4x1c9XhDGCKf2khwocToWRbHVCAjiKajm84r0eAVzTF15u0CU-VXIo7bb91oHdrCVC_-xzLv8Bn3IdOaOyVH-m4K01pAW46eOyqC6ES8fnwaNSJASrBTfIvJxjKmRFIMpZR7replnjruuXmwFu7FrCzeFzaTKCm6pPo0ZTJMaHzomEOi0i5ih0c5N2bJpy_71Be0kDE2sskpZk239jB1KvsZhQaPDafPbcU71vaCCwU1Fj7oWl5lvjSoneMQnQXXnsRGbY1SCjoPHEgndGlHqWWvzcV0AGMKxDauCzX2FFrDYvGsGGc_0bcPofKBVlPvOmaH10Hz163S8FeDEs__Rl7znYg-82QyX4aWBZEBTFvb4JA2GPlAido6_8RaPO_KHh3Nes1Fv2NAkSKWj5lC2eSWZ602uLogkQznG_qFtNpxB3wq6umiy7P1SAPvOcXT9c4B4ON87CEZ67Cy4HNjxU_h5s22pP8bIiXcVpYPz2n__MBPcHyArVnncfK1EJGrWNugCbl9evzRP0m0qOvlP78JpNcT2JVtIyQd9gPiVppW8BozIXraAPQ-I6hCFrHlEj5PDiixt6341lTJcqBD6GAoIet4kAXaftYTsjCFk_wy3t15VZ6zN4KUf_HMcX-iN7s8vV04KdYBIy42yNpTDxciLebfANRCZ-W808cK-V--cBgqv96rRfgcaqJ65ojrobN6ELgLhBN5ejZy5hPST4WuN5uXd2JlTjNnpcxtOvOvRy4j1wfoTtNPA5H
+)
+
+[2025-07-03 10:58:31] Email traité: akadimadina0@gmail.com
+[2025-07-03 10:58:31] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-03 10:58:31] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-03 10:58:31] Utilisateur trouvé dans la base de données
+[2025-07-03 10:58:31] Vérification du mot de passe...
+[2025-07-03 10:58:31] Mot de passe correct
+[2025-07-03 10:58:31] Compte validé avec succès, connexion en cours...
+[2025-07-03 20:33:23] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 20:33:23] Méthode HTTP: GET
+[2025-07-03 20:33:52] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 20:33:52] Méthode HTTP: POST
+[2025-07-03 20:33:52] Tentative de connexion avec les données POST: Array
+(
+    [email] => micheeglele@gmail.com
+    [password] => Jefferson.01
+    [g-recaptcha-response] => 03AFcWeA7J63lfqNzMN07-QPwDNS1JlyPQdq3rPTxDKrmGM8ffhQ4pzwgDJ7J_mXTXTaiVA9hilWxP9Wtxul8tjfhmW3ahVVuAldqJtNyC3N7ltf7YKNHa83fwh3dL3Wua3NnLhkhx3gNjf5Itw_raFIAq9ykEPOMmDmRA4lnbaJTkwzdeu5YTA-quuLE2AjgfLVbgc_YppO90TcqWfMFiH2Pv9U8HBRpa84nZh-bKAJyYCdlfiygMSE2vOCwpUqOH9440UPVoFGBCtY9pMEz9M662gQt7Wo-6ROexPAyis3WycxsrN6AYeBq1Fvc5K4H6Y8ec4I3rdZ235494CusXS-FNvmafZpIHyFzL2_txKhjNazqgfFm7Ind2JPVeIgvvESQKQEhDr7aZ3uw7KLpOeAwRwqArsd2OUkHqe2c0kroQGvNoW9pdYaDy4E211C1frAkgORvH0M5b3PcmHc0joLx7u0tBNua-6eggImjV027NZUV7ysgpX0kKJFymMabhJR8ZBHs3G3Cqxn6DauSCRuvNrQeBNDlorAY9WWz3O947X43rohBdwmvvKWqq6ka9-_O0z_vrpYRDedB-E9xattH2cJO19aVAJLzEfY8_16HBv7VDswa42PVuckvZWR3luzzEIsHpMidCRJOks3A4RTUouz7hUsfm4gPGqOuLXZGheiTPo4ADk4vjsdvAt2Trqr8D5Dvr5PtgH6Nt5dBJcu5uQQLu4-_ab3SCutD9-rr6zUC_C2pJq-Nn8clb1ecvlcug34OGsajv8R9m_dIW0sndoqW_1S1w6seiCsX1cKdDud5hucdOCanhgEnZDLvY9tzq_lSmM4Cr-rAeTTg-eENW4cDESEQxERqT_4iEahcTK54wDcEDGYdUCB4zTo95gjrdfrmeN-tCwZyWwNUVYiqcZ_jw4GIo0sc_tFr7R1u21xj6dxWrlnC5AnY81WGsgpCrSQ9JVWrCkTQ4t5gEx12sB-ooMJ_9XlFMZwBwopGq05eY5wD_rc-jCLlsRBzEtQVaGraY39a3WN4BQARdZNhdcXVsJO_mg-U1N0FCDVmefAxVzEb_xT3MwuEVJUsYDq-DMZVEzZM7kH7ii9MfQOj75-WBILUC2dpmpHskdao881jA7Z7Esb2K-257KvZT3a8q5klUERQCh7Vh52zvdjCPzmVr8KI5aEp6rKfB7qek9eJ_5uOExfzpA989izVeKcKWWO6eZwYIBAxZtgpxCIM1tYJjsob_yESK24zqhw9CzLto6nTxFtaAlOMAQs9KWc0xp-lwqO_sBNtDHsT9tnnNYG31dHvOMocYDw9zXcty0MjdHCLaGkmBiQXK4j5TKUNCXnZPNnBmUAyGoW6n5UaP8yTyGKmDfH7W5VtMI7QfK3x76Dwq4NdsqY-ovz4-yDPuOi03M9LleHzI9KstXyQnBMn3g-pdLt_WrAUF3KkbD4LpvRdtRyWueG2ManFUU2LDD61N2RuAVnGSfTCw78GILdA0CNthRJIwLVhQUxRbigm02wTCRRARNPJdcaBwefPKED6WV94r6eYBm-0tznv9_OXAsDxG3pUdF66Rpdllujg0uJIrkR5QThFuHsYnV2Iz3NX9TpH6OJg1fTYsAxJI0PMN9sEK4zn0-9K8AYIYRNFWY3EiWw30f13aXZomvXNyalXSRlYPeqdzVezgwwegwT0bGhzKt0mGHvHj-v9nP8gB3jtnT6EjUtoeMP8EAfYifXX0pcsrOTiBnetxOK70U07WjKC7D61E4xiUZr7thGxisVWHGrtKVJnDoIBgyRIGubE8gjHjQa0t-NPBjZkugy9cCZFaN_GHhx86cb_910pYTqCiAW6YeGy8Wn9-WGJ7bMSDVrIWCFLq46Yz6dopCFWrC1JVW52CkUdEdefzZlMcizI573QDSBFcdeK60iilt0S8vg4jq9UpwLwJZn8w4I3ArEcvyCoDsrVFCLPgxQu0Fdd3lWSW6vTwjkpAJkuiUP1y3_XBRTEREPu0W2fCpezGHnkHagJNosJdsNrwYTpPUNuKZTlKeACmoQpzilywLE-ok1MZ
+)
+
+[2025-07-03 20:33:54] Email traité: micheeglele@gmail.com
+[2025-07-03 20:33:54] Recherche de l'utilisateur avec l'email: micheeglele@gmail.com
+[2025-07-03 20:33:54] Résultat de la requête: 
+[2025-07-03 20:34:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 20:34:04] Méthode HTTP: POST
+[2025-07-03 20:34:04] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 
+)
+
+[2025-07-03 20:34:05] ERREUR reCAPTCHA: stdClass Object
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => invalid-input-response
+        )
+
+)
+
+[2025-07-03 20:34:24] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-03 20:34:24] Méthode HTTP: POST
+[2025-07-03 20:34:24] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA6zjgsCMlQdYE_OI31PLkp-neN99TVWkQAqqpCNuLIXoY8zH2bLUWq7t0_bXJIv79PUm1LelTwE0Adug-OxasIdtH90sRiPpn5HQImsPHj_u02bpZFOyCo0p3o6NgEZ8S0SnY68Vzeisf5bzmbhh6n8O1vCJ2gwTWQ5EtJB2RiuHuQNDA7cAP2dbt3QDX_RXo1uLVDKrPyAKiK6YIdkOAm78JTbiFK-yrnOzCMDJyGCNGTwpiDcxIz_KEbTUItPf_q8sZFKs8JWDD1zyh8G4YkOWQIWZXJZXMfMBkP3IxKbjgpBmrGndGjLjoGXgFnzv6RMZ-ltPm9l5aH_KdjszMY5Moe_WWVOsywMIF0_j090Y6-bLDYdf5k2NTrveIYUWT-33dzOO8NornxTK6jZWjTmvdiW0U8psc9Ven5HuLUcICtGyP195hiL4UpK1zYCxnFV83-QOCGWBCYixjzV6zXY_vhXv5D2F2SzbunFkfZOLWS5Mn5kuLQnVR4JoUciBNScZJXh_4YZL2E_to9b2z4OweIYWh6kIMJqLREPoRO_YU53EsV1f2SJh3seyB0PvynVb0heVvqIvcV3hfIdNI3vF47MQuxsEgGgsyvcn0Fk7ue0u9DaUg6rALbNLd19B2W_URNw95gA-XOvnj-fetw34KwN_RtgLjLs9HNu-LC1vfjuWXzkiaV2zSOn-x0i9qhCnU_ulEP7XiLK-ijLivG9JxQVgeKeoP5vu6qNB7ew4saOdWoCQS9jgL4EALae-1qS8TqNVP_WX8NPqyv1-fV_6vyWekUCUWF99gt177tBGnDqmIu7ljVCb-kfPoLxXMWUj-UIlmo4gOw1jIaFHW-HFsZzt20ZXzDd96gTnJIY7XtGfu09HvSW1AedEJ3bVPIql1YTwSmPm95VDB1KQLA25ZChx5mAIxTMMAaxaa_v5qdRRBWkFfxrp4eZMloCJBzZojX0K8mQ5tWNK-flbmoryZ5bQBNmn2I6LLfxfCTWjB1hsAxLUIwJa8USWNyP2Ucsu5qS1TIKeXiLJH3kTTd5kwC_H8zetuY7fghAVcKv-bzcAWp6xmyxT-vU6DIaZqqrMjOafeQkOYaIKVTZDA6JYDs19F2IWkZsdeqDTawSIO-oZdohs10uJBx4NRKd-Ij6G35WZhdXZH5ItcXC4lDfW-v-YkqmPYWuBxhjF9Dbb7bd71y4P6KqSVSmXIXMHjbBdOdmdzpBeX_vU4AJjvMBB5ZJrkttqg6C9IB0O83EsfVfBgU0-cpJbL63sWG8VhJlVODPFUvYeglMF6A8PBhTy3tT8vS300Ieurp_2F7HYqtIizYV2jb1Fr1Fdq6zGVqQX8SiOtWSwKcjYbTJhNB9odmdGxfalTDClu3yG1wDNQ_er93ikoJTvgtAg3DfhLEL8VXBQ57LF-o8IhFiZg5221K7G3vkR7N1eCFnMxD3SK_uTM7fV20muxKUaBgYT5goajRVudCXJ0ugXLGzndGXtuVpM_2OI-Q2dwaUu4he3oJmJsmZWOtCche-T0jrUdOVAFlKq-XecgJ6V3RZAuMxl0prs7oTi2_L5TMSq6LKqIGKUgZVth22xpBQQnvkmaPoibD5KCSFYqcgzs-Qz8RZwOqt7FZ9i008oe2_av132fVcztXr_hieIAR7wX-gVsEldG50fZzzjJFozGPyV8PSKQF3W8V1MYX9F_P-YiEf5R86HP0DFzpwvpLNadEy5szC7FTlPy0IJvuSdeusqnqHbyHiF72Cht0KckoYdLebsMOXnK9H5-orDowLTrBEKCcpifLtQdYdA_b1Up1NmGetJQHQUC0IL5USgreXnqIs2kRVl5DFjRnvBllA4Cv34-pnT_kCkOJ_fWGyiPiKsU727z3vwi1Twzbh_J8oLwxS3lCMlmKgTzjEdEh0jOcjHZ47DzqOP4qSyyC3H1UE_aojEhWg0x_pfUPhqdnTYKhrp6nxIz5hx8aNVHwaX1U8YTkmJO2Dso-Fo6kXBkwJWSEzZVVWZG7yw1eQbpwOGC_iau4BlKw
+)
+
+[2025-07-03 20:34:25] Email traité: akadimadina0@gmail.com
+[2025-07-03 20:34:25] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-03 20:34:25] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => destination
+    [5] => destination
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-03 20:34:25] Utilisateur trouvé dans la base de données
+[2025-07-03 20:34:25] Vérification du mot de passe...
+[2025-07-03 20:34:25] Mot de passe correct
+[2025-07-03 20:34:25] Compte validé avec succès, connexion en cours...
+[2025-07-04 10:25:12] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:25:12] Méthode HTTP: GET
+[2025-07-04 10:25:49] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:25:49] Méthode HTTP: POST
+[2025-07-04 10:25:49] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA7Aa7sq0i4t6p11hHjFl9PTmdwMYgV4rtklGplYIaEVdoD_eGVuTTFbw19a8bDRSOVSeXotY3ih3e1X7g6Ek0tWaksddlSMyPXgBCVmqL0kzb2xPoQBtipuWmt8CGSHKfNZG7EthIxvUph6Eit79djSH7or2rE1lD9emqSN56fUdpPcZ5DrZ_INcOXtH0u5XVjJA4b4A-l2xyYF1Hh8KIvCOIon3_vHPeY6Ip60Wvr3I0dud4pgo8upuP4dmqlOd1eAgG_jh5WkhkUnpPk_0X_aVIpNIzE0t7AFwD6XxcHRTahksR8sbeK7TZOBLHowd_obWITKMogbDbNnrj8HEDPUjLuJB2O2rPOzDqssG1PqLbW1Pywz6kPeDvFTjWoESnxIyu5qUItH2CjK8kdYfJsEGlZRrltgzNVCowX8KlQuymtJkjPjXuGcqbTyatatWsOk-PFxaovHBkDMc8k-OyHjso8hU5k_QT8pNolxywtOEnAOBbpaNvXIQwT7iv6N_Ftq8oyOVeRYGWX9BNLAs8UdIekOXY3beVTlOlstwOZ0-LcqED8iZceXeXhyd7t6FIUaP96FNj7i172s4g0brycA0k67k237R20v6ER2JIhujWpwOF82ifUFmbOw2vLQPpjCcchk4e_c2bRb-S_jEHecydbnniJwO6KLs4nzOSdHIZkDJvpweknFmXunBS7j5z5y0G0RelEyUYpPUvHSr2GzJyLYDAWGYt4PFZ50742FcuMmCMangDavml7uGVcDS5SB4TIjhxRbkQuBjltnD4Mq2_iNvnKUap3hwF7xtO_5KgVtoNCmDZgxlu0-N9kUdRFmunxbLd9Wb3C7zaadhNXxn-aERxogzK_12e8qMjDJac8mcaz396FgAMWLRDyjmeAgBojVa9c6Bj63xExvsh1Ev64SmOK6b0qBpGM-tjxzUPW9ocyXdkk3CcGrOmmWxW2jjxiRNGgd4babeF3nBj5M59bM2S4jSIhHzsQ6Wab5fPliomSSLpUze9Dhj8mkytheFiKMQWv91n39z32mwIY_aQzqVMnQd-s5h8s2qiv_Ya5QKm_MqG-EwrLFSAs8U4IR62fJmS9axzoBXfR6xyF8uWe6oUCmWqDFKCzsXaxRgoOnBaILLoC8H88-HpN16_ooTDwm5yhY4SKnt-2cl-_7bGK_pEb2-Lae44x-Aszd54FYMErbghApDW-ZWr0wQxdKZUVeYXVxKv60vNeVhfE5wh9Et1j_GV8h3Me8JhKSqZLG89dEzSx6iSQOZ9ME1sO0wQqM9IVXBKSOCLyLkW7b9eVNs8JtKTv167eHEU-dLroOzw-hH0I8aRwoiNO0aTlG1Fchhl2yLBG-Aaofi9VduXeKP8y15rJa47JAxtz9jfEvickDcBsN9KmzbREHrLHRYVutOTg2giF_4_jmAxXrFBu4fz8a4I4J3OF_517rM4gHr7SQnz8PXgnWNhxTqp8IFGlH3RekJaMiLpmZZ5_9lJw3Qrx1ZC9x0bKMEITBmoeegKjxv4gLp0OQEM1Ofyyz8ybiOBPbk2BG25aoMcQgWZzBPWpRNPdt8BAlroHDZVsprs2i4UpwcgxTrvis04xDu6_LuGR0KKbXvn7vrlVBy3a7uEOP0eslEssP3m9G8fJXYN-rRjgCAd4s1SqhxQAR06AIx5qKeLLTDpgkeKxsFRZB_BbrBpf70-_07JI9DzJ5kwiCkX3XrB_NTCNgqBVS3WUzj2sjxb0EIBlNGdWv8fqas6aYZJCwFC0WZGwpclXqwAiulU_Z707Dn7QHK986yRdH4qJfQbmrnX5xsnDwui3QfECjK5SzLypt9bwsORnSRTdEcuS-8Bg47mzMmUIoyczjULyJhtHcYs7LQA_zzYDFvxKU_gckG9EJEpW3ZmV-u3khL9DZMBlE8zBjOzj-HcXx8TahG8zmrUd6TB5Iq-XSgB-0gWDy51lUGWkp0km_b8KhG-xxBRrs3r2oTAdCqelW1s1XpfYzmqKCaL-5LiX15-fqwSZgBjiq7VVuD_PyKD0
+)
+
+[2025-07-04 10:25:51] Email traité: akadimadina0@gmail.com
+[2025-07-04 10:25:51] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-04 10:25:51] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => hotel
+    [5] => hotel
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-04 10:25:51] Utilisateur trouvé dans la base de données
+[2025-07-04 10:25:51] Vérification du mot de passe...
+[2025-07-04 10:25:51] Mot de passe correct
+[2025-07-04 10:25:51] Compte validé avec succès, connexion en cours...
+[2025-07-04 10:50:43] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:50:43] Méthode HTTP: GET
+[2025-07-04 10:51:10] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:51:10] Méthode HTTP: POST
+[2025-07-04 10:51:10] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmailm
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA50Nsnd-LyHdrDyagGyMZLMaPlQK6sKCL_is28vxDa_MS3uprGdkOzKDxNa9ZF44TFdgDJcXcSOt9t3XVOkQ9FZQm7x9x-8khiTVwBNaiF47fTWVaSVKVd4D46FLgX259DT2MkzP0rzlKUMtdE6hZKp9CeF9zYV-ifvXoTLvUL1GgZzXfmx2qlKh-ZoD9KaW538KEK_a0NeE9CeCQiUNXa2_CKkdUyfky7TmsyJ_hLVpvwxEzFGEn8qgup632YoPPaQz3MUWP7D0fV7j1JUeMgy4FMUtyxpf4A8NBm81EzRs7K9jbUgr_P3bmW7MqrEDLjcEGEOkGHtnPKSMWeRr-kePQrrcLGM7KBbzsgLndFwNq4VeeEij-w1uWi0HuHEld3IsQ0cqQsCItnMdWkbvzBY6fASfoKX6iARYzKNZpYu_oO8G5dys4T0YQ112zQwtZHMaiJrABZUppKUjJfSUt-sY2TRIrnioCiM9CCyu-qThAHPmTx-OX6oZTh9SZJp9u7MFtH74CGjvfW6cjk__FbCbJFtobfdJx1LM8hyFEBhc3qkbXYslmo_eF4qhGSBtT922JLUotJEhEOJ32KW1urtFt8MD_pdQy7qFc6ENyA1UF_VlEVKkBTGQ0j7Pj6ctFiiuJz6XRnb6f-Dx6VftOuILdRbwx9l2AaRWDN-GNPAhGPoDOgh6D57Yo1Sg46HOwJfRyGDFd2iKvl9ogBmReKNslKEf39IQNVOE-cK2TZnXM6ulQQRasrpiVg6o_F9a-xJ-6ShQ0cPuP6RpF_R9pmurOqPXAsrjvXSeQkmUlZ5WQzVxP9hAIj_vMZHYUfTY5R55bA456mP_Ctgo-PkpKYuSrxysqZ49cjGvvuBjFUV4M0ZpGG2CTwayF1z5ywe8jMJlHQElSL5Sy9yJWf3pm6EiFeryqfETCOcAXg9NSACAvBWepkXYIpG46fE0AH0ZQxgDCCw5fcbJtcYfuj8nIvyQE_rlFNdYMjXJJmmwZnZ_8TbBfxAyC2VNGXw03wCXGcg37IZVHfnkJDfmkqh_9V1mzBxoQrtXsWNZSZuxgvbB9K1nGz83h1PaM9-UnQalyKrJiKfSpopl9TC89r4E4OanLoyYiuhop1oy1QtacIUyj7rj1_QojYS1G4mbi7TeqeJDAGXCqBR86Aey0tp98NMsjC7iVa6sPi2IS_kjovf9o55HtZZqOeIMrsl8GvZDbwWJDmciFhYuM7uybzJGS8uctQSrQVWUH6cR8hik6XiKsdM240m1_GRe5QikDI8cLLeTQ2cxGWyz9QVhFCs1AbRbAaE3rQ4CayCilGoX3powKuZV47gt-IRBTy3JxEDBkr9OoaeHh66C04Ec0zYujxV2q-kOQzKu25VazytzOgqqDeIGL76yu9yJTCUZeQk0Uj6iw4i_Y8O5JXc2K2aOqj_81ybA-dy34ulYLnW2K4F3VN2bBRIQFBX4WSmzgqBCimxfGfLrZPVmjVGFPVzlAhJZ8MnCE0p5okJydXA3CHmAlA_9qhvnVBCA4r52NgcxntA0tRYBnjG8m8aG26jADs8TWtrZ0HxOSHQ8srLFoKBUDgwa7CMNh87WReVBAB6mLpzlQmfCwjd0RTdK5m7nio2cwKMTN59nIQEUd56PvvDm22GFDtjLB-fXEI61T3D5Lrzde2HvL6KDlxRx_70d0V4RrjiYBhmVN9Bxcy1ifX6zgy62iNFJ-p6-TWc1qpxmBT1nhi-JwWkvaANzFogQl2XallS-jSPbNfKweF5D_bgG9G6xyfGHbS4yIVUe4hCQLZEg44TFl7fe_zYYWuxmydw0nmkKji9OZaJa2JAFZK9h57pdMAuyuqI-th7OZYHKo5NYLWIWV-8KaPsooyxUNLXAsxE4arxwQ1j_TVglPwLWJh2DYrwl-b_0PWVg1uhD_bv3BDiL5UdrVbp0VazUtNemVrk3QzcnP82xIZcgvzBu09VjPHCxoMmxh3I4fm3024RdP14N2R7vEtr7W2d8AoM-1ryBBRr3k6hvNVmywFahII8t1RdWKdqjKlilPcoiV2gB5WT
+)
+
+[2025-07-04 10:51:17] Email traité: akadimadina0@gmailm
+[2025-07-04 10:51:17] Recherche de l'utilisateur avec l'email: akadimadina0@gmailm
+[2025-07-04 10:51:17] Résultat de la requête: 
+[2025-07-04 10:51:40] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:51:40] Méthode HTTP: POST
+[2025-07-04 10:51:40] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4jFTPHZNZ1ml_GuZdB7HlwGYwSts_REkaW0ND2QqDu5OxQsKt-fNAOzA4eSzIPk_IhT0BYQot9lrNkhW928Vp1Ki9wf6bnCAx5SArz7c-k3TQRGcDRUrk2n0FSp55e1pufDvD7dwHEPM_C5qcJ9zeg3GQruPt2MEXnnJ2uB2yi8i2urERKWQ9vbZT2ajz9-vXrdr5YOeXF1LCBP4az0YfNagi5f6ZWu0ndzNti7QMf8D-q8hMWAO0SbGIUeRHpVI3FG6Ko26f9vcMlA_LY2HAD7NLO1X4G_Se-SOtMCuDnOm8-kIwZQ6gssUKw7ZBfgWiVIFBowgbnLsy86KjHUfIm8du4eewJPBCgacRAmTtnD5tx78J0QhCvRb4ZYGDb2u3DroEV5pEWOzg2JcoxqMusT8tSJbCbsy0Fr79Bo-k1_t6TTsi8NiQmkyYkt_rePOMqpASGiRqGrJWrR3U4EGo5jmqw0lkTEQW0IhRTpxUMQxDmSVEkuZieh_03m5P_oLtJmoJGItlmvFh8Uh7Ph-8oLVnXV2xAOBgdLbnc-jOSb_39tc4ZCGbNe3NnNczVKkldvdh-sPl-dwF4An7Nac3o2HzOKYTTlD-Ul4hoexzcAI5q8f5NntpjzlYMxZSDxq72y2dHnrLT0f_M9uIiyA-ZQEwW-m4ToWS1xSNwUJS3WdFXlQy9nxe2xHnxklzdVMH_v5VYdz0k7_dC6v8wjSIIjk9SSu0C5hU0PAocqnT6t2Ex50Wqur7VGiM5awNhhBNijyLijIykK9AV7sJlCK87BTgBOrlxiW2LcljWxKObA4qxLOlkT4igXxdIe-XZLzMaZ6kX_sjKYmAUoaXTA2yh5QZyv0dFeOtgdKYVbiH8YA4-gscsy7bQHbkhUeOuzcEniXVqZKQ6iDTukDrM1w3W0-m-AfCf0wusmZvXtClM105WW5rYx1CGtXPUEPJsZnzpTKIWtS0FIUhifVgjAUnV0AkM-mChYlNO4CYYgW3dELpTFY2SdFGL9mX6h-Z5_It3Yfrk8PaEEXmAO-otPCasvFlI49iyACbdrR7hxfqv1WEDG7yDR1Ug9h4TPJT2U2gLZCoooYuLU3rSKVou-KdxIJCSrIam1yGEkrmS2Uy4A2FifpHUhkU0JV9-y3q7J6dmSxsZFMFhG6wPFFv_DWuIb9aXrmFKqo89VXLzFI9hTWUUkjzp0iOavMzNGvmVWwGIK837ep9KQlDoIqsJdGo8RtlKefSIavCWQ8ugNUtJ3CjjcP1d1zuC1vTQbHwfRldajAUybhdeRyiWiM7RTTsTIKuMnS-3gkSo0DBBD-_disKygnIbJ1RTC5btstCFDkYd8NRWQl4maOLGh-T_yDmSS5enkn2JCw0-k-0tzLFWzkkrW9OG_itPzrBik9EP2nM5CRKDAcmjD6PyynQJAKfojEeM2-CdZmQfJgMAwoJUW7H6ry5jzCfSOakpur-IKXYa6RG8MTHjbD3oLGOaSuAkdRDGqL_3he3IxEIOweSZIMgUmrFSrVAqkbU7BqqMiKlp1YrV0c9gDgNHAZJtUy_bF_nQg4Ts9MJaVCYXcg08TZQ8LhxdeUMleHEQlmgnGOViGgbDtlc8Y68T5_wJRrd1JqA1m853X0LWFly1eJS1sppKjYnH3vvyFW5yHAosZZ2wdteS9GSjZ2psjcfg5uuwgrdKRPWnCk9N2rgXCyZFQpe2TiQ9O4j1T1WaVyfFZqG7fRfqzT1q1oQoDCnUBPBCwAeao2i6lsAk82poYryNpTSXm9ldZXEYHhyklQyHVazUA1P9V3_iagTy78nlHBHHemKrn2-VZg6jQ1Wd4AjzRrTyyvB3KEVhQB2rNwhPFqRj1o_vjnTlXsG6TL4NP69DFfRf0LFjS-hzflofVo46bW_2P-EMgA6jnxOJwSFtuNzukVZV-__gixrNGDLUAm3hFt5iYYC-LTcXRlqKZAmkseoekctoguTaxVP4NQXi5bZLyfF7QFqVnEslI2DHEEvgzSy5J2DcnuIppGtDeXYuntuZNlo
+)
+
+[2025-07-04 10:51:42] Email traité: akadimadina0@gmail.com
+[2025-07-04 10:51:42] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-04 10:51:42] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => circuit
+    [5] => circuit
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-04 10:51:42] Utilisateur trouvé dans la base de données
+[2025-07-04 10:51:42] Vérification du mot de passe...
+[2025-07-04 10:51:43] Mot de passe correct
+[2025-07-04 10:51:43] Compte validé avec succès, connexion en cours...
+[2025-07-04 10:55:16] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:55:16] Méthode HTTP: GET
+[2025-07-04 10:55:37] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:55:37] Méthode HTTP: POST
+[2025-07-04 10:55:37] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4gh0zpXc6AYcjMcKAxio1a3ZYK6GXRW3H_M7VCUWDkhcE4qFgjuz-SqeOpBkH38Xim9I0VnL9HSisk9_zsT0suZ3d_LTkTo4SSYXmIWL0xnU_JkwRl8ieML1vLsdU5Gzkqcnxh75DLiIQpXv36RowIeTQzn3eqiXomkoA8IyUWgfxJhbSl7-02nmJI-0ONLfl3sTOGQPuCgC9msAfVt46j-_oXXwlNz-ahLuYM2EIQ_2qhPhxntMaPuOLQyS_ctwHIHdKaFIZ-qUikg_hhtGb_sbDEUFAl9gGHezDSxtyXtPlXfgA9L2z-iB23E4WAl6j3p9Z9ZZtGOX_ND5RjbCZlDiBIEA8AiYSU5r8_DbtfxMq_j0ssYZkf5J-rVP_WpxK5CyPQQuOI12kYAZJoifo_q7mibMKCCHoJTOKOb5K8rHd0a23gzGg55RhEYpRtXLDMB6Hg3eivBIn_Fmri5fJMEMo3V065yRv4XK6nwH7MAo78G1LNFhCQjE_AO8xeWqK04oK4TwHQkZnuEGNpboYfw6jjNAWJr_fPbtt5_8AunhUfZXJtPgCtlGRvKtZeBZmtjnxi2aMIvQ1TQM1dOSfBJCv5AtUHkYRldPdImTSiMla2aSqb0cvUcYsRs6Sk2Z5RK60Jt3dg8_7w71o3pRsMI2Hdx2tsQ650HBen6YveodNAjwBaN451mNvattZS7ZTVk91JQ8AF_KHxwWbevevgmX7zhE3IwGO-gI_M8Q_vxBhKLJXSLVLLe-X5Yd0moUaeUXG_tKMEVIenmbL4l8xQH2pQe6PpW_zp5_ucKV6uGKWTevu8SHdiwBeWc4OBXYdvG6WQG6TMuhKrTlV9OefOXmJRP368AxpyWQPOQm9KTi5LdEdeco5SucF6H2FelPI71XaiB-uowaITDoUrRgnxNZr0HTUkh_U9ZTydo1ib7zBNaXNS_TBnesiJbPxPODwf7nvILI2IfP13NngabLZIA-Fs_pxGT3HFiYQa0hfBAzG31q-DEauvzbBwJhZYeNI6_8SPursViy4rBVHc381mHiZ3vPxuRPFrQy-NOQQ04-lwQ4ZVROyHV10ySCERTJhgzlITXm9O5XqCFKsSLrVcECkC_cnXbzimnUerLgBpXsfIfQPF9f7V4SdKiLee1N5i45pc_MJ1AsdNXOfc9p6AmErxWG6sfesCoz1EnNRpQcdOqKPjvYLUMrPh4GB_KPRd2VnY1IQObXER0RvlgYUvGjwP0dAwJc3V3sX_57kdZeBArRBkTclO9pdKQKksn4vG0eUD2P95bVnBgmYjwdPQK50ypsfhUyzk_Qsctz6a3Nm9RjwFCCbEg2SaUqjlw6zNX5G3858wlJKmOXumal3hxdbnIFxkatXDBSblCfAkqpTVWYb6h1q3vhI4POUDF3cLT0BLe6jRU3AvxUosJJVFMw0vzjjIYnIlvTd9D0F6uZ9CHOEvlzNUaEKEHX2YS2rwWuO9g2ia385ecWGuJVfamqZvlHbZC5pxmaQxWLTeuKvVfIJ0Zoh64BpdP5f-k5NKbhqxfBGFZA9d2dAjT3f6NcJngdtROvqcDDrNqZOmosFvP7Zx9ERvWd7iSBCR81HJLoe1dBAEMCGf8_3qXAQCeQxMhEcu8LC1hol_xHP29tepUZI6Caxw4IQdCv5iyPdGPxnIqxv2yqZMR7ANmj268T32e9_rBsN8_3DzStGqOmKHgk5mgolqz-gq8bRfO_mIz0RC6LNX9a7Ur958ug3kMwjM7oG2b1swkWi4Ba3k6HP3XVjcLiKrFTxoRa9F_NlFdlxs-wDTGoYjstyaK9Xd6WQ0UXNRGhto323SrXYGnhot9vl7EP9rjOsNi1-h-sdRVpHcYRd7E_s6zJKXbGCntcMVtuYTwRAmVIcB4sStr8UMMZLhxDPhjf0t-H1co5ijivIw_DcHnnrWYaxTt-kea4ls5KL-EQJ2E9gM5tznacbfN-3-8xiVBAZS1MKocOOkg7vh8QldIXRl5GmKB6223e5tgnAGb2uXRLrQnB1zZnyyfH4ff6AJ300bweX0mDWGj4Qc
+)
+
+[2025-07-04 10:56:38] ERREUR reCAPTCHA: 
+[2025-07-04 10:56:38] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 10:56:38] Méthode HTTP: POST
+[2025-07-04 10:56:38] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA4gh0zpXc6AYcjMcKAxio1a3ZYK6GXRW3H_M7VCUWDkhcE4qFgjuz-SqeOpBkH38Xim9I0VnL9HSisk9_zsT0suZ3d_LTkTo4SSYXmIWL0xnU_JkwRl8ieML1vLsdU5Gzkqcnxh75DLiIQpXv36RowIeTQzn3eqiXomkoA8IyUWgfxJhbSl7-02nmJI-0ONLfl3sTOGQPuCgC9msAfVt46j-_oXXwlNz-ahLuYM2EIQ_2qhPhxntMaPuOLQyS_ctwHIHdKaFIZ-qUikg_hhtGb_sbDEUFAl9gGHezDSxtyXtPlXfgA9L2z-iB23E4WAl6j3p9Z9ZZtGOX_ND5RjbCZlDiBIEA8AiYSU5r8_DbtfxMq_j0ssYZkf5J-rVP_WpxK5CyPQQuOI12kYAZJoifo_q7mibMKCCHoJTOKOb5K8rHd0a23gzGg55RhEYpRtXLDMB6Hg3eivBIn_Fmri5fJMEMo3V065yRv4XK6nwH7MAo78G1LNFhCQjE_AO8xeWqK04oK4TwHQkZnuEGNpboYfw6jjNAWJr_fPbtt5_8AunhUfZXJtPgCtlGRvKtZeBZmtjnxi2aMIvQ1TQM1dOSfBJCv5AtUHkYRldPdImTSiMla2aSqb0cvUcYsRs6Sk2Z5RK60Jt3dg8_7w71o3pRsMI2Hdx2tsQ650HBen6YveodNAjwBaN451mNvattZS7ZTVk91JQ8AF_KHxwWbevevgmX7zhE3IwGO-gI_M8Q_vxBhKLJXSLVLLe-X5Yd0moUaeUXG_tKMEVIenmbL4l8xQH2pQe6PpW_zp5_ucKV6uGKWTevu8SHdiwBeWc4OBXYdvG6WQG6TMuhKrTlV9OefOXmJRP368AxpyWQPOQm9KTi5LdEdeco5SucF6H2FelPI71XaiB-uowaITDoUrRgnxNZr0HTUkh_U9ZTydo1ib7zBNaXNS_TBnesiJbPxPODwf7nvILI2IfP13NngabLZIA-Fs_pxGT3HFiYQa0hfBAzG31q-DEauvzbBwJhZYeNI6_8SPursViy4rBVHc381mHiZ3vPxuRPFrQy-NOQQ04-lwQ4ZVROyHV10ySCERTJhgzlITXm9O5XqCFKsSLrVcECkC_cnXbzimnUerLgBpXsfIfQPF9f7V4SdKiLee1N5i45pc_MJ1AsdNXOfc9p6AmErxWG6sfesCoz1EnNRpQcdOqKPjvYLUMrPh4GB_KPRd2VnY1IQObXER0RvlgYUvGjwP0dAwJc3V3sX_57kdZeBArRBkTclO9pdKQKksn4vG0eUD2P95bVnBgmYjwdPQK50ypsfhUyzk_Qsctz6a3Nm9RjwFCCbEg2SaUqjlw6zNX5G3858wlJKmOXumal3hxdbnIFxkatXDBSblCfAkqpTVWYb6h1q3vhI4POUDF3cLT0BLe6jRU3AvxUosJJVFMw0vzjjIYnIlvTd9D0F6uZ9CHOEvlzNUaEKEHX2YS2rwWuO9g2ia385ecWGuJVfamqZvlHbZC5pxmaQxWLTeuKvVfIJ0Zoh64BpdP5f-k5NKbhqxfBGFZA9d2dAjT3f6NcJngdtROvqcDDrNqZOmosFvP7Zx9ERvWd7iSBCR81HJLoe1dBAEMCGf8_3qXAQCeQxMhEcu8LC1hol_xHP29tepUZI6Caxw4IQdCv5iyPdGPxnIqxv2yqZMR7ANmj268T32e9_rBsN8_3DzStGqOmKHgk5mgolqz-gq8bRfO_mIz0RC6LNX9a7Ur958ug3kMwjM7oG2b1swkWi4Ba3k6HP3XVjcLiKrFTxoRa9F_NlFdlxs-wDTGoYjstyaK9Xd6WQ0UXNRGhto323SrXYGnhot9vl7EP9rjOsNi1-h-sdRVpHcYRd7E_s6zJKXbGCntcMVtuYTwRAmVIcB4sStr8UMMZLhxDPhjf0t-H1co5ijivIw_DcHnnrWYaxTt-kea4ls5KL-EQJ2E9gM5tznacbfN-3-8xiVBAZS1MKocOOkg7vh8QldIXRl5GmKB6223e5tgnAGb2uXRLrQnB1zZnyyfH4ff6AJ300bweX0mDWGj4Qc
+)
+
+[2025-07-04 10:56:41] Email traité: akadimadina0@gmail.com
+[2025-07-04 10:56:41] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-04 10:56:41] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-06-20 17:14:10
+    [7] => 2025-06-20 17:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [google_id] => 
+    [9] => 
+    [dateend] => 
+    [10] => 
+    [reminder_sent] => 0
+    [11] => 0
+)
+
+[2025-07-04 10:56:41] Utilisateur trouvé dans la base de données
+[2025-07-04 10:56:41] Vérification du mot de passe...
+[2025-07-04 10:56:41] Mot de passe correct
+[2025-07-04 10:56:41] Compte validé avec succès, connexion en cours...
+[2025-07-04 11:33:04] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 11:33:04] Méthode HTTP: GET
+[2025-07-04 16:22:57] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-04 16:22:57] Méthode HTTP: GET
+[2025-07-05 13:38:07] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-05 13:38:07] Méthode HTTP: GET
+[2025-07-05 13:38:41] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-05 13:38:41] Méthode HTTP: POST
+[2025-07-05 13:38:41] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA5rZ9Cg-fNAACfekHPjSlmiUlQVoeT1EChibnUo5Ywj8H_ky3O5iTj5BhPSfC-kSOIe-79OVdzVscM1qN3evMFsb33N5U8uMBUmJFez-qPJzCZ5-SV9MYMZqYZxUwKEfRmud_kNOd-7fdaUPbxA0GrqLlBNTBpPYcJNXNI4Hv44-MM7cIPAOFyy4Xb9JC9Zq9J3VKS6nSp_G0ipp_8MnRUSeZFGKP-C4KrCknEs4fRDfG4RQfyr0UvixB8Q7lwUN0OlnuaENdg0ruzYOzsr0LSRdONTgcENy0rbU-NQShZTpGxARXAhaicoxi7NO61uLrowaCA5puFD6QXKDwg6dtStWp7r8PsRr6WNfALupcUgdGQggxQzzL_I8TlqGQA_g9OagElhdu4Y0P4weZCIF-7FOSjIugBG9k4NgUXbfbA0xWkKxWMg6dGe1yBULqm0NgmKp75qrBoQkSe4QscOcusZB_i-nDSpHMR0uvV6FhmotY5dgU9o7KVc2RjObLqccenk8iDoX7_mtP0aN4-P1ptzo4WyS2GXxzkRVZhDfnmB5eoZUAN2O68Fr2MJwYpkRficDrTR15tX0U10BcQXCYRBudr4UZEjxfuWQqjluAC8gNAVSHOYYNYmZf7XwzJL6anY2FXszKxdTiKYeukOEAmhixtus1JNV0Th8OIeZRyPmQstcP8z0ufCfXP2vzcpcV7MNQuS3udblVyZVkYMP0K4v1RxuhHTNZRKBGNRcjLkf2Q36ClACGME1tagEjnmxO1srPhvG4uH8_EDJztq7Q4SGwx-z1V3erf-wytnOpVn_ykWJXbNuFGtVd_OTIA4wPGlqGPcPld2FZJn85GI0zgNrTr5Ia5_ntvrQPPVMxiZiiSrzbfpZjBSmoqkPUnO9_rwYlDCTNF-RYHgY6mP3W3drGEMBYZzroFnKl5Ur-tZdrafShsu7IKfJ0hYkAS5qKOTxbXt_go9lkFDQLDmKfi3ZY4icxI15C47FKlZ12pAlnw437YL3MG9eZ3pWql0J8s1ikbhNchVqwpUGqmPkNvwrB8kX6AC_wOmP41plVI-FUGOOLdWvETiyg-qoG8DH2fWBTe6qpvgsXuXejNP4YjTt70iNfNouyUzJzbg1EalcgwNY6OykInMDVCjJYhpb_y9vOgIswZ7iBXHy2rmDiRzw2YJPbmBst3zmA7p2yqIJHLsEqQguRMhP2bZglXD4wPboyEVS-4nJgn6tN6Qu3eB4_y4kJihv5rxLm_QDDIos3eYtfWfA8-l3qL4pCsHaB0U_s3o2hfOs1D-4-xOm3HSu1fEIwWGvLZinFa3CkagCX25RUs86YPjXAHeEq1lnBEQBtTBkt1jJjFEPtpG7pGYKcFBhwy7AWrM-rZ62Ugas3YhahZpcKBHBwJ5KBp1ioKOL67ACXDQzHuajGazbu3-nACmhX--aMt9R2-wrNIQhQtORwK4ymLuegTAhkD2OIYUbCNlAPVMINqqXOSqT2Y-su7NBOWAnjLfBXWtpY4OXh7kEw8p8iu4Vhjw6eXqepzTsVuc12JmIu-NTDHbZSE51f4NBgiv2jl1po3Vm4jPvt7Dyst9bUYBc-bc9F8Y79QZ4WkvRcDK4j1-7nkg2nCDHkjwPeDaSmhK0JwY8XSt2Y-16_0sCmwTLr9RVyxcgVPv7B0H35qzeisRHxaA5ESZNP4-KdsU4t_epaMIelpzICfDHkuI6wwzmXWI81mHVguxWk1c2ZV2zV38d7ODCIpMncjPiJJurOwbwTOt02pJaV7yqljAJl-biHm07laKzifa8MnNFIemtJ9B-GspKUsXlwFpTHp2zfViqTBYAA4jR64JmzwXyuItuGRguMdjhyT5tTZ6IkuRWkdYjAs1Bb-zsNQY8aTIb7a-y5iIdH1hE_opu2t71ZO7V2pPAsIfoGqw6TCG3RTSefx4mVrLJJj8AN6ETFxZX3D77h6h5eF_SVyL0HOo5ip3gxLm6uN48rXA2N4Zw3NehQES0PUIXT1c6woWy78TWhw5P5d6o7xwreohvG2b5Axwr9zQtqJoJOl0AtZfKJIyXn3Xdg2J8ecMSqtkdA
+)
+
+[2025-07-05 13:38:42] Email traité: akadimadina0@gmail.com
+[2025-07-05 13:38:42] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-05 13:38:42] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-01-06 16:14:10
+    [7] => 2025-01-06 16:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [reminder_sent] => 0
+    [9] => 0
+)
+
+[2025-07-05 13:38:42] Utilisateur trouvé dans la base de données
+[2025-07-05 13:38:42] Vérification du mot de passe...
+[2025-07-05 13:38:42] Mot de passe correct
+[2025-07-05 13:38:42] Compte validé avec succès, connexion en cours...
+[2025-07-05 13:41:03] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-05 13:41:03] Méthode HTTP: GET
+[2025-07-05 13:41:22] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-05 13:41:22] Méthode HTTP: POST
+[2025-07-05 13:41:22] Tentative de connexion avec les données POST: Array
+(
+    [email] => akadimadina0@gmail.com
+    [password] => password
+    [g-recaptcha-response] => 03AFcWeA41yTHV74FeNcC5g2l3Q_mrv3n4md-C-KLyJrIZ8Sh7rYmowDYbkMF0L37f9F1MkZwvVvYipWSeQ6VxAca7hcoIq9WQr27vtF5mAcqmT5c9df4AzglgjOyAuI9qqdYaJP_k1t8PzdnRubKeGORPCpwRuQPutr6exsMk4KfQMHMRET3DkkLoxAUy0FTJXu9VJuyvaiQ-2al-z1QX_DdnVjYGxzeymviNhklhkU3dgWsqBohfhsa0_roz3Le7Y96YJqZxcB7ueBtqNvIedROvubFwRHdLjwBu56cNVn0uUxafrj_KLlvH9bXFYhr6CWwLe34wGBkxLPmLXT7Zk8HXEYWFSFoo3dCVvGglppAxFASMdDnTQADrQeY7pkpAK7ngwbzuQDxBzOsS_NSzZZ59qlxsUmyQDqJF6V2NvrL168n6Bj2vHK1MVzzgiNpeUaf9iFOx1v1tXSrA8qIZj91ykB1KFyArCtsUUGLUgdUZ6sjLOhkne2mUJBxdD9BRgo0NzuDRbbprJO2y8i8f1P0H2QleKr_y8RVNrK_-2y-l20kSFMu8tgmNH6m2PpybLDAbO6SVv9MkBwfQGbZLWyQkpJt4e9OT7Fdd_hVhwSuUHXwTRvnX7q1fNJuQtZwosrBCeioSuiYyYwilQC6xEBI67Qo-ZMVxLicnOI5oR7TDdZ-N2c9Gt606rWSem0wPGFWyIh_D5ubiTOmLW-Q94D5qylm3vh-ECj0Pde86SCQeUIJncjasEa716oo3n_ef8DOBCugmVhcmrqIMu2cUwZAne-w1rUpjU1vLhh44q9WOLJDfGBCNCgB_hsHL39GKXfXMYdYvg8P4H6_2xTTTe-BeUs2LimjCxxDQfYlGXSLd_HJHTCeNWPGWWRaVWIz2tEuVup9pSbEcg8dVHDNj9hYuxDwz0-THtJDOFN2H9FCEpxevcatoInIdOyf_Arj9sotfz0GHrJIg2Frwco05UzfZqL8s6W1V19hfJo8P0ZVz7PESo1l9z3xoQEcs6ZAy5PLfqRf6QdlVefDPiYzkla9SJr-MgTXTlTjem0kv3bW7lmFWSLKP8LhrQEwhSfaMN20tU0u5vwKLrILaNvhB2VmwXKzST_YJFzKmss-51GzcO8DgFxHU-xm6wVuc1BCbH4eb_AlB2T0RENm-6zdDNPQAZn6uHWAhx2Ak25qb7LID4NOMOJKRIaeMQ2dFO49cFOobx5-Sqbf8wiKvhkac9L5ouaBmy_RObyDbyRxO6T1jvk_R2O_Ov6v7oE4duqQK0JhLS8VBgAcj4YpIWRGTpvUSgT-bATJvkf83VrgQFY4mAnXYWyck2hHT38GlNffn-nYabdsyzgHCqBVLLbOcO1HuKQyhb8AUL_xQXjQMNqB9MjD14MC5qNQXHH-EHgJKKvXH_zj-ncb0S_l4Nbnvv2hwgGE17vdhmfdPkqnFafZIUuBQBHsIaBu54bl0_jskEC7KJte1xldQhMBQkxOwbmuJTwWyashyfpU57_7YHeIoUTCaUNpMO00hXrriRnzqGRDYRlm1WFlREmuSI0kHjwyvpSL4kALVqpylxfDz5Lxbq8HBdiQxNxMTsObIAKA5T2jC2E5rhI2VAH00PenMKQpW7QU-i-1wvAgpNsChP36H0cXQsaIRHcaGWDNXatE-Bdvlp3cUvlbjQ2Br0FQxy--NHMwI8UA4yfCVL0e8irLRkvgmVR5IYroztM2WGD0MHCpctlCL56nIasxqNuGlrcIGGL5xvZ6pqO0uD43kbfj9LYp91TrPv7X6Wa1OtNiYgvh8jZIYg0kjZIHCEzq7ZV4m-tsBawDzFU76dZ3GJGLM3zI6hjaQgTb8YCvSpKaNwX4nhnMWx9XuOR6nhBokDHU7_b7mN_pON-mZqeCG8jnme3ehhQDxOis9i49jYmMTzFKUT9H3s691y5m34Lot_aWT1hFv6bfwNlN8M88isVh01g7ipUxUkKMmefp9OR8i0ZfE7VEkUQa1Q9T5lwKHKkzlkUWaR2NYYZR44MbrYFQ9ig2e_QagNbeepl6ZSlEgnk-wcnMIpxd5hc1lD7O2sLGNofMPLeVT0sRAI-y_Jb12_k7V3Wf7L1w
+)
+
+[2025-07-05 13:41:23] Email traité: akadimadina0@gmail.com
+[2025-07-05 13:41:23] Recherche de l'utilisateur avec l'email: akadimadina0@gmail.com
+[2025-07-05 13:41:23] Résultat de la requête: Array
+(
+    [id] => 4
+    [0] => 4
+    [user_id] => 4
+    [1] => 4
+    [nom] => DINA
+    [2] => DINA
+    [email] => akadimadina0@gmail.com
+    [3] => akadimadina0@gmail.com
+    [telephone] => 0164780067
+    [4] => 0164780067
+    [type_compte] => evenement
+    [5] => evenement
+    [statut_paiement] => valide
+    [6] => valide
+    [date_inscription] => 2025-01-06 16:14:10
+    [7] => 2025-01-06 16:14:10
+    [mot_de_passe] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [8] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [reminder_sent] => 0
+    [9] => 0
+)
+
+[2025-07-05 13:41:23] Utilisateur trouvé dans la base de données
+[2025-07-05 13:41:23] Vérification du mot de passe...
+[2025-07-05 13:41:23] Mot de passe correct
+[2025-07-05 13:41:23] Compte validé avec succès, connexion en cours...
+[2025-07-05 16:52:56] === NOUVELLE TENTATIVE DE CONNEXION ===
+[2025-07-05 16:52:56] Méthode HTTP: GET

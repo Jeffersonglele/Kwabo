@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "fedapay/fedapay-php": "^0.4.7",
+        "google/apiclient": "^2.15.0",
+        "erusev/parsedown": "^1.7"
+    }           
+}
