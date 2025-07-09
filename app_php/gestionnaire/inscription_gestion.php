@@ -6,7 +6,7 @@ include_once("../config/database.php");
 require_once('../vendor/autoload.php');
 
 // Configuration de FedaPay
-\FedaPay\FedaPay::setApiKey('sk_live_XTmVwujCVI1dFJgnlqoFOnsG');
+\FedaPay\FedaPay::setApiKey('sk_live_nYOF4BVxWsJgA_RQcx68xq88');
 \FedaPay\FedaPay::setEnvironment('live');
 
 $page_title = "Inscription - Bénin Tourisme";
@@ -1073,7 +1073,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 // Initialiser FedaPay
                 FedaPay.init('#pay-button', {
-                    public_key: 'pk_live_ofMQqOjQ0sb13i9drWrfQrPD',
+                    public_key: 'pk_live_18wV1aZkcnVUdq5stp66NMGg',
                     transaction: {
                         amount: montant,
                         description: 'Inscription - Bénin Tourisme',
